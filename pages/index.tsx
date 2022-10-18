@@ -1,28 +1,36 @@
-import { useState } from 'react';
+import Link from 'next/link'
+import Head from 'next/head'
 
-function Header({ title }) {
-  return <h1>{title ? title : 'Default title'}</h1>;
+import metadata from '../libs/getMetadata';
+
+export default function HomePage({ metadata }: {
+  metadata: {
+    name: string,
+    description: string,
+  }
+}) {
+  return (
+    <main>
+      <Head>
+        <title>{metadata.name}</title>
+        <meta
+          name="description"
+          content={metadata.description}
+        />
+      </Head>
+
+
+      <h1 className="title">
+        Read <Link href="/posts/123">this page!</Link>
+      </h1>
+    </main>
+  );
 }
 
-export default function HomePage() {
-  const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
-
-  const [likes, setLikes] = useState(0);
-
-  function handleClick() {
-    setLikes(likes + 1);
+export async function getStaticProps() {
+  return {
+    props: {
+      metadata
+    }
   }
-
-  return (
-    <div>
-      <Header title="Develop. Preview. Ship. 🚀" />
-      <ul>
-        {names.map((name) => (
-          <li key={name}>{name}</li>
-        ))}
-      </ul>
-
-      <button onClick={handleClick}>Like ({likes})</button>
-    </div>
-  );
 }

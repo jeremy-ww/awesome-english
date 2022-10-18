@@ -1,7 +1,7 @@
 {
-  "name": "awesome-pronunciation-phrase",
+  "name": "awesome-english",
   "version": "1.0.0",
-  "description": "",
+  "description": "English that you'll need every day in workplace",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -9,9 +9,11 @@
     "build": "next build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jeremy Wu <jeremy.wu.real@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@emotion/css": "^11.10.0",
+    "case": "^1.6.3",
     "next": "^12.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
