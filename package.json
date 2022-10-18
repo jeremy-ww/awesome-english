@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "start": "next start",
-    "build": "next build"
+    "build": "next build",
+    "lint": "next lint"
   },
   "keywords": [],
   "author": "Jeremy Wu <jeremy.wu.real@gmail.com>",
@@ -22,6 +23,8 @@
   "devDependencies": {
     "@types/node": "18.8.4",
     "@types/react": "18.0.21",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
     "typescript": "4.8.4"
   }
 }
