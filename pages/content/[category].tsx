@@ -30,10 +30,10 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           >
             <div>{v.word}</div>
             <div>
-              <audio
+              {/* <audio
                 src="https://jeremy-ww.github.io/awesome-pronunciation/public/audio/denominator.mp3"
                 controls="controls"
-              ></audio>
+              ></audio> */}
             </div>
             <div>{'phonetic'}</div>
             <div>{'reference'}</div>
