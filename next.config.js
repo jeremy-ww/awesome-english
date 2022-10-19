@@ -11,6 +11,15 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const moduleExports = {
   reactStrictMode: true,
   swcMinify: true,
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/general',
+        permanent: true,
+      },
+    ]
+  },
   // Your existing module.exports
 
   sentry: {
