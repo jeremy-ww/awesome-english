@@ -27,8 +27,6 @@ body,
 }
 
 .content {
-  padding-top: 3%;
-  padding-left: 5%;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -41,7 +39,7 @@ body,
 }
 
 /* Small devices (landscape phones, 576px and up) */
-@media (max-width: 570px) {
+@media (max-width: 576px) {
   :root {
     --nav-bar-width: 0px;
   }
@@ -55,6 +53,11 @@ body,
   #__next {
     width: 90%;
     margin: 5% auto 0 auto;
+  }
+
+  .content {
+    padding-top: 3%;
+    padding-left: 5%;
   }
 }
 

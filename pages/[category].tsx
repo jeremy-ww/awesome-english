@@ -42,7 +42,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           >
             <div>{v.word}</div>
             <div>
-              {v.origin.map((v) => (
+              {v.origin?.map((v) => (
                 // eslint-disable-next-line jsx-a11y/media-has-caption
                 <audio controls key={v} src={v}></audio>
               ))}
