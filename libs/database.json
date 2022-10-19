@@ -1,15 +1,157 @@
 {
   "glossary": [
     {
-      "type": "email",
+      "type": "general",
       "content": [
         {
-          "word": "regards",
+          "word": "interpret",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "expire",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "process",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "current",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "hydration",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "paste",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "migration",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "basics",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "compilation",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "compile",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "compiling",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "origin",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "original",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "computation",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "multiple",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "tutorial",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "scratch",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "directory",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "associated",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "prerequisite",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "illustrate",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        },
+        {
+          "word": "interactive",
           "origin": "",
           "phonetic": "",
           "reference": ""
         }
       ]
+    },
+    {
+      "type": "email",
+      "content": []
+    },
+    {
+      "type": "diploma",
+      "content": []
+    },
+    {
+      "type": "algorithm",
+      "content": []
+    },
+    {
+      "type": "",
+      "content": []
     }
   ],
   "expression": []
