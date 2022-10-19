@@ -143,7 +143,14 @@
     },
     {
       "type": "diploma",
-      "content": []
+      "content": [
+        {
+          "word": "certificate",
+          "origin": "",
+          "phonetic": "",
+          "reference": ""
+        }
+      ]
     },
     {
       "type": "algorithm",

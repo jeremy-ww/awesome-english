@@ -18,5 +18,10 @@ body,
   max-width: 70%;
   margin: auto;
   padding: 70px 0;
-  gap: 20px;
+}
+
+:root {
+  --nav-bar-width: 150px;
+  --nav-bar-focus-bg-color: #eee;
+  --border-radius: 5px;
 }

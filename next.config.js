@@ -11,6 +11,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 const moduleExports = {
   reactStrictMode: true,
   swcMinify: true,
+  experimental: { optimizeCss: true },
   // Your existing module.exports
 
   sentry: {

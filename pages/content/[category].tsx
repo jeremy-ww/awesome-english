@@ -11,6 +11,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
       <main
         className={css`
           margin-left: 200px;
+          padding: 50px;
           flex: 1;
         `}
       >
@@ -32,7 +33,6 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
               <audio
                 src="https://jeremy-ww.github.io/awesome-pronunciation/public/audio/denominator.mp3"
                 controls="controls"
-                controlslist="nodownload"
               ></audio>
             </div>
             <div>{'phonetic'}</div>
