@@ -24,6 +24,7 @@ body,
   --nav-bar-width: 150px;
   --nav-bar-focus-bg-color: #eee;
   --border-radius: 5px;
+  --primary-color: #333;
 }
 
 .content {

@@ -26,6 +26,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
 
               div {
                 overflow: hidden;
+                color: var(--primary-color);
               }
 
               > div:first-child {
