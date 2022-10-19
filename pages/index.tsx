@@ -19,7 +19,7 @@ export default function HomePage({
       </Head>
 
       <h1 className="title">
-        Read <Link href="/content/123">this page!</Link>
+        Read <Link href="/123">this page!</Link>
       </h1>
     </main>
   )
