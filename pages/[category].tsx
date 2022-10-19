@@ -19,12 +19,14 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           <section
             className={css`
               display: flex;
+              padding: 10px 0;
+              margin-bottom: 10px;
+
               > div {
                 flex: 1;
                 display: flex;
                 align-items: center;
               }
-              margin-bottom: 10px;
             `}
             key={v.word}
           >
