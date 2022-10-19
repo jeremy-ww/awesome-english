@@ -1,10 +1,24 @@
+import { css } from '@emotion/css'
 import Link from 'next/link'
 import React from 'react'
 import { Menu } from '../types'
 
 export default React.memo(function Navbar({ menu }: { menu: Menu }) {
   return (
-    <nav>
+    <nav
+      className={css`
+        position: fixed;
+
+        li {
+          padding: 10px 0;
+          list-style: none;
+
+          a {
+            text-decoration: none;
+          }
+        }
+      `}
+    >
       <section>
         <h3>Glossary</h3>
 

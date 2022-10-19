@@ -1,6 +1,9 @@
 import Case from 'case'
+import pkg from '../package.json'
 
-export default {
-  name: Case.capital(require('../package.json').name),
-  description: require('../package.json').description,
+const metadata = {
+  name: Case.capital(pkg.name),
+  description: pkg.description,
 }
+
+export default metadata

@@ -5,23 +5,41 @@ import { getContentById, menu, paths } from '../../libs/api'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
-    <section
-      className={css`
-        /* Inline critical CSS */
-        display: flex;
-        height: 100%;
-      `}
-    >
+    <section className="container">
       <Navbar menu={menu} />
 
-      <main>
+      <main
+        className={css`
+          margin-left: 200px;
+          flex: 1;
+
+          > section:nth-child(odd) {
+            background: #f5f5f5;
+          }
+        `}
+      >
         {category.content.map((v) => (
-          <ul key={v.word}>
-            <li>{v.word}</li>
-            <li>{v.origin}</li>
-            <li>{v.phonetic}</li>
-            <li>{v.reference}</li>
-          </ul>
+          <section
+            className={css`
+              display: flex;
+              > div {
+                flex: 1;
+              }
+              margin-bottom: 10px;
+            `}
+            key={v.word}
+          >
+            <div>{v.word}</div>
+            <div>
+              <audio
+                src="https://jeremy-ww.github.io/awesome-pronunciation/public/audio/denominator.mp3"
+                controls="controls"
+                controlslist="nodownload"
+              ></audio>
+            </div>
+            <div>{'phonetic'}</div>
+            <div>{'reference'}</div>
+          </section>
         ))}
       </main>
     </section>
