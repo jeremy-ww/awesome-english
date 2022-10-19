@@ -1,20 +1,20 @@
 import { css } from '@emotion/css'
-import Navbar from '../../components/Navbar'
-import type { Category, Menu } from '../../types'
-import { getContentById, menu, paths } from '../../libs/api'
+import Head from 'next/head'
+import Navbar from '../components/Navbar'
+import type { Category, Menu } from '../types'
+import { getContentById, menu, paths } from '../libs/api'
+import metadata from '../libs/metadata'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
-    <section className="container">
-      <Navbar menu={menu} />
+    <>
+      <Head>
+        <title>{category.type}</title>
+        <meta name="description" content={metadata.description} />
+      </Head>
 
-      <main
-        className={css`
-          margin-left: 200px;
-          padding: 50px;
-          flex: 1;
-        `}
-      >
+      <Navbar menu={menu} />
+      <main className="content">
         {category.content.map((v) => (
           <section
             className={css`
@@ -29,18 +29,13 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
             key={v.word}
           >
             <div>{v.word}</div>
-            <div>
-              {/* <audio
-                src="https://jeremy-ww.github.io/awesome-pronunciation/public/audio/denominator.mp3"
-                controls="controls"
-              ></audio> */}
-            </div>
+            <div></div>
             <div>{'phonetic'}</div>
             <div>{'reference'}</div>
           </section>
         ))}
       </main>
-    </section>
+    </>
   )
 }
 
@@ -57,6 +52,7 @@ export async function getStaticProps({
     props: {
       menu,
       category,
+      metadata,
     },
   }
 }

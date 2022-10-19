@@ -1,9 +1,17 @@
+*,
+:after,
+:before,
+html {
+  box-sizing: border-box;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Apple Color Emoji', 'SF Pro', 'SF Pro Icons',
     'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   margin: 0;
+  font-size: clamp(1rem, 0.96rem + 0.18vw, 1.125rem);
 }
 
 html,
@@ -12,16 +20,46 @@ body,
   height: 100%;
 }
 
-.container {
-  display: flex;
-  height: 100%;
-  max-width: 70%;
-  margin: auto;
-  padding: 70px 0;
-}
-
 :root {
   --nav-bar-width: 150px;
   --nav-bar-focus-bg-color: #eee;
   --border-radius: 5px;
+}
+
+.content {
+  padding-left: 5%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-left: var(--nav-bar-width);
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 570px) {
+  :root {
+    --nav-bar-width: 0px;
+  }
+  .nav {
+    display: none;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #__next {
+    width: 90%;
+    margin: 5% auto 0 auto;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  #__next {
+    width: 80%;
+    margin: 5% auto 0 auto;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
 }

@@ -6,28 +6,31 @@ import { Menu } from '../types'
 
 export default React.memo(function Navbar({ menu }: { menu: Menu }) {
   const route = useRouter()
-  console.log(route)
 
   return (
     <nav
-      className={css`
-        position: fixed;
-        width: var(--nav-bar-width);
+      className={cx(
+        'nav',
+        css`
+          position: fixed;
+          width: var(--nav-bar-width);
+          height: 100%;
 
-        li {
-          padding: 10px 0;
-          list-style: none;
-          text-indent: 10px;
+          li {
+            list-style: none;
 
-          a {
-            width: 100%;
-            display: inline-block;
-            text-decoration: none;
-            text-transform: capitalize;
-            color: #333;
+            a {
+              text-indent: 10px;
+              padding: 10px 0;
+              width: 100%;
+              display: inline-block;
+              text-decoration: none;
+              text-transform: capitalize;
+              color: #333;
+            }
           }
-        }
-      `}
+        `,
+      )}
     >
       <section>
         <h3>Glossary</h3>
