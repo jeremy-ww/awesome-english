@@ -12,10 +12,6 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         className={css`
           margin-left: 200px;
           flex: 1;
-
-          > section:nth-child(odd) {
-            background: #f5f5f5;
-          }
         `}
       >
         {category.content.map((v) => (
@@ -24,6 +20,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
               display: flex;
               > div {
                 flex: 1;
+                display: flex;
+                align-items: center;
               }
               margin-bottom: 10px;
             `}
