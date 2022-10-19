@@ -21,9 +21,19 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
               display: flex;
               padding: 10px 0;
               margin-bottom: 10px;
+              align-items: center;
+              border-bottom: 1px solid #f5f5f5;
 
-              > div {
+              div {
+                overflow: hidden;
+              }
+
+              > div:first-child {
                 flex: 1;
+              }
+
+              > div:not(:first-child) {
+                flex: 2;
                 display: flex;
                 align-items: center;
               }
@@ -31,9 +41,13 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
             key={v.word}
           >
             <div>{v.word}</div>
-            <div></div>
-            <div>{'phonetic'}</div>
-            <div>{'reference'}</div>
+            <div>
+              {v.origin.map((v) => (
+                // eslint-disable-next-line jsx-a11y/media-has-caption
+                <audio controls key={v} src={v}></audio>
+              ))}
+            </div>
+            <div>{v.phonetic}</div>
           </section>
         ))}
       </main>
