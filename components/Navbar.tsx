@@ -12,9 +12,11 @@ export default React.memo(function Navbar({ menu }: { menu: Menu }) {
         li {
           padding: 10px 0;
           list-style: none;
+          text-indent: 10px;
 
           a {
             text-decoration: none;
+            text-transform: capitalize;
           }
         }
       `}

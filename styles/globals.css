@@ -15,7 +15,8 @@ body,
 .container {
   display: flex;
   height: 100%;
-  max-width: 80%;
+  max-width: 70%;
   margin: auto;
+  padding: 70px 0;
   gap: 20px;
 }
