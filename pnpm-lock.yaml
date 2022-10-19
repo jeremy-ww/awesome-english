@@ -8,6 +8,7 @@ specifiers:
   case: ^1.6.3
   eslint: 8.25.0
   eslint-config-next: 12.3.1
+  eslint-plugin-jsx-a11y: ^6.6.1
   next: ^12.3.1
   react: ^18.2.0
   react-dom: ^18.2.0
@@ -26,6 +27,7 @@ devDependencies:
   '@types/react': registry.npmjs.org/@types/react/18.0.21
   eslint: registry.npmjs.org/eslint/8.25.0
   eslint-config-next: registry.npmjs.org/eslint-config-next/12.3.1_z4bbprzjrhnsfa24uvmcbu7f5q
+  eslint-plugin-jsx-a11y: registry.npmjs.org/eslint-plugin-jsx-a11y/6.6.1_eslint@8.25.0
   typescript: registry.npmjs.org/typescript/4.8.4
 
 packages:
