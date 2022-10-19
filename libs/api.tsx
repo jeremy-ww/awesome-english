@@ -5,22 +5,18 @@ export const menu = {
   expression: database.expression.map((v) => v.type),
 }
 
-const flatGlossaryContent = database.glossary.flatMap((v) => v.content)
-
 const paths = []
 
 database.glossary.forEach((v) => {
-  v.content.forEach((v) => {
-    paths.push({
-      params: {
-        word: v.word,
-      },
-    })
+  paths.push({
+    params: {
+      category: v.type,
+    },
   })
 })
 
 export { paths }
 
-export function getContentById(word: string) {
-  return flatGlossaryContent.find((v) => v.word === word)
+export function getContentById(category: string) {
+  return database.glossary.find((v) => v.type === category)
 }

@@ -1,9 +1,9 @@
 import { css } from '@emotion/css'
 import Navbar from '../../components/Navbar'
-import type { Content, Menu } from '../../types'
+import type { Category, Menu } from '../../types'
 import { getContentById, menu, paths } from '../../libs/api'
 
-export default function Content({ menu, content }: { menu: Menu; content: Content }) {
+export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
     <section
       className={css`
@@ -14,12 +14,14 @@ export default function Content({ menu, content }: { menu: Menu; content: Conten
       <Navbar menu={menu} />
 
       <main>
-        <ul>
-          <li>{content.word}</li>
-          <li>{content.origin}</li>
-          <li>{content.phonetic}</li>
-          <li>{content.reference}</li>
-        </ul>
+        {category.content.map((v) => (
+          <ul key={v.word}>
+            <li>{v.word}</li>
+            <li>{v.origin}</li>
+            <li>{v.phonetic}</li>
+            <li>{v.reference}</li>
+          </ul>
+        ))}
       </main>
     </section>
   )
@@ -29,15 +31,15 @@ export async function getStaticProps({
   params,
 }: {
   params: {
-    word: string
+    category: string
   }
 }) {
-  const content = getContentById(params.word)
+  const category = getContentById(params.category)
 
   return {
     props: {
       menu,
-      content,
+      category,
     },
   }
 }
