@@ -10,7 +10,7 @@ export default React.memo(function Layout({ children }: { children: React.ReactN
         height: 100%;
       `}
     >
-      <Navbar />
+      <Navbar menu={[]} />
       <main>{children}</main>
     </section>
   )

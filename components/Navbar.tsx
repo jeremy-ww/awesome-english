@@ -1,32 +1,29 @@
 import Link from 'next/link'
+import React from 'react'
+import { Menu } from '../types'
 
-export default function Navbar({ menu }: { menu: string[] }) {
-  console.log(menu)
+export default React.memo(function Navbar({ menu }: { menu: Menu }) {
   return (
     <nav>
       <section>
         <h3>Glossary</h3>
 
-        {menu?.map((v) => (
-          <Link key={v} href={v}>
-            {v}
-          </Link>
+        {menu.glossary.map((v) => (
+          <li key={v}>
+            <Link href={v}>{v}</Link>
+          </li>
         ))}
-
-        <Link href="/123">123</Link>
-        <Link href="/123">123</Link>
-        <Link href="/123">123</Link>
-        <Link href="/123">123</Link>
       </section>
 
       <section>
         <h3>Expression</h3>
 
-        <Link href="/123">123</Link>
-        <Link href="/123">123</Link>
-        <Link href="/123">123</Link>
-        <Link href="/123">123</Link>
+        {menu.expression.map((v) => (
+          <li key={v}>
+            <Link href={v}>{v}</Link>
+          </li>
+        ))}
       </section>
     </nav>
   )
-}
+})

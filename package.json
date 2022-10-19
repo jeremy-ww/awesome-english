@@ -7,7 +7,9 @@
     "dev": "next dev",
     "start": "next start",
     "build": "next build",
-    "lint": "next lint"
+    "lint": "next lint",
+    "analyze": "cross-env ANALYZE=true yarn build",
+    "serve": "serve .next/analyze"
   },
   "keywords": [],
   "author": "Jeremy Wu <jeremy.wu.real@gmail.com>",
@@ -21,8 +23,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@next/bundle-analyzer": "^12.3.1",
     "@types/node": "18.8.4",
     "@types/react": "18.0.21",
+    "cross-env": "^7.0.3",
     "eslint": "8.25.0",
     "eslint-config-next": "12.3.1",
     "eslint-plugin-jsx-a11y": "^6.6.1",
