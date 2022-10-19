@@ -7,6 +7,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
   return (
     <section
       className={css`
+        /* Inline critical CSS */
         display: flex;
         height: 100%;
       `}
