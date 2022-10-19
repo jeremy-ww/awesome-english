@@ -1,7 +1,8 @@
 import { css, cx } from '@emotion/css'
 import Link from 'next/link'
+import React from 'react'
 
-export default function Layout({ children }: { children: React.ReactNode }) {
+export default React.memo(function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
       <nav>
@@ -27,4 +28,4 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <main>{children}</main>
     </>
   )
-}
+})
