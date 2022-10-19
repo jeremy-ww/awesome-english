@@ -3,4 +3,11 @@ body {
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: 400;
   text-rendering: optimizeLegibility;
+  margin: 0;
+}
+
+html,
+body,
+#__next {
+  height: 100%;
 }
