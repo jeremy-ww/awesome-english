@@ -13,6 +13,7 @@ export default React.memo(function ViewOnGitHub() {
           position: fixed;
           right: 0;
           border: 0;
+          top: 0;
           color: var(--octo-color);
           fill: var(--octo-fill);
 
