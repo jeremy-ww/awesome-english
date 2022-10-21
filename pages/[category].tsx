@@ -4,6 +4,7 @@ import Navbar from '../components/Navbar'
 import type { Category, Menu } from '../types'
 import { getContentById, menu, paths } from '../libs/api'
 import metadata from '../libs/metadata'
+import ViewOnGitHub from '../components/ViewOnGitHub'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
@@ -14,6 +15,9 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
       </Head>
 
       <Navbar menu={menu} />
+
+      <ViewOnGitHub />
+
       <main className="content">
         {category.content.map((v) => (
           <section
