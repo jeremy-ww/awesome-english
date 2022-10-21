@@ -1,5 +1,4 @@
 import { css } from '@linaria/core'
-import { up } from 'styled-breakpoints'
 import breakpoints from './breakpoints'
 
 export const globalStyles = css`
