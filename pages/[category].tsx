@@ -36,12 +36,15 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         }}
         anchor="bottom"
         open={isDrawerOpen}
+        className={css``}
       >
         <Navbar
           onClick={() => {
             setIsDrawerOpen(false)
           }}
           className={css`
+            background-color: var(--bg-color);
+
             padding: 10px;
             width: 100%;
           `}
@@ -88,6 +91,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <MenuIcon
           className={css`
             fill: var(--menu-icon-bg-color);
+            color: var(--menu-icon-bg-color);
           `}
         />
       </div>
