@@ -13,8 +13,8 @@ export default function ViewOnGitHub() {
           right: 0;
           border: 0;
           top: 0;
-          color: var(--octo-color);
           fill: var(--octo-fill);
+          color: #fff;
           z-index: 1;
 
           &:hover .octo-arm {
