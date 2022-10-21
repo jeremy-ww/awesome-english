@@ -12,7 +12,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
   return (
     <>
       <Head>
-        <title>{`${Case.capital(category.type)}} - ${process.env.APP_NAME}`}</title>
+        <title>{`${Case.capital(category.type)} - ${process.env.APP_NAME}`}</title>
         <meta name="description" content={metadata.description} />
       </Head>
 
