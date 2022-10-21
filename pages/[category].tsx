@@ -23,20 +23,12 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@nytimesbits" />
-        <meta name="twitter:creator" content="@nickbilton" />
-        <meta
-          property="og:url"
-          content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-for-my-sister/"
-        />
-        <meta property="og:title" content="A Twitter for My Sister" />
-        <meta
-          property="og:description"
-          content="In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling."
-        />
+        <meta name="twitter:creator" content="@JeremyWuReal" />
+        <meta property="og:url" content={metadata.url} />
+        <meta property="og:title" content={metadata.description} />
         <meta
           property="og:image"
-          content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg"
+          content="https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
         />
       </Head>
 

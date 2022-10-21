@@ -1,7 +1,7 @@
 {
   "name": "awesome-english",
   "version": "1.0.0",
-  "description": "English that you'll need every day in engineering workplace",
+  "description": "English that you'll need every day in the engineering workplace",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
