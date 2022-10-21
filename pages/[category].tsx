@@ -79,9 +79,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         {category.content.map((v) => (
           <section
             className={css`
-              display: grid;
-              grid-template-columns: 1fr 2fr 1fr;
-              gap: 5px;
+              display: flex;
               padding: 10px 0;
               margin-bottom: 10px;
               align-items: center;
@@ -90,7 +88,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
               > div {
                 display: flex;
                 align-items: center;
-                flex: 1;
+                flex: 2;
                 color: var(--primary-color);
                 overflow: hidden;
               }
@@ -125,6 +123,10 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 }
                 .rhap_container {
                   width: 100%;
+                }
+
+                > div:nth-child(2) {
+                  flex: 1;
                 }
               }
             `}
