@@ -90,8 +90,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
       >
         <MenuIcon
           className={css`
-            fill: var(--menu-icon-bg-color);
-            color: var(--menu-icon-bg-color);
+            fill: var(--menu-icon-bg-color) !important;
           `}
         />
       </div>
