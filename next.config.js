@@ -7,6 +7,7 @@ const { withSentryConfig } = require('@sentry/nextjs')
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
+const Case = require('case')
 
 const moduleExports = {
   reactStrictMode: true,
@@ -19,6 +20,10 @@ const moduleExports = {
         permanent: true,
       },
     ]
+  },
+  env: {
+    GITHUB_REPO: require('./package.json').homepage,
+    APP_NAME: Case.capital(require('./package.json').name),
   },
   // Your existing module.exports
 

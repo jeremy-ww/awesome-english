@@ -11,6 +11,7 @@
     "analyze": "cross-env ANALYZE=true yarn build",
     "serve": "serve .next/analyze"
   },
+  "homepage": "https://github.com/jeremy-ww/awesome-english",
   "keywords": [],
   "author": "Jeremy Wu <jeremy.wu.real@gmail.com>",
   "license": "MIT",

@@ -5,12 +5,15 @@ import type { Category, Menu } from '../types'
 import { getContentById, menu, paths } from '../libs/api'
 import metadata from '../libs/metadata'
 import ViewOnGitHub from '../components/ViewOnGitHub'
+import Case from 'case'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
     <>
       <Head>
-        <title>{category.type}</title>
+        <title>
+          {Case.capital(category.type)} - {process.env.APP_NAME}
+        </title>
         <meta name="description" content={metadata.description} />
       </Head>
 

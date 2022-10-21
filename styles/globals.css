@@ -21,10 +21,15 @@ body,
 }
 
 :root {
+  /* Common */
   --nav-bar-width: 150px;
   --nav-bar-focus-bg-color: #eee;
   --border-radius: 5px;
   --primary-color: #333;
+
+  /* View On GitHub */
+  --octo-color: #fff;
+  --octo-fill: #42b983;
 }
 
 .content {
