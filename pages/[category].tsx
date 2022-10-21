@@ -1,4 +1,4 @@
-import { css } from '@emotion/css'
+import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import type { Category, Menu } from '../types'

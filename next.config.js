@@ -7,12 +7,12 @@ const { withSentryConfig } = require('@sentry/nextjs')
 const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
+const withLinaria = require('next-linaria')
 const Case = require('case')
 
 /** @type {import('next').NextConfig} */
 const moduleExports = {
   reactStrictMode: true,
-  swcMinify: true,
   async redirects() {
     return [
       {
@@ -25,9 +25,6 @@ const moduleExports = {
   env: {
     GITHUB_REPO: require('./package.json').homepage,
     APP_NAME: Case.capital(require('./package.json').name),
-  },
-  compiler: {
-    emotion: true,
   },
   // Your existing module.exports
 
@@ -56,4 +53,6 @@ const sentryWebpackPluginOptions = {
 
 // Make sure adding Sentry options is the last code to run before exporting, to
 // ensure that your source maps include changes from all other Webpack plugins
-module.exports = withBundleAnalyzer(withSentryConfig(moduleExports, sentryWebpackPluginOptions))
+module.exports = withLinaria(
+  withBundleAnalyzer(withSentryConfig(moduleExports, sentryWebpackPluginOptions)),
+)

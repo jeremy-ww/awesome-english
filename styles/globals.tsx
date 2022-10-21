@@ -1,86 +1,88 @@
-import { css } from '@emotion/react'
+import { css } from '@linaria/core'
 
 export const globalStyles = css`
-  *,
-  :after,
-  :before,
-  html {
-    box-sizing: border-box;
-  }
+  :global() {
+    *,
+    :after,
+    :before,
+    html {
+      box-sizing: border-box;
+    }
 
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Apple Color Emoji', 'SF Pro', 'SF Pro Icons',
-      'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 400;
-    -webkit-font-smoothing: antialiased;
-    margin: 0;
-    font-size: clamp(1rem, 0.96rem + 0.18vw, 1.125rem);
-  }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Apple Color Emoji', 'SF Pro', 'SF Pro Icons',
+        'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      font-size: clamp(1rem, 0.96rem + 0.18vw, 1.125rem);
+    }
 
-  html,
-  body,
-  #__next {
-    height: 100%;
-  }
+    html,
+    body,
+    #__next {
+      height: 100%;
+    }
 
-  :root {
-    /* Common */
-    --nav-bar-width: 150px;
-    --nav-bar-focus-bg-color: #eee;
-    --border-radius: 5px;
-    --primary-color: #333;
-
-    /* View On GitHub */
-    --octo-color: #fff;
-    --octo-fill: #42b983;
-  }
-
-  .content {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    margin: 0 auto;
-  }
-
-  #__next {
-    width: 90%;
-    margin: 3% auto 0 auto;
-  }
-
-  /* Small devices (landscape phones, 576px and up) */
-  @media (max-width: 576px) {
     :root {
-      --nav-bar-width: 0px;
-    }
-    .nav {
-      display: none;
-    }
-  }
+      /* Common */
+      --nav-bar-width: 150px;
+      --nav-bar-focus-bg-color: #eee;
+      --border-radius: 5px;
+      --primary-color: #333;
 
-  /* Medium devices (tablets, 768px and up) */
-  @media (min-width: 768px) {
+      /* View On GitHub */
+      --octo-color: #fff;
+      --octo-fill: #42b983;
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      margin: 0 auto;
+    }
+
     #__next {
       width: 90%;
-      margin: 5% auto 0 auto;
+      margin: 3% auto 0 auto;
     }
 
-    .content {
-      width: 70%;
+    /* Small devices (landscape phones, 576px and up) */
+    @media (max-width: 576px) {
+      :root {
+        --nav-bar-width: 0px;
+      }
+      .nav {
+        display: none;
+      }
     }
-  }
 
-  /* iPad, etc */
-  @media (min-width: 768px) and (max-width: 992px) {
-    .content {
-      margin-left: calc(var(--nav-bar-width) * 1.2);
+    /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 768px) {
+      #__next {
+        width: 90%;
+        margin: 5% auto 0 auto;
+      }
+
+      .content {
+        width: 70%;
+      }
     }
-  }
 
-  /* Large devices (desktops, 992px and up) */
-  @media (min-width: 992px) {
-    #__next {
-      margin: 2% auto 0 auto;
-      width: 80%;
+    /* iPad, etc */
+    @media (min-width: 768px) and (max-width: 992px) {
+      .content {
+        margin-left: calc(var(--nav-bar-width) * 1.2);
+      }
+    }
+
+    /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) {
+      #__next {
+        margin: 2% auto 0 auto;
+        width: 80%;
+      }
     }
   }
 `
