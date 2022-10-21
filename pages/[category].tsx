@@ -6,6 +6,8 @@ import { getContentById, menu, paths } from '../libs/api'
 import metadata from '../libs/metadata'
 import ViewOnGitHub from '../components/ViewOnGitHub'
 import Case from 'case'
+import AudioPlayer from 'react-h5-audio-player'
+import 'react-h5-audio-player/lib/styles.css'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
@@ -45,6 +47,24 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 display: flex;
                 align-items: center;
               }
+
+              .rhap_container {
+                padding: 0;
+
+                .rhap_main {
+                  flex-direction: row-reverse;
+                }
+
+                .rhap_controls-section {
+                  margin: 0;
+                }
+              }
+
+              @media (max-width: 768px) {
+                .rhap_progress-section {
+                  display: none;
+                }
+              }
             `}
             key={v.word}
           >
@@ -52,7 +72,14 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
             <div>
               {v.origin?.map((v) => (
                 // eslint-disable-next-line jsx-a11y/media-has-caption
-                <audio controls key={v} src={v}></audio>
+                <AudioPlayer
+                  customVolumeControls={[]}
+                  customAdditionalControls={[]}
+                  showJumpControls={false}
+                  key={v}
+                  src={v}
+                />
+                // <audio controls key={v} src={v}></audio>
               ))}
             </div>
             <div>{v.phonetic}</div>

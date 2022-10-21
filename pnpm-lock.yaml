@@ -13,7 +13,9 @@ specifiers:
   eslint-plugin-jsx-a11y: ^6.6.1
   next: ^12.3.1
   react: ^18.2.0
+  react-audio-element: ^1.0.5
   react-dom: ^18.2.0
+  react-h5-audio-player: ^3.8.6
   typescript: 4.8.4
 
 dependencies:
@@ -22,7 +24,9 @@ dependencies:
   case: registry.npmjs.org/case/1.6.3
   next: registry.npmjs.org/next/12.3.1_biqbaboplfbrettd7655fr4n2y
   react: registry.npmjs.org/react/18.2.0
+  react-audio-element: registry.npmjs.org/react-audio-element/1.0.5_biqbaboplfbrettd7655fr4n2y
   react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
+  react-h5-audio-player: registry.npmjs.org/react-h5-audio-player/3.8.6_biqbaboplfbrettd7655fr4n2y
 
 devDependencies:
   '@next/bundle-analyzer': registry.npmjs.org/@next/bundle-analyzer/12.3.1
@@ -243,6 +247,48 @@ packages:
       - supports-color
     dev: true
 
+  registry.npmjs.org/@fortawesome/fontawesome-common-types/0.2.36:
+    resolution: {integrity: sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz}
+    name: '@fortawesome/fontawesome-common-types'
+    version: 0.2.36
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dev: false
+
+  registry.npmjs.org/@fortawesome/fontawesome-svg-core/1.2.36:
+    resolution: {integrity: sha512-YUcsLQKYb6DmaJjIHdDWpBIGCcyE/W+p/LMGvjQem55Mm2XWVAP5kWTMKWLv9lwpCVjpLxPyOMOyUocP1GxrtA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.36.tgz}
+    name: '@fortawesome/fontawesome-svg-core'
+    version: 1.2.36
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dependencies:
+      '@fortawesome/fontawesome-common-types': registry.npmjs.org/@fortawesome/fontawesome-common-types/0.2.36
+    dev: false
+
+  registry.npmjs.org/@fortawesome/free-solid-svg-icons/5.15.4:
+    resolution: {integrity: sha512-JLmQfz6tdtwxoihXLg6lT78BorrFyCf59SAwBM6qV/0zXyVeDygJVb3fk+j5Qat+Yvcxp1buLTY5iDh1ZSAQ8w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-5.15.4.tgz}
+    name: '@fortawesome/free-solid-svg-icons'
+    version: 5.15.4
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dependencies:
+      '@fortawesome/fontawesome-common-types': registry.npmjs.org/@fortawesome/fontawesome-common-types/0.2.36
+    dev: false
+
+  registry.npmjs.org/@fortawesome/react-fontawesome/0.1.19_itb73sutiv5dicgxanxbjij2uu:
+    resolution: {integrity: sha512-Hyb+lB8T18cvLNX0S3llz7PcSOAJMLwiVKBuuzwM/nI5uoBw+gQjnf9il0fR1C3DKOI5Kc79pkJ4/xB0Uw9aFQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.19.tgz}
+    id: registry.npmjs.org/@fortawesome/react-fontawesome/0.1.19
+    name: '@fortawesome/react-fontawesome'
+    version: 0.1.19
+    peerDependencies:
+      '@fortawesome/fontawesome-svg-core': ~1 || ~6
+      react: '>=16.x'
+    dependencies:
+      '@fortawesome/fontawesome-svg-core': registry.npmjs.org/@fortawesome/fontawesome-svg-core/1.2.36
+      prop-types: registry.npmjs.org/prop-types/15.8.1
+      react: registry.npmjs.org/react/18.2.0
+    dev: false
+
   registry.npmjs.org/@humanwhocodes/config-array/0.10.7:
     resolution: {integrity: sha512-MDl6D6sBsaV452/QSdX+4CXIjZhIcI0PELsxUjk4U828yd58vk3bTIvk/6w5FY+4hIy9sLW0sfrV7K7Kc++j/w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.10.7.tgz}
     name: '@humanwhocodes/config-array'
@@ -268,6 +314,23 @@ packages:
     name: '@humanwhocodes/object-schema'
     version: 1.2.1
     dev: true
+
+  registry.npmjs.org/@iconify/icons-mdi/1.1.47:
+    resolution: {integrity: sha512-6AZfvWru20Rl9pXULStkVvTWnua6VG56zOIKdkCzLh25XVeTDEp6f1dL7iX9w+way5+1hI0BBuqTQd61qYaKdg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@iconify/icons-mdi/-/icons-mdi-1.1.47.tgz}
+    name: '@iconify/icons-mdi'
+    version: 1.1.47
+    dev: false
+
+  registry.npmjs.org/@iconify/react/3.2.2_react@18.2.0:
+    resolution: {integrity: sha512-z3+Jno3VcJzgNHsN5mEvYMsgCkOZkydqdIwOxjXh45+i2Vs9RGH68Y52vt39izwFSfuYUXhaW+1u7m7+IhCn/g==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@iconify/react/-/react-3.2.2.tgz}
+    id: registry.npmjs.org/@iconify/react/3.2.2
+    name: '@iconify/react'
+    version: 3.2.2
+    peerDependencies:
+      react: '>=16'
+    dependencies:
+      react: registry.npmjs.org/react/18.2.0
+    dev: false
 
   registry.npmjs.org/@next/bundle-analyzer/12.3.1:
     resolution: {integrity: sha512-2f/eei0YqZZBMTs4g1+HbgHyAFH5MbI/w9wLXmE8ly9SFze2D40sRH46JcC//EFVM/TIynVBh5sxn9CVO/vtxg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@next/bundle-analyzer/-/bundle-analyzer-12.3.1.tgz}
@@ -2755,7 +2818,6 @@ packages:
       loose-envify: registry.npmjs.org/loose-envify/1.4.0
       object-assign: registry.npmjs.org/object-assign/4.1.1
       react-is: registry.npmjs.org/react-is/16.13.1
-    dev: true
 
   registry.npmjs.org/proxy-from-env/1.1.0:
     resolution: {integrity: sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/proxy-from-env/-/proxy-from-env-1.1.0.tgz}
@@ -2776,6 +2838,22 @@ packages:
     version: 1.2.3
     dev: true
 
+  registry.npmjs.org/react-audio-element/1.0.5_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-0ihV8qo3JnGL5qKPjwNRHdGvIRlky0PxD2FKHHrOtihwrA7xbz54VeHXuKvweJinhtXmcfDvV8fNK9ZkV/p7aA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/react-audio-element/-/react-audio-element-1.0.5.tgz}
+    id: registry.npmjs.org/react-audio-element/1.0.5
+    name: react-audio-element
+    version: 1.0.5
+    peerDependencies:
+      react: ^16.13.1
+      react-dom: ^16.0.0
+    dependencies:
+      '@fortawesome/fontawesome-svg-core': registry.npmjs.org/@fortawesome/fontawesome-svg-core/1.2.36
+      '@fortawesome/free-solid-svg-icons': registry.npmjs.org/@fortawesome/free-solid-svg-icons/5.15.4
+      '@fortawesome/react-fontawesome': registry.npmjs.org/@fortawesome/react-fontawesome/0.1.19_itb73sutiv5dicgxanxbjij2uu
+      react: registry.npmjs.org/react/18.2.0
+      react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
+    dev: false
+
   registry.npmjs.org/react-dom/18.2.0_react@18.2.0:
     resolution: {integrity: sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz}
     id: registry.npmjs.org/react-dom/18.2.0
@@ -2787,6 +2865,22 @@ packages:
       loose-envify: registry.npmjs.org/loose-envify/1.4.0
       react: registry.npmjs.org/react/18.2.0
       scheduler: registry.npmjs.org/scheduler/0.23.0
+    dev: false
+
+  registry.npmjs.org/react-h5-audio-player/3.8.6_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-eyViI47jRRybCcCkGdoAMd6yfhg3UMyXp39mqOWCbNQfAYI8U6zC0+0DLZjhrB7//DJtHhZx8h1q99HMxYkMWQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/react-h5-audio-player/-/react-h5-audio-player-3.8.6.tgz}
+    id: registry.npmjs.org/react-h5-audio-player/3.8.6
+    name: react-h5-audio-player
+    version: 3.8.6
+    peerDependencies:
+      react: ^16.3.0 || ^17.0.0 || ^18.0.0
+      react-dom: ^16.3.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      '@babel/runtime': registry.npmjs.org/@babel/runtime/7.19.4
+      '@iconify/icons-mdi': registry.npmjs.org/@iconify/icons-mdi/1.1.47
+      '@iconify/react': registry.npmjs.org/@iconify/react/3.2.2_react@18.2.0
+      react: registry.npmjs.org/react/18.2.0
+      react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
     dev: false
 
   registry.npmjs.org/react-is/16.13.1:
