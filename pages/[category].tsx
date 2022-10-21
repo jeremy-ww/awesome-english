@@ -25,7 +25,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="@JeremyWuReal" />
         <meta property="og:url" content={metadata.url} />
-        <meta property="og:title" content={metadata.description} />
+        <meta property="og:title" content={process.env.APP_NAME} />
+        <meta property="og:description" content={metadata.description} />
         <meta
           property="og:image"
           content="https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
