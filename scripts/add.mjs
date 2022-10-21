@@ -29,11 +29,12 @@ async function get(type, word) {
         reference: '',
       }
       if (usPhonetics !== ukPhonetics) {
-        item.phonetic.push(data.ec.word.ukphone)
+        item.phonetics.push(data.ec.word.ukphone)
       }
       glossary[type].content.unshift(item)
       console.log('Finished adding:', word)
     } catch (e) {
+      console.log(e)
       console.log('Parse phonetics error', word)
     }
   } catch (e) {
