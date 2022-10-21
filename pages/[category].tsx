@@ -27,7 +27,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <meta property="og:url" content={metadata.url} />
         <meta property="og:title" content={process.env.APP_NAME} />
         <meta property="og:description" content={metadata.description} />
-        <meta property="og:image" content="/og-image.jpeg" />
+        <meta property="og:image" content="https://awesome-english.vercel.app/og-image.jpeg" />
       </Head>
 
       <Drawer
