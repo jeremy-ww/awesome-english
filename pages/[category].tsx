@@ -73,6 +73,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           right: 40px;
           z-index: 1;
           padding: 20px;
+
           @media (min-width: ${breakpoints.md}) {
             display: none;
           }
@@ -154,7 +155,24 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 />
               ))}
             </div>
-            <div>{v.phonetic}</div>
+            <div
+              className={css`
+                span {
+                  margin: 0 3px;
+                }
+              `}
+            >
+              <span>{v?.phonetics[0]}</span>
+              {v.phonetics[1] && (
+                <span
+                  className={css`
+                    opacity: 0.5;
+                  `}
+                >
+                  {v.phonetics[1]}
+                </span>
+              )}
+            </div>
           </section>
         ))}
       </main>

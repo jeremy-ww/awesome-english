@@ -1,7 +1,7 @@
 export interface Item {
   word: string
   origin: string[]
-  phonetic: string[]
+  phonetics: string[]
   reference: string
 }
 

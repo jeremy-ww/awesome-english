@@ -12,7 +12,7 @@ const Case = require('case')
 
 /** @type {import('next').NextConfig} */
 const moduleExports = {
-  reactStrictMode: true,
+  // reactStrictMode: true,
   async redirects() {
     return [
       {
