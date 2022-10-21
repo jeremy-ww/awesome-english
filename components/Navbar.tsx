@@ -34,7 +34,7 @@ export default React.memo(function Navbar({
               display: inline-block;
               text-decoration: none;
               text-transform: capitalize;
-              color: #333;
+              color: var(--text-secondary);
             }
           }
         `,

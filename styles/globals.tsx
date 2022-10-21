@@ -11,9 +11,27 @@ export const globalStyles = css`
     }
 
     @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-color: #262626;
+        --nav-bar-focus-bg-color: #564e4e;
+        --text-primary: #fff;
+        --text-secondary: #cdcdcd;
+        --audio-bg-color: var(--text-secondary);
+      }
+
+      body {
+        background-color: var(--bg-color);
+      }
     }
 
     @media (prefers-color-scheme: light) {
+      :root {
+        --bg-color: #fff;
+        --nav-bar-focus-bg-color: #eee;
+        --text-primary: #1b1b1b;
+        --text-secondary: #4e4e4e;
+        --audio-bg-color: #868686;
+      }
     }
 
     body {
@@ -31,17 +49,20 @@ export const globalStyles = css`
       height: 100%;
     }
 
+    h3 {
+      color: var(--text-primary);
+    }
+
     :root {
       /* Common */
       --nav-bar-width: 150px;
-      --nav-bar-focus-bg-color: #eee;
       --border-radius: 5px;
-      --primary-color: #333;
 
       /* View On GitHub */
-      --octo-color: #fff;
+      --octo-color: var(--text-primary);
       --octo-fill: #42b983;
 
+      /* Menu on mobile devices */
       --menu-icon-bg-color: var(--octo-fill);
     }
 

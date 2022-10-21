@@ -25,11 +25,11 @@ async function get(type, word) {
       const item = {
         word,
         origin: [`https://dict.youdao.com/dictvoice?audio=${word}&type=2`],
-        phonetics: [data.ec.word.usphone],
+        phonetics: [usPhonetics],
         reference: '',
       }
       if (usPhonetics !== ukPhonetics) {
-        item.phonetics.push(data.ec.word.ukphone)
+        item.phonetics.push(ukPhonetics)
       }
       glossary[type].content.unshift(item)
       console.log('Finished adding:', word)

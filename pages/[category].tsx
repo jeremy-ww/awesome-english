@@ -95,6 +95,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
               margin-bottom: 10px;
               align-items: center;
               border-bottom: 1px solid #f5f5f5;
+              color: var(--text-primary);
 
               > div {
                 display: flex;
@@ -108,6 +109,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 padding: 0;
                 box-shadow: none;
                 width: 60%;
+                background-color: transparent;
 
                 .rhap_main {
                   flex-direction: row-reverse;
@@ -125,6 +127,19 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
 
                 .rhap_progress-bar {
                   height: 4px;
+                }
+
+                .rhap_time {
+                  color: var(--audio-bg-color);
+                }
+
+                .rhap_progress-indicator,
+                .rhap_progress-filled {
+                  background-color: var(--audio-bg-color);
+                }
+
+                path {
+                  fill: var(--audio-bg-color);
                 }
               }
 
