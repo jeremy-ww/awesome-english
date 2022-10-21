@@ -1,4 +1,6 @@
 import { css } from '@linaria/core'
+import { up } from 'styled-breakpoints'
+import breakpoints from './breakpoints'
 
 export const globalStyles = css`
   :global() {
@@ -34,6 +36,12 @@ export const globalStyles = css`
       /* View On GitHub */
       --octo-color: #fff;
       --octo-fill: #42b983;
+
+      /* Responsive Design */
+      --breakpoint-sm: 576px;
+      --breakpoint-md: 768px;
+      --breakpoint-lg: 992px;
+      --breakpoint-xl: 1200px;
     }
 
     .content {
@@ -48,8 +56,8 @@ export const globalStyles = css`
       margin: 3% auto 0 auto;
     }
 
-    /* Small devices (landscape phones, 576px and up) */
-    @media (max-width: 576px) {
+    /* Small Devices */
+    @media (max-width: ${breakpoints.md}) {
       :root {
         --nav-bar-width: 0px;
       }
@@ -58,8 +66,8 @@ export const globalStyles = css`
       }
     }
 
-    /* Medium devices (tablets, 768px and up) */
-    @media (min-width: 768px) {
+    /* Big than small devices */
+    @media (min-width: ${breakpoints.md}) {
       #__next {
         width: 90%;
         margin: 5% auto 0 auto;
@@ -67,18 +75,19 @@ export const globalStyles = css`
 
       .content {
         width: 70%;
+        transform: translateX(calc(var(--nav-bar-width) / 2));
       }
     }
 
-    /* iPad, etc */
-    @media (min-width: 768px) and (max-width: 992px) {
+    /* Tablet, iPad, etc */
+    @media (min-width: ${breakpoints.md}) and (max-width: ${breakpoints.lg}) {
       .content {
         margin-left: calc(var(--nav-bar-width) * 1.2);
       }
     }
 
-    /* Large devices (desktops, 992px and up) */
-    @media (min-width: 992px) {
+    /* PC, MacBook, etc */
+    @media (min-width: ${breakpoints.lg}) {
       #__next {
         margin: 2% auto 0 auto;
         width: 80%;

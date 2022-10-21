@@ -19,6 +19,7 @@ specifiers:
   react: ^18.2.0
   react-dom: ^18.2.0
   react-h5-audio-player: ^3.8.6
+  styled-breakpoints: ^11.1.1
   typescript: 4.8.4
 
 dependencies:
@@ -30,6 +31,7 @@ dependencies:
   react: registry.npmjs.org/react/18.2.0
   react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
   react-h5-audio-player: registry.npmjs.org/react-h5-audio-player/3.8.6_biqbaboplfbrettd7655fr4n2y
+  styled-breakpoints: registry.npmjs.org/styled-breakpoints/11.1.1_react@18.2.0
 
 devDependencies:
   '@linaria/babel-preset': registry.npmjs.org/@linaria/babel-preset/4.2.4
@@ -4957,6 +4959,26 @@ packages:
     version: 3.1.1
     engines: {node: '>=8'}
     dev: true
+
+  registry.npmjs.org/styled-breakpoints/11.1.1_react@18.2.0:
+    resolution: {integrity: sha512-KUpoMNPoNji5zyB/AyrY+KO/eHj87smfGMOgrAM8cH/fN2wtEW9tnwzPlQimxMyma0Y849XUnChbJBk2zws9Ig==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/styled-breakpoints/-/styled-breakpoints-11.1.1.tgz}
+    id: registry.npmjs.org/styled-breakpoints/11.1.1
+    name: styled-breakpoints
+    version: 11.1.1
+    peerDependencies:
+      '@emotion/react': ^11.0.0
+      react: ^18.x.x
+      styled-components: ^5.0.0
+    peerDependenciesMeta:
+      '@emotion/react':
+        optional: true
+      react:
+        optional: true
+      styled-components:
+        optional: true
+    dependencies:
+      react: registry.npmjs.org/react/18.2.0
+    dev: false
 
   registry.npmjs.org/styled-jsx/5.0.7_react@18.2.0:
     resolution: {integrity: sha512-b3sUzamS086YLRuvnaDigdAewz1/EFYlHpYBP5mZovKEdQQOIIYq8lApylub3HHZ6xFjV051kkGU7cudJmrXEA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/styled-jsx/-/styled-jsx-5.0.7.tgz}
