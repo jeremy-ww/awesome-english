@@ -4,15 +4,15 @@ import { useRouter } from 'next/router'
 import React from 'react'
 import { Menu } from '../types'
 
-export default React.memo(function Navbar({ menu }: { menu: Menu }) {
+export default React.memo(function Navbar({ menu, className }: { menu: Menu; className?: string }) {
   const route = useRouter()
 
   return (
     <nav
       className={cx(
         'nav',
+        className,
         css`
-          position: fixed;
           width: var(--nav-bar-width);
           height: 100%;
 

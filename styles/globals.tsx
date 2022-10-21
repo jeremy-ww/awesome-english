@@ -61,9 +61,6 @@ export const globalStyles = css`
       :root {
         --nav-bar-width: 0px;
       }
-      .nav {
-        display: none;
-      }
     }
 
     /* Big than small devices */

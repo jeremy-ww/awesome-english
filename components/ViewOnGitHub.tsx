@@ -15,6 +15,7 @@ export default function ViewOnGitHub() {
           top: 0;
           color: var(--octo-color);
           fill: var(--octo-fill);
+          z-index: 1;
 
           &:hover .octo-arm {
             animation: octocat-wave 0.56s ease-in-out;

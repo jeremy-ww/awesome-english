@@ -8,8 +8,12 @@ import Case from 'case'
 import AudioPlayer from 'react-h5-audio-player'
 import 'react-h5-audio-player/lib/styles.css'
 import breakpoints from '../styles/breakpoints'
+import { Drawer } from '@mui/material'
+import { useState } from 'react'
+import MenuIcon from '@mui/icons-material/Menu'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false)
   return (
     <>
       <Head>
@@ -20,7 +24,56 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
       </Head>
 
-      <Navbar menu={menu} />
+      <Drawer
+        onClose={() => {
+          setIsDrawerOpen(false)
+        }}
+        anchor="bottom"
+        open={isDrawerOpen}
+      >
+        <Navbar
+          className={css`
+            padding: 10px;
+            width: 100%;
+          `}
+          menu={menu}
+        />
+      </Drawer>
+
+      <Navbar
+        className={css`
+          position: fixed;
+
+          @media (max-width: ${breakpoints.md}) {
+            display: none;
+          }
+        `}
+        menu={menu}
+      />
+
+      <div
+        role="button"
+        tabIndex={0}
+        onClick={(e) => {
+          e.preventDefault()
+          setIsDrawerOpen(true)
+        }}
+        onKeyUp={(e) => {
+          e.preventDefault()
+          if (e.code !== 'Escape') {
+            setIsDrawerOpen(true)
+          }
+        }}
+        className={css`
+          position: fixed;
+          bottom: 40px;
+          right: 40px;
+          z-index: 1;
+          padding: 20px;
+        `}
+      >
+        <MenuIcon />
+      </div>
 
       <main className="content">
         {category.content.map((v) => (
