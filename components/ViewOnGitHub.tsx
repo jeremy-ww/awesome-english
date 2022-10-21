@@ -1,7 +1,6 @@
-import { css, cx } from '@emotion/css'
-import React from 'react'
+import { css, cx } from '@linaria/core'
 
-export default React.memo(function ViewOnGitHub() {
+export default function ViewOnGitHub() {
   return (
     <a href={process.env.GITHUB_REPO} target="_blank" rel="noreferrer">
       <svg
@@ -74,4 +73,4 @@ export default React.memo(function ViewOnGitHub() {
       </svg>
     </a>
   )
-})
+}
