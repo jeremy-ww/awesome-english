@@ -32,6 +32,9 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         open={isDrawerOpen}
       >
         <Navbar
+          onClick={() => {
+            setIsDrawerOpen(false)
+          }}
           className={css`
             padding: 10px;
             width: 100%;
@@ -70,9 +73,16 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           right: 40px;
           z-index: 1;
           padding: 20px;
+          @media (min-width: ${breakpoints.md}) {
+            display: none;
+          }
         `}
       >
-        <MenuIcon />
+        <MenuIcon
+          className={css`
+            fill: var(--menu-icon-bg-color);
+          `}
+        />
       </div>
 
       <main className="content">

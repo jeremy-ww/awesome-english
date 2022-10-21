@@ -10,6 +10,12 @@ export const globalStyles = css`
       box-sizing: border-box;
     }
 
+    @media (prefers-color-scheme: dark) {
+    }
+
+    @media (prefers-color-scheme: light) {
+    }
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Apple Color Emoji', 'SF Pro', 'SF Pro Icons',
         'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -36,11 +42,7 @@ export const globalStyles = css`
       --octo-color: #fff;
       --octo-fill: #42b983;
 
-      /* Responsive Design */
-      --breakpoint-sm: 576px;
-      --breakpoint-md: 768px;
-      --breakpoint-lg: 992px;
-      --breakpoint-xl: 1200px;
+      --menu-icon-bg-color: var(--octo-fill);
     }
 
     .content {

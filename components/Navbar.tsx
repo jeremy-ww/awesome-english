@@ -4,7 +4,15 @@ import { useRouter } from 'next/router'
 import React from 'react'
 import { Menu } from '../types'
 
-export default React.memo(function Navbar({ menu, className }: { menu: Menu; className?: string }) {
+export default React.memo(function Navbar({
+  menu,
+  className,
+  onClick,
+}: {
+  menu: Menu
+  className?: string
+  onClick?: () => void
+}) {
   const route = useRouter()
 
   return (
@@ -47,6 +55,9 @@ export default React.memo(function Navbar({ menu, className }: { menu: Menu; cla
                 border-radius: var(--border-radius);
               `,
             )}
+            aria-hidden
+            onClick={onClick}
+            onKeyUp={onClick}
             key={v}
           >
             <Link href={v}>{v}</Link>
