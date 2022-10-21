@@ -22,6 +22,22 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@nytimesbits" />
+        <meta name="twitter:creator" content="@nickbilton" />
+        <meta
+          property="og:url"
+          content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-for-my-sister/"
+        />
+        <meta property="og:title" content="A Twitter for My Sister" />
+        <meta
+          property="og:description"
+          content="In the early days, Twitter grew so quickly that it was almost impossible to add new features because engineers spent their time trying to keep the rocket ship from stalling."
+        />
+        <meta
+          property="og:image"
+          content="http://graphics8.nytimes.com/images/2011/12/08/technology/bits-newtwitter/bits-newtwitter-tmagArticle.jpg"
+        />
       </Head>
 
       <Drawer
