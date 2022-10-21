@@ -7,6 +7,7 @@ import metadata from '../libs/metadata'
 import Case from 'case'
 import AudioPlayer from 'react-h5-audio-player'
 import 'react-h5-audio-player/lib/styles.css'
+import breakpoints from '../styles/breakpoints'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   return (
@@ -65,7 +66,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 }
               }
 
-              @media (max-width: 820px) {
+              @media (max-width: ${breakpoints.md}) {
                 .rhap_progress-section {
                   display: none;
                 }
