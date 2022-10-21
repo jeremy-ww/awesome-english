@@ -9,6 +9,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 const Case = require('case')
 
+/** @type {import('next').NextConfig} */
 const moduleExports = {
   reactStrictMode: true,
   swcMinify: true,
@@ -24,6 +25,9 @@ const moduleExports = {
   env: {
     GITHUB_REPO: require('./package.json').homepage,
     APP_NAME: Case.capital(require('./package.json').name),
+  },
+  compiler: {
+    emotion: true,
   },
   // Your existing module.exports
 

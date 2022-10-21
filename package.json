@@ -17,6 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "@emotion/css": "^11.10.0",
+    "@emotion/react": "^11.10.4",
     "@sentry/nextjs": "^7.15.0",
     "case": "^1.6.3",
     "next": "^12.3.1",
