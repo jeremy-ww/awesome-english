@@ -1,505 +1,2382 @@
 {
-	"glossary": [
-		{
-			"type": "general",
-			"content": [
-				{
-					"word": "action",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=action&type=2"
-					],
-					"phonetics": [
-						"[ˈækʃ(ə)n]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "due",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=due&type=2"
-					],
-					"phonetics": [
-						"[duː]",
-						"[djuː]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "capacity",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=capacity&type=2"
-					],
-					"phonetics": [
-						"[kəˈpæsəti]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "demand",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=demand&type=2"
-					],
-					"phonetics": [
-						"[dɪˈmænd]",
-						"[dɪˈmɑːnd]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "adjust",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adjust&type=2"
-					],
-					"phonetics": [
-						"[əˈdʒʌst]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "adopt",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adopt&type=2"
-					],
-					"phonetics": [
-						"[əˈdɑːpt]",
-						"[əˈdɒpt]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "demonstrate",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"
-					],
-					"phonetics": [
-						"[ˈdemənstreɪt]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "college",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=college&type=2"
-					],
-					"phonetics": [
-						"[ˈkɑːlɪdʒ]",
-						"[ˈkɒlɪdʒ]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "annual",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=annual&type=2"
-					],
-					"phonetics": [
-						"[ˈænjuəl]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "approval",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=approval&type=2"
-					],
-					"phonetics": [
-						"[əˈpruːv(ə)l]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "billion",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=billion&type=2"
-					],
-					"phonetics": [
-						"[ˈbɪljən]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "explanation",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=explanation&type=2"
-					],
-					"phonetics": [
-						"[ˌekspləˈneɪʃ(ə)n]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "complement",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=complement&type=2"
-					],
-					"phonetics": [
-						"[ˈkɑːmplɪment]",
-						"[ˈkɒmplɪment]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "agency",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=agency&type=2"
-					],
-					"phonetics": [
-						"[ˈeɪdʒənsi]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "alternative",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=alternative&type=2"
-					],
-					"phonetics": [
-						"[ɔːlˈtɜːrnətɪv]",
-						"[ɔːlˈtɜːnətɪv]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "brief",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=brief&type=2"
-					],
-					"phonetics": [
-						"[briːf]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "capability",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=capability&type=2"
-					],
-					"phonetics": [
-						"[ˌkeɪpəˈbɪləti]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "debt",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=debt&type=2"
-					],
-					"phonetics": [
-						"[det]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "comprehensive",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=comprehensive&type=2"
-					],
-					"phonetics": [
-						"[ˌkɑːmprɪˈhensɪv]",
-						"[ˌkɒmprɪˈhensɪv]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "adapt",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adapt&type=2"
-					],
-					"phonetics": [
-						"[əˈdæpt]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "disability",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=disability&type=2"
-					],
-					"phonetics": [
-						"[ˌdɪsəˈbɪləti]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "determined",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=determined&type=2"
-					],
-					"phonetics": [
-						"[dɪˈtɜːrmɪnd]",
-						"[dɪˈtɜːmɪnd]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "concept",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=concept&type=2"
-					],
-					"phonetics": [
-						"[ˈkɑːnsept]",
-						"[ˈkɒnsept]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "currency",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=currency&type=2"
-					],
-					"phonetics": [
-						"[ˈkɜːrənsi]",
-						"[ˈkʌrənsi]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "compliance",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=compliance&type=2"
-					],
-					"phonetics": [
-						"[kəmˈplaɪəns]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "accurate",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=accurate&type=2"
-					],
-					"phonetics": [
-						"[ˈækjərət]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "convince",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=convince&type=2"
-					],
-					"phonetics": [
-						"[kənˈvɪns]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "collaborative",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=collaborative&type=2"
-					],
-					"phonetics": [
-						"[kəˈlæbəreɪtɪv]",
-						"[kəˈlæbərətɪv]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "dual",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=dual&type=2"
-					],
-					"phonetics": [
-						"[ˈduːəl]",
-						"[ˈdjuːəl]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "denote",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=denote&type=2"
-					],
-					"phonetics": [
-						"[dɪˈnoʊt]",
-						"[dɪˈnəʊt]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "applicable",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=applicable&type=2"
-					],
-					"phonetics": [
-						"[ˈæplɪkəb(ə)l]",
-						"[əˈplɪkəb(ə)l]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "deprioritize",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=deprioritize&type=2"
-					],
-					"phonetics": [
-						"[undefined]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "criteria",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=criteria&type=2"
-					],
-					"phonetics": [
-						"[kraɪˈtɪriə]",
-						"[kraɪˈtɪəriə]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "aspects",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=aspects&type=2"
-					],
-					"phonetics": [
-						"[ˈæspekts]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "colleague",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=colleague&type=2"
-					],
-					"phonetics": [
-						"[ˈkɑːliːɡ]",
-						"[ˈkɒliːɡ]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "availability",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=availability&type=2"
-					],
-					"phonetics": [
-						"[əˌveɪləˈbɪləti]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "apologize",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=apologize&type=2"
-					],
-					"phonetics": [
-						"[əˈpɑːlədʒaɪz]",
-						"[əˈpɒlədʒaɪz]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "doc",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=doc&type=2"
-					],
-					"phonetics": [
-						"[dɑːk]",
-						"[dɒk]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "attentive",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=attentive&type=2"
-					],
-					"phonetics": [
-						"[əˈtentɪv]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "adaptable",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adaptable&type=2"
-					],
-					"phonetics": [
-						"[əˈdæptəb(ə)l]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "accepts",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=accepts&type=2"
-					],
-					"phonetics": [
-						"[əkˈsepts]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "behavioral",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=behavioral&type=2"
-					],
-					"phonetics": [
-						"[bɪˈheɪvjərəl]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "attribution",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=attribution&type=2"
-					],
-					"phonetics": [
-						"[ˌætrɪˈbjuːʃn]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "certificate",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=certificate&type=2"
-					],
-					"phonetics": [
-						"[undefined]"
-					],
-					"reference": ""
-				}
-			]
-		},
-		{
-			"type": "email",
-			"content": []
-		},
-		{
-			"type": "diploma",
-			"content": []
-		},
-		{
-			"type": "algorithm",
-			"content": [
-				{
-					"word": "cubic",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=cubic&type=2"
-					],
-					"phonetics": [
-						"[undefined]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "complexity",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=complexity&type=2"
-					],
-					"phonetics": [
-						"[kəmˈpleksəti]"
-					],
-					"reference": ""
-				}
-			]
-		},
-		{
-			"type": "tools",
-			"content": []
-		}
-	],
-	"expression": []
+  "glossary": [
+    {
+      "type": "general",
+      "content": [
+        {
+          "word": "only",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=only&type=2"],
+          "phonetics": ["[ˈoʊnli]", "[ˈəʊnli]"],
+          "reference": ""
+        },
+        {
+          "word": "rough",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=rough&type=2"],
+          "phonetics": ["[rʌf]"],
+          "reference": ""
+        },
+        {
+          "word": "project",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=project&type=2"],
+          "phonetics": ["[ˈprɑːdʒekt]", "[ˈprɒdʒekt]"],
+          "reference": ""
+        },
+        {
+          "word": "range",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=range&type=2"],
+          "phonetics": ["[reɪndʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "private",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=private&type=2"],
+          "phonetics": ["[ˈpraɪvət]"],
+          "reference": ""
+        },
+        {
+          "word": "performance",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=performance&type=2"],
+          "phonetics": ["[pərˈfɔːrməns]", "[pəˈfɔːməns]"],
+          "reference": ""
+        },
+        {
+          "word": "progress",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=progress&type=2"],
+          "phonetics": ["[ˈprɑːɡres]", "[ˈprəʊɡres]"],
+          "reference": ""
+        },
+        {
+          "word": "progress",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=progress&type=2"],
+          "phonetics": ["[ˈprɑːɡres]", "[ˈprəʊɡres]"],
+          "reference": ""
+        },
+        {
+          "word": "pleasure",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pleasure&type=2"],
+          "phonetics": ["[ˈpleʒər]", "[ˈpleʒə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "potential",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=potential&type=2"],
+          "phonetics": ["[pəˈtenʃ(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "recognize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=recognize&type=2"],
+          "phonetics": ["[ˈrekəɡnaɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "phase",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=phase&type=2"],
+          "phonetics": ["[feɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "propose",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=propose&type=2"],
+          "phonetics": ["[prəˈpoʊz]", "[prəˈpəʊz]"],
+          "reference": ""
+        },
+        {
+          "word": "foreign",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=foreign&type=2"],
+          "phonetics": ["[ˈfɔːrən]", "[ˈfɒrən]"],
+          "reference": ""
+        },
+        {
+          "word": "profile",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=profile&type=2"],
+          "phonetics": ["[ˈproʊfaɪl]", "[ˈprəʊfaɪl]"],
+          "reference": ""
+        },
+        {
+          "word": "relevant",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=relevant&type=2"],
+          "phonetics": ["[ˈreləvənt]"],
+          "reference": ""
+        },
+        {
+          "word": "phrase",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=phrase&type=2"],
+          "phonetics": ["[freɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "precise",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=precise&type=2"],
+          "phonetics": ["[prɪˈsaɪs]"],
+          "reference": ""
+        },
+        {
+          "word": "permanent",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=permanent&type=2"],
+          "phonetics": ["[ˈpɜːrmənənt]", "[ˈpɜːmənənt]"],
+          "reference": ""
+        },
+        {
+          "word": "merchant",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=merchant&type=2"],
+          "phonetics": ["[ˈmɜːrtʃənt]", "[ˈmɜːtʃənt]"],
+          "reference": ""
+        },
+        {
+          "word": "hesitate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hesitate&type=2"],
+          "phonetics": ["[ˈhezɪteɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "preference",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=preference&type=2"],
+          "phonetics": ["[ˈprefrəns]"],
+          "reference": ""
+        },
+        {
+          "word": "pursue",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pursue&type=2"],
+          "phonetics": ["[pərˈsuː]", "[pəˈsjuː]"],
+          "reference": ""
+        },
+        {
+          "word": "proposal",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=proposal&type=2"],
+          "phonetics": ["[prəˈpoʊz(ə)l]", "[prəˈpəʊz(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "invitation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=invitation&type=2"],
+          "phonetics": ["[ˌɪnvɪˈteɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "encounter",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=encounter&type=2"],
+          "phonetics": ["[ɪnˈkaʊntər]", "[ɪnˈkaʊntə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "radio",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=radio&type=2"],
+          "phonetics": ["[ˈreɪdioʊ]", "[ˈreɪdiəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "relay",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=relay&type=2"],
+          "phonetics": ["[ˈriːleɪ]"],
+          "reference": ""
+        },
+        {
+          "word": "regret",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=regret&type=2"],
+          "phonetics": ["[rɪˈɡret]"],
+          "reference": ""
+        },
+        {
+          "word": "postpone",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=postpone&type=2"],
+          "phonetics": ["[poʊˈspoʊn]", "[pəˈspəʊn]"],
+          "reference": ""
+        },
+        {
+          "word": "exist",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=exist&type=2"],
+          "phonetics": ["[ɪɡˈzɪst]"],
+          "reference": ""
+        },
+        {
+          "word": "emphasize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=emphasize&type=2"],
+          "phonetics": ["[ˈemfəsaɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "robust",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=robust&type=2"],
+          "phonetics": ["[roʊˈbʌst]", "[rəʊˈbʌst]"],
+          "reference": ""
+        },
+        {
+          "word": "commerce",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=commerce&type=2"],
+          "phonetics": ["[ˈkɑːmɜːrs]", "[ˈkɒmɜːs]"],
+          "reference": ""
+        },
+        {
+          "word": "forum",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=forum&type=2"],
+          "phonetics": ["[ˈfɔːrəm]"],
+          "reference": ""
+        },
+        {
+          "word": "ratio",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ratio&type=2"],
+          "phonetics": ["[ˈreɪʃioʊ]", "[ˈreɪʃiəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "participation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=participation&type=2"],
+          "phonetics": ["[pɑːrˌtɪsɪˈpeɪʃ(ə)n]", "[pɑːˌtɪsɪˈpeɪʃn]"],
+          "reference": ""
+        },
+        {
+          "word": "practices",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=practices&type=2"],
+          "phonetics": ["[ˈpræktɪsɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "officially",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=officially&type=2"],
+          "phonetics": ["[əˈfɪʃəli]"],
+          "reference": ""
+        },
+        {
+          "word": "gorgeous",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=gorgeous&type=2"],
+          "phonetics": ["[ˈɡɔːrdʒəs]", "[ˈɡɔːdʒəs]"],
+          "reference": ""
+        },
+        {
+          "word": "pause",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pause&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "prevalent",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=prevalent&type=2"],
+          "phonetics": ["[ˈprevələnt]"],
+          "reference": ""
+        },
+        {
+          "word": "obsess",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=obsess&type=2"],
+          "phonetics": ["[əbˈses]"],
+          "reference": ""
+        },
+        {
+          "word": "labor",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=labor&type=2"],
+          "phonetics": ["[ˈleɪbər]", "[ˈleɪbə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "hassle",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hassle&type=2"],
+          "phonetics": ["[ˈhæs(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "glossary",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=glossary&type=2"],
+          "phonetics": ["[ˈɡlɑːsəri]", "[ˈɡlɒsəri]"],
+          "reference": ""
+        },
+        {
+          "word": "evolved",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=evolved&type=2"],
+          "phonetics": ["[ɪˈvɑːlvd]", "[ɪˈvɒlvd]"],
+          "reference": ""
+        },
+        {
+          "word": "historically",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=historically&type=2"],
+          "phonetics": ["[hɪˈstɔːrɪkli]", "[hɪˈstɒrɪkli]"],
+          "reference": ""
+        },
+        {
+          "word": "eureka",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=eureka&type=2"],
+          "phonetics": ["[juˈriːkə]"],
+          "reference": ""
+        },
+        {
+          "word": "instrument",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=instrument&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "grads",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=grads&type=2"],
+          "phonetics": ["[ɡrædz]"],
+          "reference": ""
+        },
+        {
+          "word": "etc",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=etc&type=2"],
+          "phonetics": ["[ˌet ˈsetərə; ˌɪt ˈsetərə]"],
+          "reference": ""
+        },
+        {
+          "word": "formality",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=formality&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "proposed",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=proposed&type=2"],
+          "phonetics": ["[prəˈpoʊzd]", "[prəˈpəʊzd]"],
+          "reference": ""
+        },
+        {
+          "word": "resources",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=resources&type=2"],
+          "phonetics": ["[ˈriːsɔːrsɪz]", "[rɪˈsɔːsɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "ethics",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ethics&type=2"],
+          "phonetics": ["[ˈeθɪks]"],
+          "reference": ""
+        },
+        {
+          "word": "prioritize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=prioritize&type=2"],
+          "phonetics": ["[praɪˈɔːrətaɪz]", "[praɪˈɒrətaɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "emoji",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=emoji&type=2"],
+          "phonetics": ["[ɪˈmoʊdʒi]", "[ɪˈməʊdʒi]"],
+          "reference": ""
+        },
+        {
+          "word": "reset",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=reset&type=2"],
+          "phonetics": ["[ˌriːˈset]"],
+          "reference": ""
+        },
+        {
+          "word": "action",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=action&type=2"],
+          "phonetics": ["[ˈækʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "due",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=due&type=2"],
+          "phonetics": ["[duː]", "[djuː]"],
+          "reference": ""
+        },
+        {
+          "word": "capacity",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=capacity&type=2"],
+          "phonetics": ["[kəˈpæsəti]"],
+          "reference": ""
+        },
+        {
+          "word": "demand",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=demand&type=2"],
+          "phonetics": ["[dɪˈmænd]", "[dɪˈmɑːnd]"],
+          "reference": ""
+        },
+        {
+          "word": "adjust",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=adjust&type=2"],
+          "phonetics": ["[əˈdʒʌst]"],
+          "reference": ""
+        },
+        {
+          "word": "adopt",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=adopt&type=2"],
+          "phonetics": ["[əˈdɑːpt]", "[əˈdɒpt]"],
+          "reference": ""
+        },
+        {
+          "word": "demonstrate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"],
+          "phonetics": ["[ˈdemənstreɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "college",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=college&type=2"],
+          "phonetics": ["[ˈkɑːlɪdʒ]", "[ˈkɒlɪdʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "annual",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=annual&type=2"],
+          "phonetics": ["[ˈænjuəl]"],
+          "reference": ""
+        },
+        {
+          "word": "approval",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=approval&type=2"],
+          "phonetics": ["[əˈpruːv(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "billion",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=billion&type=2"],
+          "phonetics": ["[ˈbɪljən]"],
+          "reference": ""
+        },
+        {
+          "word": "explanation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=explanation&type=2"],
+          "phonetics": ["[ˌekspləˈneɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "complement",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=complement&type=2"],
+          "phonetics": ["[ˈkɑːmplɪment]", "[ˈkɒmplɪment]"],
+          "reference": ""
+        },
+        {
+          "word": "agency",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=agency&type=2"],
+          "phonetics": ["[ˈeɪdʒənsi]"],
+          "reference": ""
+        },
+        {
+          "word": "alternative",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=alternative&type=2"],
+          "phonetics": ["[ɔːlˈtɜːrnətɪv]", "[ɔːlˈtɜːnətɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "brief",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=brief&type=2"],
+          "phonetics": ["[briːf]"],
+          "reference": ""
+        },
+        {
+          "word": "capability",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=capability&type=2"],
+          "phonetics": ["[ˌkeɪpəˈbɪləti]"],
+          "reference": ""
+        },
+        {
+          "word": "debt",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=debt&type=2"],
+          "phonetics": ["[det]"],
+          "reference": ""
+        },
+        {
+          "word": "comprehensive",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=comprehensive&type=2"],
+          "phonetics": ["[ˌkɑːmprɪˈhensɪv]", "[ˌkɒmprɪˈhensɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "adapt",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=adapt&type=2"],
+          "phonetics": ["[əˈdæpt]"],
+          "reference": ""
+        },
+        {
+          "word": "disability",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=disability&type=2"],
+          "phonetics": ["[ˌdɪsəˈbɪləti]"],
+          "reference": ""
+        },
+        {
+          "word": "determined",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=determined&type=2"],
+          "phonetics": ["[dɪˈtɜːrmɪnd]", "[dɪˈtɜːmɪnd]"],
+          "reference": ""
+        },
+        {
+          "word": "concept",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=concept&type=2"],
+          "phonetics": ["[ˈkɑːnsept]", "[ˈkɒnsept]"],
+          "reference": ""
+        },
+        {
+          "word": "currency",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=currency&type=2"],
+          "phonetics": ["[ˈkɜːrənsi]", "[ˈkʌrənsi]"],
+          "reference": ""
+        },
+        {
+          "word": "compliance",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=compliance&type=2"],
+          "phonetics": ["[kəmˈplaɪəns]"],
+          "reference": ""
+        },
+        {
+          "word": "accurate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=accurate&type=2"],
+          "phonetics": ["[ˈækjərət]"],
+          "reference": ""
+        },
+        {
+          "word": "convince",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=convince&type=2"],
+          "phonetics": ["[kənˈvɪns]"],
+          "reference": ""
+        },
+        {
+          "word": "collaborative",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=collaborative&type=2"],
+          "phonetics": ["[kəˈlæbəreɪtɪv]", "[kəˈlæbərətɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "dual",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=dual&type=2"],
+          "phonetics": ["[ˈduːəl]", "[ˈdjuːəl]"],
+          "reference": ""
+        },
+        {
+          "word": "denote",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=denote&type=2"],
+          "phonetics": ["[dɪˈnoʊt]", "[dɪˈnəʊt]"],
+          "reference": ""
+        },
+        {
+          "word": "applicable",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=applicable&type=2"],
+          "phonetics": ["[ˈæplɪkəb(ə)l]", "[əˈplɪkəb(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "deprioritize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=deprioritize&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "criteria",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=criteria&type=2"],
+          "phonetics": ["[kraɪˈtɪriə]", "[kraɪˈtɪəriə]"],
+          "reference": ""
+        },
+        {
+          "word": "aspects",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=aspects&type=2"],
+          "phonetics": ["[ˈæspekts]"],
+          "reference": ""
+        },
+        {
+          "word": "colleague",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=colleague&type=2"],
+          "phonetics": ["[ˈkɑːliːɡ]", "[ˈkɒliːɡ]"],
+          "reference": ""
+        },
+        {
+          "word": "availability",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=availability&type=2"],
+          "phonetics": ["[əˌveɪləˈbɪləti]"],
+          "reference": ""
+        },
+        {
+          "word": "apologize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=apologize&type=2"],
+          "phonetics": ["[əˈpɑːlədʒaɪz]", "[əˈpɒlədʒaɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "doc",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=doc&type=2"],
+          "phonetics": ["[dɑːk]", "[dɒk]"],
+          "reference": ""
+        },
+        {
+          "word": "attentive",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=attentive&type=2"],
+          "phonetics": ["[əˈtentɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "adaptable",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=adaptable&type=2"],
+          "phonetics": ["[əˈdæptəb(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "accepts",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=accepts&type=2"],
+          "phonetics": ["[əkˈsepts]"],
+          "reference": ""
+        },
+        {
+          "word": "behavioral",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=behavioral&type=2"],
+          "phonetics": ["[bɪˈheɪvjərəl]"],
+          "reference": ""
+        },
+        {
+          "word": "attribution",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=attribution&type=2"],
+          "phonetics": ["[ˌætrɪˈbjuːʃn]"],
+          "reference": ""
+        },
+        {
+          "word": "certificate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=certificate&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "type": "algorithm",
+      "content": [
+        {
+          "word": "represent",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=represent&type=2"],
+          "phonetics": ["[ˌreprɪˈzent]"],
+          "reference": ""
+        },
+        {
+          "word": "float",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=float&type=2"],
+          "phonetics": ["[floʊt]", "[fləʊt]"],
+          "reference": ""
+        },
+        {
+          "word": "peak",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=peak&type=2"],
+          "phonetics": ["[piːk]"],
+          "reference": ""
+        },
+        {
+          "word": "pivot",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pivot&type=2"],
+          "phonetics": ["[ˈpɪvət]"],
+          "reference": ""
+        },
+        {
+          "word": "matrix",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=matrix&type=2"],
+          "phonetics": ["[ˈmeɪtrɪks]"],
+          "reference": ""
+        },
+        {
+          "word": "constant",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=constant&type=2"],
+          "phonetics": ["[ˈkɑːnstənt]", "[ˈkɒnstənt]"],
+          "reference": ""
+        },
+        {
+          "word": "linear",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=linear&type=2"],
+          "phonetics": ["[ˈlɪniər]", "[ˈlɪniə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "inward",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=inward&type=2"],
+          "phonetics": ["[ˈɪnwərd]", "[ˈɪnwəd]"],
+          "reference": ""
+        },
+        {
+          "word": "outward",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=outward&type=2"],
+          "phonetics": ["[ˈaʊtwərd]", "[ˈaʊtwəd]"],
+          "reference": ""
+        },
+        {
+          "word": "logarithmic",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=logarithmic&type=2"],
+          "phonetics": ["[ˌlɔːɡəˈrɪðmɪk]", "[ˌlɒɡəˈrɪðmɪk]"],
+          "reference": ""
+        },
+        {
+          "word": "optimal",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=optimal&type=2"],
+          "phonetics": ["[ˈɑːptɪməl]", "[ˈɒptɪməl]"],
+          "reference": ""
+        },
+        {
+          "word": "permutation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=permutation&type=2"],
+          "phonetics": ["[ˌpɜːrmjuˈteɪʃ(ə)n]", "[ˌpɜːmjuˈteɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "quadratic",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=quadratic&type=2"],
+          "phonetics": ["[kwɑːˈdrætɪk]", "[kwɒˈdrætɪk]"],
+          "reference": ""
+        },
+        {
+          "word": "pseudocode",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pseudocode&type=2"],
+          "phonetics": ["[ˈsju:doˌkod]", "[ˈsju:dəʊˌkəʊd]"],
+          "reference": ""
+        },
+        {
+          "word": "rounds",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=rounds&type=2"],
+          "phonetics": ["[raʊndz]"],
+          "reference": ""
+        },
+        {
+          "word": "recursion",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=recursion&type=2"],
+          "phonetics": ["[rɪˈkɜːrʒn]", "[rɪˈkɜːʃn]"],
+          "reference": ""
+        },
+        {
+          "word": "integer",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=integer&type=2"],
+          "phonetics": ["[ˈɪntɪdʒər]", "[ˈɪntɪdʒə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "n-ary",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=n-ary&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "palindrome",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=palindrome&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "cubic",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=cubic&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "complexity",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=complexity&type=2"],
+          "phonetics": ["[kəmˈpleksəti]"],
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "type": "engineering",
+      "content": [
+        {
+          "word": "figure",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=figure&type=2"],
+          "phonetics": ["[ˈfɪɡjər]", "[ˈfɪɡə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "issue",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=issue&type=2"],
+          "phonetics": ["[ˈɪʃuː]"],
+          "reference": ""
+        },
+        {
+          "word": "model",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=model&type=2"],
+          "phonetics": ["[ˈmɑːd(ə)l]", "[ˈmɒd(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "forward",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=forward&type=2"],
+          "phonetics": ["[ˈfɔːrwərd]", "[ˈfɔːwəd]"],
+          "reference": ""
+        },
+        {
+          "word": "next",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=next&type=2"],
+          "phonetics": ["[nekst]"],
+          "reference": ""
+        },
+        {
+          "word": "height",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=height&type=2"],
+          "phonetics": ["[haɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "pop",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pop&type=2"],
+          "phonetics": ["[pɑːp]", "[pɒp]"],
+          "reference": ""
+        },
+        {
+          "word": "increase",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=increase&type=2"],
+          "phonetics": ["[ɪnˈkriːs]"],
+          "reference": ""
+        },
+        {
+          "word": "image",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=image&type=2"],
+          "phonetics": ["[ˈɪmɪdʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "declare",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=declare&type=2"],
+          "phonetics": ["[dɪˈkler]", "[dɪˈkleə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "main",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=main&type=2"],
+          "phonetics": ["[meɪn]"],
+          "reference": ""
+        },
+        {
+          "word": "object",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=object&type=2"],
+          "phonetics": ["[ˈɑːbdʒekt]", "[ˈɒbdʒɪkt; əbˈdʒekt]"],
+          "reference": ""
+        },
+        {
+          "word": "index",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=index&type=2"],
+          "phonetics": ["[ˈɪndeks]"],
+          "reference": ""
+        },
+        {
+          "word": "isolate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=isolate&type=2"],
+          "phonetics": ["[ˈaɪsəleɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "exact",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=exact&type=2"],
+          "phonetics": ["[ɪɡˈzækt]"],
+          "reference": ""
+        },
+        {
+          "word": "event",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=event&type=2"],
+          "phonetics": ["[ɪˈvent]"],
+          "reference": ""
+        },
+        {
+          "word": "reject",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=reject&type=2"],
+          "phonetics": ["[rɪˈdʒekt]"],
+          "reference": ""
+        },
+        {
+          "word": "prompt",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=prompt&type=2"],
+          "phonetics": ["[prɑːmpt]", "[prɒmpt]"],
+          "reference": ""
+        },
+        {
+          "word": "collapse",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=collapse&type=2"],
+          "phonetics": ["[kəˈlæps]"],
+          "reference": ""
+        },
+        {
+          "word": "multiple",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=multiple&type=2"],
+          "phonetics": ["[ˈmʌltɪp(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "implement",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=implement&type=2"],
+          "phonetics": ["[ˈɪmplɪment]"],
+          "reference": ""
+        },
+        {
+          "word": "million",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=million&type=2"],
+          "phonetics": ["[ˈmɪljən]"],
+          "reference": ""
+        },
+        {
+          "word": "maintenance",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=maintenance&type=2"],
+          "phonetics": ["[ˈmeɪntənəns]"],
+          "reference": ""
+        },
+        {
+          "word": "intermediate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=intermediate&type=2"],
+          "phonetics": ["[ˌɪntərˈmiːdiət]", "[ˌɪntəˈmiːdiət]"],
+          "reference": ""
+        },
+        {
+          "word": "layer",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=layer&type=2"],
+          "phonetics": ["[ˈleɪər]", "[ˈleɪə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "mock",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=mock&type=2"],
+          "phonetics": ["[mɑːk]", "[mɒk]"],
+          "reference": ""
+        },
+        {
+          "word": "illustrate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=illustrate&type=2"],
+          "phonetics": ["[ˈɪləstreɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "margin",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=margin&type=2"],
+          "phonetics": ["[ˈmɑːrdʒɪn]", "[ˈmɑːdʒɪn]"],
+          "reference": ""
+        },
+        {
+          "word": "complex",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=complex&type=2"],
+          "phonetics": ["[kəmˈpleks]", "[ˈkɒmpleks]"],
+          "reference": ""
+        },
+        {
+          "word": "commit",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=commit&type=2"],
+          "phonetics": ["[kəˈmɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "modal",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=modal&type=2"],
+          "phonetics": ["[ˈmoʊdl]", "[ˈməʊdl]"],
+          "reference": ""
+        },
+        {
+          "word": "overhead",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=overhead&type=2"],
+          "phonetics": ["[ˌoʊvərˈhed]", "[ˌəʊvəˈhed]"],
+          "reference": ""
+        },
+        {
+          "word": "inheritance",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=inheritance&type=2"],
+          "phonetics": ["[ɪnˈherɪtəns]"],
+          "reference": ""
+        },
+        {
+          "word": "interact",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=interact&type=2"],
+          "phonetics": ["[ˌɪntərˈækt]"],
+          "reference": ""
+        },
+        {
+          "word": "infinite",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=infinite&type=2"],
+          "phonetics": ["[ˈɪnfɪnət]"],
+          "reference": ""
+        },
+        {
+          "word": "imperative",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=imperative&type=2"],
+          "phonetics": ["[ɪmˈperətɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "frozen",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=frozen&type=2"],
+          "phonetics": ["[ˈfroʊz(ə)n]", "[ˈfrəʊz(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "hierarchy",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hierarchy&type=2"],
+          "phonetics": ["[ˈhaɪərɑːrki]", "[ˈhaɪərɑːki]"],
+          "reference": ""
+        },
+        {
+          "word": "format",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=format&type=2"],
+          "phonetics": ["[ˈfɔːrmæt]", "[ˈfɔːmæt]"],
+          "reference": ""
+        },
+        {
+          "word": "polish",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=polish&type=2"],
+          "phonetics": ["[ˈpɑːlɪʃ]", "[ˈpɒlɪʃ]"],
+          "reference": ""
+        },
+        {
+          "word": "null",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=null&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "orientation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=orientation&type=2"],
+          "phonetics": ["[ˌɔːriənˈteɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "manipulate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=manipulate&type=2"],
+          "phonetics": ["[məˈnɪpjuleɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "origin",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=origin&type=2"],
+          "phonetics": ["[ˈɔːrɪdʒɪn]", "[ˈɒrɪdʒɪn]"],
+          "reference": ""
+        },
+        {
+          "word": "failure",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=failure&type=2"],
+          "phonetics": ["[ˈfeɪljər]", "[ˈfeɪljə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "column",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=column&type=2"],
+          "phonetics": ["[ˈkɑːləm]", "[ˈkɒləm]"],
+          "reference": ""
+        },
+        {
+          "word": "custom",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=custom&type=2"],
+          "phonetics": ["[ˈkʌstəm]"],
+          "reference": ""
+        },
+        {
+          "word": "composition",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=composition&type=2"],
+          "phonetics": ["[ˌkɑːmpəˈzɪʃ(ə)n]", "[ˌkɒmpəˈzɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "active",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=active&type=2"],
+          "phonetics": ["[ˈæktɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "bind",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=bind&type=2"],
+          "phonetics": ["[baɪnd]"],
+          "reference": ""
+        },
+        {
+          "word": "icon",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=icon&type=2"],
+          "phonetics": ["[ˈaɪkɑːn]", "[ˈaɪkɒn]"],
+          "reference": ""
+        },
+        {
+          "word": "hash",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hash&type=2"],
+          "phonetics": ["[hæʃ]"],
+          "reference": ""
+        },
+        {
+          "word": "horizontal",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=horizontal&type=2"],
+          "phonetics": ["[ˌhɔːrɪˈzɑːnt(ə)l]", "[ˌhɒrɪˈzɒnt(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "garbage",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=garbage&type=2"],
+          "phonetics": ["[ˈɡɑːrbɪdʒ]", "[ˈɡɑːbɪdʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "declaration",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=declaration&type=2"],
+          "phonetics": ["[ˌdekləˈreɪʃn]", "[ˌdekləˈreɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "definition",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=definition&type=2"],
+          "phonetics": ["[ˌdefɪˈnɪʃn]", "[ˌdefɪˈnɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "console",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=console&type=2"],
+          "phonetics": ["[kənˈsoʊl]", "[kənˈsəʊl]"],
+          "reference": ""
+        },
+        {
+          "word": "explicit",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=explicit&type=2"],
+          "phonetics": ["[ɪkˈsplɪsɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "gesture",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=gesture&type=2"],
+          "phonetics": ["[ˈdʒestʃər]", "[ˈdʒestʃə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "compatible",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=compatible&type=2"],
+          "phonetics": ["[kəmˈpætəb(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "constant",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=constant&type=2"],
+          "phonetics": ["[ˈkɑːnstənt]", "[ˈkɒnstənt]"],
+          "reference": ""
+        },
+        {
+          "word": "implicit",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=implicit&type=2"],
+          "phonetics": ["[ɪmˈplɪsɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "bug",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=bug&type=2"],
+          "phonetics": ["[bʌɡ]"],
+          "reference": ""
+        },
+        {
+          "word": "access",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=access&type=2"],
+          "phonetics": ["[ˈækses]"],
+          "reference": ""
+        },
+        {
+          "word": "intuitive",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=intuitive&type=2"],
+          "phonetics": ["[ɪnˈtuːɪtɪv]", "[ɪnˈtjuːɪtɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "malicious",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=malicious&type=2"],
+          "phonetics": ["[məˈlɪʃəs]"],
+          "reference": ""
+        },
+        {
+          "word": "hidden",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hidden&type=2"],
+          "phonetics": ["[ˈhɪd(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "micro",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=micro&type=2"],
+          "phonetics": ["[ˈmaɪkroʊ]", "[ˈmaɪkrəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "macro",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=macro&type=2"],
+          "phonetics": ["[ˈmækroʊ]", "[ˈmækrəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "iterate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=iterate&type=2"],
+          "phonetics": ["[ˈɪtəreɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "initiated",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=initiated&type=2"],
+          "phonetics": ["[ɪˈnɪʃɪeɪtɪd]"],
+          "reference": ""
+        },
+        {
+          "word": "lanes",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=lanes&type=2"],
+          "phonetics": ["[leɪnz]"],
+          "reference": ""
+        },
+        {
+          "word": "module",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=module&type=2"],
+          "phonetics": ["[ˈmɑːdʒuːl]", "[ˈmɒdjuːl]"],
+          "reference": ""
+        },
+        {
+          "word": "embed",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=embed&type=2"],
+          "phonetics": ["[ɪmˈbed]"],
+          "reference": ""
+        },
+        {
+          "word": "creation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=creation&type=2"],
+          "phonetics": ["[kriˈeɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "array",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=array&type=2"],
+          "phonetics": ["[əˈreɪ]"],
+          "reference": ""
+        },
+        {
+          "word": "arbitrary",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=arbitrary&type=2"],
+          "phonetics": ["[ˈɑːrbɪtreri]", "[ˈɑːbɪtrəri]"],
+          "reference": ""
+        },
+        {
+          "word": "contiguous",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=contiguous&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "backward",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=backward&type=2"],
+          "phonetics": ["[ˈbækwərd]", "[ˈbækwəd]"],
+          "reference": ""
+        },
+        {
+          "word": "panel",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=panel&type=2"],
+          "phonetics": ["[ˈpæn(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "maintainability",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=maintainability&type=2"],
+          "phonetics": ["[meɪnˌteɪnəˈbɪləti]"],
+          "reference": ""
+        },
+        {
+          "word": "instance",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=instance&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "instantiated",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=instantiated&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "mortem",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=mortem&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "href",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=href&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "modularize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=modularize&type=2"],
+          "phonetics": ["[undefined]", "[ˈmɒdjʊləraɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "multiplexing",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=multiplexing&type=2"],
+          "phonetics": ["[ˈmʌltɪpleksɪŋ]", "[ˈmʌltɪˌpleksɪŋ]"],
+          "reference": ""
+        },
+        {
+          "word": "integrity",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=integrity&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "initialize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=initialize&type=2"],
+          "phonetics": ["[ɪˈnɪʃəlaɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "intuition",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=intuition&type=2"],
+          "phonetics": ["[ˌɪntuˈɪʃ(ə)n]", "[ˌɪntjuˈɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "interpolation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=interpolation&type=2"],
+          "phonetics": ["[ɪnˌtɜːrpəˈleɪʃ(ə)n]", "[ɪnˌtɜːpəˈleɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "indeterminate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=indeterminate&type=2"],
+          "phonetics": ["[ˌɪndɪˈtɜːrmɪnət]", "[ˌɪndɪˈtɜːmɪnət]"],
+          "reference": ""
+        },
+        {
+          "word": "jpeg",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=jpeg&type=2"],
+          "phonetics": ["[ˈdʒeɪpeɡ]"],
+          "reference": ""
+        },
+        {
+          "word": "locale",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=locale&type=2"],
+          "phonetics": ["[loʊˈkæl]", "[ləʊˈkɑːl]"],
+          "reference": ""
+        },
+        {
+          "word": "expiry",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=expiry&type=2"],
+          "phonetics": ["[ɪkˈspaɪəri]"],
+          "reference": ""
+        },
+        {
+          "word": "forth",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=forth&type=2"],
+          "phonetics": ["[fɔːrθ]", "[fɔːθ]"],
+          "reference": ""
+        },
+        {
+          "word": "consistency",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=consistency&type=2"],
+          "phonetics": ["[kənˈsɪstənsi]"],
+          "reference": ""
+        },
+        {
+          "word": "archive",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=archive&type=2"],
+          "phonetics": ["[ˈɑːrkaɪv]", "[ˈɑːkaɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "compress",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=compress&type=2"],
+          "phonetics": ["[kəmˈpres]"],
+          "reference": ""
+        },
+        {
+          "word": "allocate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=allocate&type=2"],
+          "phonetics": ["[ˈæləkeɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "assert",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=assert&type=2"],
+          "phonetics": ["[əˈsɜːrt]", "[əˈsɜːt]"],
+          "reference": ""
+        },
+        {
+          "word": "prop",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=prop&type=2"],
+          "phonetics": ["[prɑːp]", "[prɒp]"],
+          "reference": ""
+        },
+        {
+          "word": "query",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=query&type=2"],
+          "phonetics": ["[ˈkwɪri]", "[ˈkwɪəri]"],
+          "reference": ""
+        },
+        {
+          "word": "assess",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=assess&type=2"],
+          "phonetics": ["[əˈses]"],
+          "reference": ""
+        },
+        {
+          "word": "manual",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=manual&type=2"],
+          "phonetics": ["[ˈmænjuəl]"],
+          "reference": ""
+        },
+        {
+          "word": "latency",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=latency&type=2"],
+          "phonetics": ["[ˈleɪtənsi]"],
+          "reference": ""
+        },
+        {
+          "word": "minify",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=minify&type=2"],
+          "phonetics": ["[mɪnɪˌfaɪ]", "[ˈmɪnɪˌfaɪ]"],
+          "reference": ""
+        },
+        {
+          "word": "eval",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=eval&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "colon",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=colon&type=2"],
+          "phonetics": ["[ˈkoʊlən]", "[ˈkəʊlən; ˈkəʊlɒn]"],
+          "reference": ""
+        },
+        {
+          "word": "hyphen",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hyphen&type=2"],
+          "phonetics": ["[ˈhaɪfn]"],
+          "reference": ""
+        },
+        {
+          "word": "handled",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=handled&type=2"],
+          "phonetics": ["[ˈhændld]", "[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "deletion",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=deletion&type=2"],
+          "phonetics": ["[dɪˈliːʃn]"],
+          "reference": ""
+        },
+        {
+          "word": "char",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=char&type=2"],
+          "phonetics": ["[tʃɑːr]", "[tʃɑː(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "cache",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=cache&type=2"],
+          "phonetics": ["[kæʃ]"],
+          "reference": ""
+        },
+        {
+          "word": "gist",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=gist&type=2"],
+          "phonetics": ["[dʒɪst]"],
+          "reference": ""
+        },
+        {
+          "word": "exclamation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=exclamation&type=2"],
+          "phonetics": ["[ˌekskləˈmeɪʃn]", "[ˌekskləˈmeɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "fuzzy",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=fuzzy&type=2"],
+          "phonetics": ["[ˈfʌzi]"],
+          "reference": ""
+        },
+        {
+          "word": "delegation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=delegation&type=2"],
+          "phonetics": ["[ˌdelɪˈɡeɪʃn]"],
+          "reference": ""
+        },
+        {
+          "word": "compile",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=compile&type=2"],
+          "phonetics": ["[kəmˈpaɪl]"],
+          "reference": ""
+        },
+        {
+          "word": "declarative",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=declarative&type=2"],
+          "phonetics": ["[dɪˈklærətɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "hyper",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hyper&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "emit",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=emit&type=2"],
+          "phonetics": ["[iˈmɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "plural",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=plural&type=2"],
+          "phonetics": ["[ˈplʊrəl]", "[ˈplʊərəl]"],
+          "reference": ""
+        },
+        {
+          "word": "precedence",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=precedence&type=2"],
+          "phonetics": ["[ˈpresɪdəns]"],
+          "reference": ""
+        },
+        {
+          "word": "repetitive",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=repetitive&type=2"],
+          "phonetics": ["[rɪˈpetətɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "pipeline",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pipeline&type=2"],
+          "phonetics": ["[ˈpaɪplaɪn]"],
+          "reference": ""
+        },
+        {
+          "word": "packets",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=packets&type=2"],
+          "phonetics": ["[ˈpækɪts]"],
+          "reference": ""
+        },
+        {
+          "word": "nano",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=nano&type=2"],
+          "phonetics": ["[ˈnænoʊ]", "[ˈnænəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "obsolete",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=obsolete&type=2"],
+          "phonetics": ["[ˌɑːbsəˈliːt]", "[ˈɒbsəliːt]"],
+          "reference": ""
+        },
+        {
+          "word": "maintainer",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=maintainer&type=2"],
+          "phonetics": ["[menˈteɪnər]", "[meɪnˈteɪnə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "operational",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=operational&type=2"],
+          "phonetics": ["[ˌɑːpəˈreɪʃən(ə)l]", "[ˌɒpəˈreɪʃən(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "badge",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=badge&type=2"],
+          "phonetics": ["[bædʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "concurrent",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=concurrent&type=2"],
+          "phonetics": ["[kənˈkɜːrənt]", "[kənˈkʌrənt]"],
+          "reference": ""
+        },
+        {
+          "word": "animation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=animation&type=2"],
+          "phonetics": ["[ˌænɪˈmeɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "parameter",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=parameter&type=2"],
+          "phonetics": ["[pəˈræmɪtər]", "[pəˈræmɪtə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "architecture",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=architecture&type=2"],
+          "phonetics": ["[ˈɑːrkɪtektʃər]", "[ˈɑːkɪtektʃə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "chunk",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=chunk&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "favicon",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=favicon&type=2"],
+          "phonetics": ["[ˈfeɪvɪkɑːn]", "[ˈfævɪkɒn; ˈfeɪvɪkɒn]"],
+          "reference": ""
+        },
+        {
+          "word": "hover",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=hover&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "ctrl",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ctrl&type=2"],
+          "phonetics": ["[kənˈtrol]", "[kənˈtrəʊl]"],
+          "reference": ""
+        },
+        {
+          "word": "div",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=div&type=2"],
+          "phonetics": ["[ dɪv]", "[dɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "deferred",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=deferred&type=2"],
+          "phonetics": ["[dɪˈfɜːrd]", "[dɪˈfɜːd]"],
+          "reference": ""
+        },
+        {
+          "word": "enumerable",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=enumerable&type=2"],
+          "phonetics": ["[ɪˈnjumərəbəl]", "[ɪˈnjuːm(ə)rəb(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "configurable",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=configurable&type=2"],
+          "phonetics": ["[kənˈfɪgjərəbl]", "[kənˈfɪgərəbl]"],
+          "reference": ""
+        },
+        {
+          "word": "decouple",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=decouple&type=2"],
+          "phonetics": ["[diːˈkʌpl]"],
+          "reference": ""
+        },
+        {
+          "word": "flexbox",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=flexbox&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "glitches",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=glitches&type=2"],
+          "phonetics": ["[ɡlɪtʃɪz]", "[ˈɡlɪtʃɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "delimiter",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=delimiter&type=2"],
+          "phonetics": ["[dɪˈlɪmɪtər]", "[dɪˈlɪmɪtə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "queued",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=queued&type=2"],
+          "phonetics": ["[kjuːd]"],
+          "reference": ""
+        },
+        {
+          "word": "polyfill",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=polyfill&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "multithreading",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=multithreading&type=2"],
+          "phonetics": ["[undefined]", "[ˌmʌltiˈθredɪŋ]"],
+          "reference": ""
+        },
+        {
+          "word": "maintainable",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=maintainable&type=2"],
+          "phonetics": ["[meɪnˈteɪnəbl]"],
+          "reference": ""
+        },
+        {
+          "word": "cursor",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=cursor&type=2"],
+          "phonetics": ["[ˈkɜːrsər]", "[ˈkɜːsə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "babel",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=babel&type=2"],
+          "phonetics": ["[ˈbeɪbl]"],
+          "reference": ""
+        },
+        {
+          "word": "beacon",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=beacon&type=2"],
+          "phonetics": ["[ˈbiːkən]"],
+          "reference": ""
+        },
+        {
+          "word": "anonymous",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=anonymous&type=2"],
+          "phonetics": ["[əˈnɑːnɪməs]", "[əˈnɒnɪməs]"],
+          "reference": ""
+        },
+        {
+          "word": "compilation",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=compilation&type=2"],
+          "phonetics": ["[ˌkɑːmpɪˈleɪʃn]", "[ˌkɒmpɪˈleɪʃn]"],
+          "reference": ""
+        },
+        {
+          "word": "agile",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=agile&type=2"],
+          "phonetics": ["[ˈædʒ(ə)l]", "[ˈædʒaɪl]"],
+          "reference": ""
+        },
+        {
+          "word": "app",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=app&type=2"],
+          "phonetics": ["[æp]"],
+          "reference": ""
+        },
+        {
+          "word": "algorithm",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=algorithm&type=2"],
+          "phonetics": ["[ˈælɡərɪðəm]"],
+          "reference": ""
+        },
+        {
+          "word": "authenticate",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=authenticate&type=2"],
+          "phonetics": ["[ɔːˈθentɪkeɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "alias",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=alias&type=2"],
+          "phonetics": ["[ˈeɪliəs]"],
+          "reference": ""
+        },
+        {
+          "word": "oriented",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=oriented&type=2"],
+          "phonetics": ["[ˈɔːrientɪd]"],
+          "reference": ""
+        },
+        {
+          "word": "commands",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=commands&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "flaky",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=flaky&type=2"],
+          "phonetics": ["[ˈfleɪki]"],
+          "reference": ""
+        },
+        {
+          "word": "drawer",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=drawer&type=2"],
+          "phonetics": ["[drɔːr]", "[drɔː(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "cascader",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=cascader&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "aliases",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=aliases&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "breadcrumb",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=breadcrumb&type=2"],
+          "phonetics": ["[undefined]", "[ˈbredkrʌmb]"],
+          "reference": ""
+        },
+        {
+          "word": "indices",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=indices&type=2"],
+          "phonetics": ["[ˈɪndɪsiːz]"],
+          "reference": ""
+        },
+        {
+          "word": "adjacent",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=adjacent&type=2"],
+          "phonetics": ["[əˈdʒeɪs(ə)nt]"],
+          "reference": ""
+        },
+        {
+          "word": "amend",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=amend&type=2"],
+          "phonetics": ["[əˈmend]"],
+          "reference": ""
+        },
+        {
+          "word": "anagram",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=anagram&type=2"],
+          "phonetics": ["[ˈænəɡræm]"],
+          "reference": ""
+        },
+        {
+          "word": "analyzer",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=analyzer&type=2"],
+          "phonetics": ["[ˈænəˌlaɪzər]", "[ˈænəlaɪzə]"],
+          "reference": ""
+        },
+        {
+          "word": "admin",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=admin&type=2"],
+          "phonetics": ["[ˈædmɪn]"],
+          "reference": ""
+        },
+        {
+          "word": "pod",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pod&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "omit",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=omit&type=2"],
+          "phonetics": ["[əˈmɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "outage",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=outage&type=2"],
+          "phonetics": ["[ˈaʊtɪdʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "asynchronous",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=asynchronous&type=2"],
+          "phonetics": ["[eɪˈsɪŋkrənəs]"],
+          "reference": ""
+        },
+        {
+          "word": "modification",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=modification&type=2"],
+          "phonetics": ["[ˌmɑːdɪfɪˈkeɪʃ(ə)n]", "[ˌmɒdɪfɪˈkeɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "assets",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=assets&type=2"],
+          "phonetics": ["[ˈæsets]"],
+          "reference": ""
+        },
+        {
+          "word": "agnostic",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=agnostic&type=2"],
+          "phonetics": ["[æɡˈnɑːstɪk]", "[æɡˈnɒstɪk]"],
+          "reference": ""
+        },
+        {
+          "word": "authorize",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=authorize&type=2"],
+          "phonetics": ["[ˈɔːθəraɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "authorization",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=authorization&type=2"],
+          "phonetics": ["[ˌɔːθərəˈzeɪʃ(ə)n]", "[ˌɔːθəraɪˈzeɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "pagination",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=pagination&type=2"],
+          "phonetics": ["[ˌpædʒɪˈneɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "affix",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=affix&type=2"],
+          "phonetics": ["[əˈfɪks]"],
+          "reference": ""
+        },
+        {
+          "word": "router",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=router&type=2"],
+          "phonetics": ["[ˈruːtər; ˈraʊtər]", "[ˈruːtə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "avatar",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=avatar&type=2"],
+          "phonetics": ["[ˈævətɑːr]", "[ˈævətɑː(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "accordion",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=accordion&type=2"],
+          "phonetics": ["[əˈkɔːrdiən]", "[əˈkɔːdiən]"],
+          "reference": ""
+        },
+        {
+          "word": "opacity",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=opacity&type=2"],
+          "phonetics": ["[oʊˈpæsəti]", "[əʊˈpæsəti]"],
+          "reference": ""
+        },
+        {
+          "word": "concat",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=concat&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "async",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=async&type=2"],
+          "phonetics": ["[əˈsɪŋk]"],
+          "reference": ""
+        },
+        {
+          "word": "analytics",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=analytics&type=2"],
+          "phonetics": ["[ˌænəˈlɪtɪks]"],
+          "reference": ""
+        },
+        {
+          "word": "props",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=props&type=2"],
+          "phonetics": ["[prɑːps]", "[prɒps]"],
+          "reference": ""
+        },
+        {
+          "word": "percentiles",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=percentiles&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "prototypal",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=prototypal&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "architectural",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=architectural&type=2"],
+          "phonetics": ["[ˌɑːrkɪˈtektʃərəl]", "[ˌɑːkɪˈtektʃərəl]"],
+          "reference": ""
+        },
+        {
+          "word": "repo",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=repo&type=2"],
+          "phonetics": ["[ˈriːpoʊ]", "[ˈriːpəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "repository",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=repository&type=2"],
+          "phonetics": ["[rɪˈpɑːzətɔːri]", "[rɪˈpɒzət(ə)ri]"],
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "type": "terms",
+      "content": [
+        {
+          "word": "LESS",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=LESS&type=2"],
+          "phonetics": ["[les]"],
+          "reference": ""
+        },
+        {
+          "word": "cURL",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=cURL&type=2"],
+          "phonetics": ["[kɜːrl]", "[kɜːl]"],
+          "reference": ""
+        },
+        {
+          "word": "C#",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=C#&type=2"],
+          "phonetics": ["[siː]"],
+          "reference": ""
+        },
+        {
+          "word": "chalk",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=chalk&type=2"],
+          "phonetics": ["[tʃɔːk]"],
+          "reference": ""
+        },
+        {
+          "word": "Maven",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Maven&type=2"],
+          "phonetics": ["[ˈmeɪvn]"],
+          "reference": ""
+        },
+        {
+          "word": "Microsoft",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Microsoft&type=2"],
+          "phonetics": ["[ˈmaɪkrəsɔːft]", "[ˈmaɪkrəsɒft]"],
+          "reference": ""
+        },
+        {
+          "word": "Google",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Google&type=2"],
+          "phonetics": ["[ˈɡuːɡl]"],
+          "reference": ""
+        },
+        {
+          "word": "Git",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Git&type=2"],
+          "phonetics": ["[ɡɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "Flux",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Flux&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Lambda",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Lambda&type=2"],
+          "phonetics": ["[ˈlæmdə]"],
+          "reference": ""
+        },
+        {
+          "word": "GUI",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=GUI&type=2"],
+          "phonetics": ["[ˈɡuːiˌˌdʒiː juː ˈaɪ]", "[ˈɡuːi; ˌdʒiː juː ˈaɪ]"],
+          "reference": ""
+        },
+        {
+          "word": "RegExp",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=RegExp&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Linux",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Linux&type=2"],
+          "phonetics": ["[ˈlɪn.əks]"],
+          "reference": ""
+        },
+        {
+          "word": "GIF",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=GIF&type=2"],
+          "phonetics": ["[ɡɪfˌdʒɪf]", "[ɡɪf; dʒɪf]"],
+          "reference": ""
+        },
+        {
+          "word": "CentOS",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=CentOS&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Mark Zuckerberg",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Mark Zuckerberg&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Laravel",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Laravel&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "FIFO",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=FIFO&type=2"],
+          "phonetics": ["[ˈfaɪˌfo]", "[ˈfaɪfəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "IIFE",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=IIFE&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "ECMAScript",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ECMAScript&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Gigabyte",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Gigabyte&type=2"],
+          "phonetics": ["[ˈɡɪɡəbaɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "Linaria",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Linaria&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Elon Musk",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Elon Musk&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Lodash",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Lodash&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Hadoop",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Hadoop&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Azure",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Azure&type=2"],
+          "phonetics": ["[ˈæʒər]", "[ˈæʒə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "ASCII",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ASCII&type=2"],
+          "phonetics": ["[ˈæski]"],
+          "reference": ""
+        },
+        {
+          "word": "Apache",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Apache&type=2"],
+          "phonetics": ["[əˈpætʃi]"],
+          "reference": ""
+        },
+        {
+          "word": "Bootstrap",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Bootstrap&type=2"],
+          "phonetics": ["[ˈbuːtstræp]"],
+          "reference": ""
+        },
+        {
+          "word": "BIOS",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=BIOS&type=2"],
+          "phonetics": ["[undefined]", "[ˈbaɪɒs]"],
+          "reference": ""
+        },
+        {
+          "word": "Chrome",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Chrome&type=2"],
+          "phonetics": ["[kroʊm]", "[krəʊm]"],
+          "reference": ""
+        },
+        {
+          "word": "Fiber",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Fiber&type=2"],
+          "phonetics": ["[ˈfaɪbər]", "[ˈfaɪbə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "ASUS",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ASUS&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "AJAX",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=AJAX&type=2"],
+          "phonetics": ["[ˈeɪdʒæks]"],
+          "reference": ""
+        },
+        {
+          "word": "AirBnB",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=AirBnB&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "FILO",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=FILO&type=2"],
+          "phonetics": ["[ˈfiːloʊ]", "[ˈfiːləʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "JSON",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=JSON&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Daemon",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Daemon&type=2"],
+          "phonetics": ["[ˈdiːmən]"],
+          "reference": ""
+        },
+        {
+          "word": "DevOps",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=DevOps&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Debian",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Debian&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "ARIA",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=ARIA&type=2"],
+          "phonetics": ["[ˈɑːriə]"],
+          "reference": ""
+        },
+        {
+          "word": "Java",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Java&type=2"],
+          "phonetics": ["[ˈdʒɑːvə]"],
+          "reference": ""
+        },
+        {
+          "word": "IEEE",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=IEEE&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "MySQL",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=MySQL&type=2"],
+          "phonetics": ["[maɪ ɛs kju ɛl]", "[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Jenkins",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Jenkins&type=2"],
+          "phonetics": ["[undefined]", "[ˈdʒeŋkɪnz]"],
+          "reference": ""
+        },
+        {
+          "word": "Megabyte",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Megabyte&type=2"],
+          "phonetics": ["[ˈmeɡəbaɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "RESTful",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=RESTful&type=2"],
+          "phonetics": ["[ˈrestfl]"],
+          "reference": ""
+        },
+        {
+          "word": "MyBatis",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=MyBatis&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Netflix",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Netflix&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Kubernetes",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Python",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Python&type=2"],
+          "phonetics": ["[ˈpaɪθɑːn]", "[ˈpaɪθən]"],
+          "reference": ""
+        },
+        {
+          "word": "Prometheus",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Prometheus&type=2"],
+          "phonetics": ["[proˈmiθɪəs]", "[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Amazon",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Amazon&type=2"],
+          "phonetics": ["[ˈæməzɑːn]", "[ˈæməzən]"],
+          "reference": ""
+        },
+        {
+          "word": "Nexus",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Nexus&type=2"],
+          "phonetics": ["[ˈneksəs]"],
+          "reference": ""
+        },
+        {
+          "word": "Android",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Android&type=2"],
+          "phonetics": ["[ˈændrɔɪd]"],
+          "reference": ""
+        },
+        {
+          "word": "adobe",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=adobe&type=2"],
+          "phonetics": ["[əˈdoʊbi]", "[əˈdəʊbi]"],
+          "reference": ""
+        },
+        {
+          "word": "Kilobyte",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Kilobyte&type=2"],
+          "phonetics": ["[ˈkɪləbaɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "Rollup",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Rollup&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Nginx",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Nginx&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Redux",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Redux&type=2"],
+          "phonetics": ["[ˈriːdʌks]"],
+          "reference": ""
+        },
+        {
+          "word": "NVIDIA",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=NVIDIA&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Puppeteer",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Puppeteer&type=2"],
+          "phonetics": ["[ˌpʌpɪˈtɪr]", "[ˌpʌpɪˈtɪə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "Angular",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Angular&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Jekyll",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Jekyll&type=2"],
+          "phonetics": ["[ˈdʒikɪl]", "[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "Axios",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Axios&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        },
+        {
+          "word": "iPhone",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=iPhone&type=2"],
+          "phonetics": ["[ˈaɪfon]", "[ˈaɪfəʊn]"],
+          "reference": ""
+        },
+        {
+          "word": "Kotlin",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=Kotlin&type=2"],
+          "phonetics": ["[undefined]"],
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "type": "presentation",
+      "content": [
+        {
+          "word": "present",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=present&type=2"],
+          "phonetics": ["[ˈprez(ə)nt]"],
+          "reference": ""
+        },
+        {
+          "word": "represented",
+          "origin": ["https://dict.youdao.com/dictvoice?audio=represented&type=2"],
+          "phonetics": ["[ˌreprɪˈzentɪd]"],
+          "reference": ""
+        }
+      ]
+    }
+  ],
+  "expression": []
 }

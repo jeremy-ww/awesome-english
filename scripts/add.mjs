@@ -13,6 +13,7 @@ async function get(type, word) {
       type,
       content: [],
     }
+    database.glossary.push(glossary[type])
   }
 
   const existedWord = glossary[type].content.find((v) => v.word === word)
@@ -58,7 +59,7 @@ addContent?.glossary?.forEach((category) => {
 })
 
 Promise.all(promises).then(() => {
-  console.log(database.glossary[0].content)
+  console.log(database.glossary)
 
   fs.writeFileSync(
     './libs/database.json',
