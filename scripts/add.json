@@ -2,7 +2,77 @@
   "glossary": [
     {
       "type": "general",
-      "content": ["process"]
+      "content": [
+        "approval",
+        "adapt",
+        "adopt",
+        "alternative",
+        "apologize",
+        "adjust",
+        "adaptable",
+        "availability",
+        "attribution",
+        "agency",
+        "accepts",
+        "action",
+        "attentive",
+        "annual",
+        "applicable",
+        "aspects",
+        "accurate",
+        ""
+      ]
+    },
+    {
+      "type": "engineering",
+      "content": [
+        "ARIA",
+        "agnostic",
+        "architecture",
+        "architectural",
+        "async",
+        "analyzer",
+        "analytics",
+        "assess",
+        "active",
+        "animation",
+        "allocate",
+        "anagram",
+        "arbitrary",
+        "adjacent",
+        "amend",
+        "accordion",
+        "affix",
+        "authenticate",
+        "assert",
+        "assets",
+        "authorization",
+        "authorize",
+        "anonymous",
+        "aliases",
+        "asynchronous",
+        "access",
+        "admin",
+        "agile",
+        "alias",
+        "app",
+        "archive",
+        "array"
+      ]
+    },
+    {
+      "type": "terms",
+      "content": [
+        "Axios",
+        "adobe",
+        "Amazon",
+        "Angular",
+        "AirBnB",
+        "AJAX",
+        "Android",
+        "Apache",
+        "ASCII"
+      ]
     }
   ]
 }

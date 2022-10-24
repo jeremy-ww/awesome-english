@@ -8,6 +8,13 @@ import _ from 'lodash'
 const glossary = _.keyBy(database.glossary, 'type')
 
 async function get(type, word) {
+  if (!type in glossary) {
+    glossary[type] = {
+      type,
+      content: [],
+    }
+  }
+
   const existedWord = glossary[type].content.find((v) => v.word === word)
   if (existedWord) {
     return

@@ -2,14 +2,7 @@
   "glossary": [
     {
       "type": "general",
-      "content": [
-        {
-          "word": "process",
-          "origin": ["https://dict.youdao.com/dictvoice?audio=process&type=2"],
-          "phonetics": ["[ˈprɑːses]", "[ˈprəʊses]"],
-          "reference": ""
-        }
-      ]
+      "content": []
     },
     {
       "type": "email",
