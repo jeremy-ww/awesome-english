@@ -105,12 +105,14 @@
         "phrase",
         "rough",
         "recognize",
-        "relevant"
+        "relevant",
+        "significant"
       ]
     },
     {
       "type": "engineering",
       "content": [
+        "simplicity",
         "repository",
         "router",
         "repo",
@@ -311,12 +313,17 @@
         "precedence",
         "queued",
         "repetitive",
-        "reject"
+        "reject",
+        "replicas",
+        "resolved",
+        "retina",
+        "sematic"
       ]
     },
     {
       "type": "terms",
       "content": [
+        "SonarQube",
         "Rollup",
         "Redux",
         "RESTful",
@@ -391,7 +398,9 @@
         "Mark Zuckerberg",
         "Maven",
         "Microsoft",
-        "RegExp"
+        "RegExp",
+        "Realm",
+        "Redis"
       ]
     },
     {
