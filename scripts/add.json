@@ -23,7 +23,19 @@
         "billion",
         "brief",
         "behavioral",
-        "convince"
+        "convince",
+        "college",
+        "certificate",
+        "compliance",
+        "currency",
+        "concept",
+        "colleague",
+        "criteria",
+        "capacity",
+        "capability",
+        "collaborative",
+        "comprehensive",
+        "complement"
       ]
     },
     {
@@ -69,7 +81,30 @@
         "breadcrumb",
         "babel",
         "bind",
-        "bug"
+        "bug",
+        "creation",
+        "composition",
+        "compile",
+        "commands",
+        "compilation",
+        "consistency",
+        "collapse",
+        "cursor",
+        "compatible",
+        "concat",
+        "contiguous",
+        "concurrent",
+        "chunk",
+        "configurable",
+        "compress",
+        "cascader",
+        "commit",
+        "column",
+        "custom",
+        "constant",
+        "complex",
+        "colon",
+        "cache"
       ]
     },
     {
@@ -88,8 +123,16 @@
         "Azure",
         "Bootstrap",
         "Browserify",
-        "BIOS"
+        "BIOS",
+        "Chrome",
+        "chalk",
+        "C#",
+        "CentOS"
       ]
+    },
+    {
+      "type": "algorithm",
+      "content": ["cubic", "complexity"]
     }
   ]
 }
