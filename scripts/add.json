@@ -3,6 +3,14 @@
     {
       "type": "general",
       "content": [
+        "relay",
+        "robust",
+        "radio",
+        "reset",
+        "range",
+        "resources",
+        "ratio",
+        "regret",
         "prioritize",
         "proposed",
         "approval",
@@ -94,12 +102,18 @@
         "phase",
         "private",
         "practices",
-        "phrase"
+        "phrase",
+        "rough",
+        "recognize",
+        "relevant"
       ]
     },
     {
       "type": "engineering",
       "content": [
+        "repository",
+        "router",
+        "repo",
         "parameter",
         "query",
         "percentiles",
@@ -294,12 +308,19 @@
         "prompt",
         "polyfill",
         "plural",
-        "precedence"
+        "precedence",
+        "queued",
+        "repetitive",
+        "reject"
       ]
     },
     {
       "type": "terms",
       "content": [
+        "Rollup",
+        "Redux",
+        "RESTful",
+        "Python",
         "Puppeteer",
         "Prometheus",
         "OAuth",
@@ -369,12 +390,14 @@
         "Linux",
         "Mark Zuckerberg",
         "Maven",
-        "Microsoft"
+        "Microsoft",
+        "RegExp"
       ]
     },
     {
       "type": "algorithm",
       "content": [
+        "quadratic",
         "pseudocode",
         "peak",
         "permutation",
@@ -391,12 +414,15 @@
         "cubic",
         "complexity",
         "inward",
-        "matrix"
+        "matrix",
+        "rounds",
+        "recursion",
+        "represent"
       ]
     },
     {
       "type": "presentation",
-      "content": ["present"]
+      "content": ["present", "represented"]
     }
   ]
 }
