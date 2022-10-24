@@ -6,17 +6,23 @@ import addContent from './add.json' assert { type: 'json' }
 import _ from 'lodash'
 import https from 'https'
 
-function download(type, word) {
-  return new Promise((resolve, reject) => {
-    https.get(`https://dict.youdao.com/dictvoice?audio=${word}&type=2`, (res) => {
-      const path = `./public/audios/${word}.mp3`
-      const filePath = fs.createWriteStream(path)
-      res.pipe(filePath)
-      filePath.on('finish', () => {
-        filePath.close()
-        resolve()
+const glossary = _.keyBy(database.glossary, 'type')
+
+function download(word) {
+  return new Promise((resolve) => {
+    https
+      .get(`https://dict.youdao.com/dictvoice?audio=${word}&type=2`, (res) => {
+        const path = `./public/audios/${word}.mp3`
+        const filePath = fs.createWriteStream(path)
+        res.pipe(filePath)
+        filePath.on('finish', () => {
+          filePath.close()
+          resolve(true)
+        })
       })
-    })
+      .on('error', () => {
+        resolve(false)
+      })
   })
 }
 
@@ -41,9 +47,10 @@ async function get(type, word) {
     try {
       const usPhonetics = `[${data.ec?.word?.usphone ?? 'TBD'}]`
       const ukPhonetics = `[${data.ec?.word?.ukphone ?? 'TBD'}]`
+      const isSuccess = await download(word)
       const item = {
         word,
-        origin: [`https://dict.youdao.com/dictvoice?audio=${word}&type=2`],
+        origin: isSuccess ? [`/audios/${word}.mp3`] : [],
         phonetics: [usPhonetics],
         reference: '',
       }

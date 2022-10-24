@@ -6,7 +6,7 @@
 				{
 					"word": "accepts",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=accepts&type=2"
+						"/audios/accepts.mp3"
 					],
 					"phonetics": [
 						"[əkˈsepts]"
@@ -16,7 +16,7 @@
 				{
 					"word": "accurate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=accurate&type=2"
+						"/audios/accurate.mp3"
 					],
 					"phonetics": [
 						"[ˈækjərət]"
@@ -26,7 +26,7 @@
 				{
 					"word": "action",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=action&type=2"
+						"/audios/action.mp3"
 					],
 					"phonetics": [
 						"[ˈækʃ(ə)n]"
@@ -36,7 +36,7 @@
 				{
 					"word": "adapt",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adapt&type=2"
+						"/audios/adapt.mp3"
 					],
 					"phonetics": [
 						"[əˈdæpt]"
@@ -46,7 +46,7 @@
 				{
 					"word": "adaptable",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adaptable&type=2"
+						"/audios/adaptable.mp3"
 					],
 					"phonetics": [
 						"[əˈdæptəb(ə)l]"
@@ -56,7 +56,7 @@
 				{
 					"word": "adjust",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adjust&type=2"
+						"/audios/adjust.mp3"
 					],
 					"phonetics": [
 						"[əˈdʒʌst]"
@@ -66,7 +66,7 @@
 				{
 					"word": "adopt",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adopt&type=2"
+						"/audios/adopt.mp3"
 					],
 					"phonetics": [
 						"[əˈdɑːpt]",
@@ -77,7 +77,7 @@
 				{
 					"word": "agency",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=agency&type=2"
+						"/audios/agency.mp3"
 					],
 					"phonetics": [
 						"[ˈeɪdʒənsi]"
@@ -87,7 +87,7 @@
 				{
 					"word": "alternative",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=alternative&type=2"
+						"/audios/alternative.mp3"
 					],
 					"phonetics": [
 						"[ɔːlˈtɜːrnətɪv]",
@@ -98,7 +98,7 @@
 				{
 					"word": "annual",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=annual&type=2"
+						"/audios/annual.mp3"
 					],
 					"phonetics": [
 						"[ˈænjuəl]"
@@ -108,7 +108,7 @@
 				{
 					"word": "apologize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=apologize&type=2"
+						"/audios/apologize.mp3"
 					],
 					"phonetics": [
 						"[əˈpɑːlədʒaɪz]",
@@ -119,7 +119,7 @@
 				{
 					"word": "applicable",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=applicable&type=2"
+						"/audios/applicable.mp3"
 					],
 					"phonetics": [
 						"[ˈæplɪkəb(ə)l]",
@@ -130,7 +130,7 @@
 				{
 					"word": "approval",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=approval&type=2"
+						"/audios/approval.mp3"
 					],
 					"phonetics": [
 						"[əˈpruːv(ə)l]"
@@ -139,9 +139,7 @@
 				},
 				{
 					"word": "aspects",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=aspects&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˈæspekts]"
 					],
@@ -150,7 +148,7 @@
 				{
 					"word": "attentive",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=attentive&type=2"
+						"/audios/attentive.mp3"
 					],
 					"phonetics": [
 						"[əˈtentɪv]"
@@ -160,7 +158,7 @@
 				{
 					"word": "attribution",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=attribution&type=2"
+						"/audios/attribution.mp3"
 					],
 					"phonetics": [
 						"[ˌætrɪˈbjuːʃn]"
@@ -170,7 +168,7 @@
 				{
 					"word": "availability",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=availability&type=2"
+						"/audios/availability.mp3"
 					],
 					"phonetics": [
 						"[əˌveɪləˈbɪləti]"
@@ -180,7 +178,7 @@
 				{
 					"word": "behavioral",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=behavioral&type=2"
+						"/audios/behavioral.mp3"
 					],
 					"phonetics": [
 						"[bɪˈheɪvjərəl]"
@@ -190,7 +188,7 @@
 				{
 					"word": "billion",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=billion&type=2"
+						"/audios/billion.mp3"
 					],
 					"phonetics": [
 						"[ˈbɪljən]"
@@ -200,7 +198,7 @@
 				{
 					"word": "brief",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=brief&type=2"
+						"/audios/brief.mp3"
 					],
 					"phonetics": [
 						"[briːf]"
@@ -210,7 +208,7 @@
 				{
 					"word": "capability",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=capability&type=2"
+						"/audios/capability.mp3"
 					],
 					"phonetics": [
 						"[ˌkeɪpəˈbɪləti]"
@@ -220,7 +218,7 @@
 				{
 					"word": "capacity",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=capacity&type=2"
+						"/audios/capacity.mp3"
 					],
 					"phonetics": [
 						"[kəˈpæsəti]"
@@ -230,7 +228,7 @@
 				{
 					"word": "certificate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=certificate&type=2"
+						"/audios/certificate.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -240,7 +238,7 @@
 				{
 					"word": "collaborative",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=collaborative&type=2"
+						"/audios/collaborative.mp3"
 					],
 					"phonetics": [
 						"[kəˈlæbəreɪtɪv]",
@@ -250,9 +248,7 @@
 				},
 				{
 					"word": "colleague",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=colleague&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˈkɑːliːɡ]",
 						"[ˈkɒliːɡ]"
@@ -262,7 +258,7 @@
 				{
 					"word": "college",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=college&type=2"
+						"/audios/college.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːlɪdʒ]",
@@ -273,7 +269,7 @@
 				{
 					"word": "commerce",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=commerce&type=2"
+						"/audios/commerce.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːmɜːrs]",
@@ -284,7 +280,7 @@
 				{
 					"word": "complement",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=complement&type=2"
+						"/audios/complement.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːmplɪment]",
@@ -295,7 +291,7 @@
 				{
 					"word": "compliance",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=compliance&type=2"
+						"/audios/compliance.mp3"
 					],
 					"phonetics": [
 						"[kəmˈplaɪəns]"
@@ -305,7 +301,7 @@
 				{
 					"word": "comprehensive",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=comprehensive&type=2"
+						"/audios/comprehensive.mp3"
 					],
 					"phonetics": [
 						"[ˌkɑːmprɪˈhensɪv]",
@@ -316,7 +312,7 @@
 				{
 					"word": "concept",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=concept&type=2"
+						"/audios/concept.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːnsept]",
@@ -327,7 +323,7 @@
 				{
 					"word": "consolidate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=consolidate&type=2"
+						"/audios/consolidate.mp3"
 					],
 					"phonetics": [
 						"[kənˈsɑːlɪdeɪt]",
@@ -338,7 +334,7 @@
 				{
 					"word": "convince",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=convince&type=2"
+						"/audios/convince.mp3"
 					],
 					"phonetics": [
 						"[kənˈvɪns]"
@@ -348,7 +344,7 @@
 				{
 					"word": "criteria",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=criteria&type=2"
+						"/audios/criteria.mp3"
 					],
 					"phonetics": [
 						"[kraɪˈtɪriə]",
@@ -359,7 +355,7 @@
 				{
 					"word": "currency",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=currency&type=2"
+						"/audios/currency.mp3"
 					],
 					"phonetics": [
 						"[ˈkɜːrənsi]",
@@ -370,7 +366,7 @@
 				{
 					"word": "debt",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=debt&type=2"
+						"/audios/debt.mp3"
 					],
 					"phonetics": [
 						"[det]"
@@ -380,7 +376,7 @@
 				{
 					"word": "demand",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=demand&type=2"
+						"/audios/demand.mp3"
 					],
 					"phonetics": [
 						"[dɪˈmænd]",
@@ -391,7 +387,7 @@
 				{
 					"word": "demonstrate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"
+						"/audios/demonstrate.mp3"
 					],
 					"phonetics": [
 						"[ˈdemənstreɪt]"
@@ -401,7 +397,7 @@
 				{
 					"word": "denote",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=denote&type=2"
+						"/audios/denote.mp3"
 					],
 					"phonetics": [
 						"[dɪˈnoʊt]",
@@ -411,9 +407,7 @@
 				},
 				{
 					"word": "deprioritize",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=deprioritize&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[TBD]"
 					],
@@ -422,7 +416,7 @@
 				{
 					"word": "determined",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=determined&type=2"
+						"/audios/determined.mp3"
 					],
 					"phonetics": [
 						"[dɪˈtɜːrmɪnd]",
@@ -433,7 +427,7 @@
 				{
 					"word": "disability",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=disability&type=2"
+						"/audios/disability.mp3"
 					],
 					"phonetics": [
 						"[ˌdɪsəˈbɪləti]"
@@ -442,9 +436,7 @@
 				},
 				{
 					"word": "doc",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=doc&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[dɑːk]",
 						"[dɒk]"
@@ -454,7 +446,7 @@
 				{
 					"word": "dual",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=dual&type=2"
+						"/audios/dual.mp3"
 					],
 					"phonetics": [
 						"[ˈduːəl]",
@@ -465,7 +457,7 @@
 				{
 					"word": "due",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=due&type=2"
+						"/audios/due.mp3"
 					],
 					"phonetics": [
 						"[duː]",
@@ -476,7 +468,7 @@
 				{
 					"word": "emoji",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=emoji&type=2"
+						"/audios/emoji.mp3"
 					],
 					"phonetics": [
 						"[ɪˈmoʊdʒi]",
@@ -487,7 +479,7 @@
 				{
 					"word": "emphasize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=emphasize&type=2"
+						"/audios/emphasize.mp3"
 					],
 					"phonetics": [
 						"[ˈemfəsaɪz]"
@@ -497,7 +489,7 @@
 				{
 					"word": "encounter",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=encounter&type=2"
+						"/audios/encounter.mp3"
 					],
 					"phonetics": [
 						"[ɪnˈkaʊntər]",
@@ -507,9 +499,7 @@
 				},
 				{
 					"word": "etc",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=etc&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˌet ˈsetərə; ˌɪt ˈsetərə]"
 					],
@@ -518,7 +508,7 @@
 				{
 					"word": "ethics",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ethics&type=2"
+						"/audios/ethics.mp3"
 					],
 					"phonetics": [
 						"[ˈeθɪks]"
@@ -528,7 +518,7 @@
 				{
 					"word": "eureka",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=eureka&type=2"
+						"/audios/eureka.mp3"
 					],
 					"phonetics": [
 						"[juˈriːkə]"
@@ -538,7 +528,7 @@
 				{
 					"word": "evolved",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=evolved&type=2"
+						"/audios/evolved.mp3"
 					],
 					"phonetics": [
 						"[ɪˈvɑːlvd]",
@@ -549,7 +539,7 @@
 				{
 					"word": "exist",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=exist&type=2"
+						"/audios/exist.mp3"
 					],
 					"phonetics": [
 						"[ɪɡˈzɪst]"
@@ -559,7 +549,7 @@
 				{
 					"word": "explanation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=explanation&type=2"
+						"/audios/explanation.mp3"
 					],
 					"phonetics": [
 						"[ˌekspləˈneɪʃ(ə)n]"
@@ -569,7 +559,7 @@
 				{
 					"word": "foreign",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=foreign&type=2"
+						"/audios/foreign.mp3"
 					],
 					"phonetics": [
 						"[ˈfɔːrən]",
@@ -580,7 +570,7 @@
 				{
 					"word": "formality",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=formality&type=2"
+						"/audios/formality.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -590,7 +580,7 @@
 				{
 					"word": "forum",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=forum&type=2"
+						"/audios/forum.mp3"
 					],
 					"phonetics": [
 						"[ˈfɔːrəm]"
@@ -600,7 +590,7 @@
 				{
 					"word": "glossary",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=glossary&type=2"
+						"/audios/glossary.mp3"
 					],
 					"phonetics": [
 						"[ˈɡlɑːsəri]",
@@ -611,7 +601,7 @@
 				{
 					"word": "gorgeous",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=gorgeous&type=2"
+						"/audios/gorgeous.mp3"
 					],
 					"phonetics": [
 						"[ˈɡɔːrdʒəs]",
@@ -622,7 +612,7 @@
 				{
 					"word": "grads",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=grads&type=2"
+						"/audios/grads.mp3"
 					],
 					"phonetics": [
 						"[ɡrædz]"
@@ -632,7 +622,7 @@
 				{
 					"word": "hassle",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hassle&type=2"
+						"/audios/hassle.mp3"
 					],
 					"phonetics": [
 						"[ˈhæs(ə)l]"
@@ -642,7 +632,7 @@
 				{
 					"word": "hesitate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hesitate&type=2"
+						"/audios/hesitate.mp3"
 					],
 					"phonetics": [
 						"[ˈhezɪteɪt]"
@@ -652,7 +642,7 @@
 				{
 					"word": "historically",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=historically&type=2"
+						"/audios/historically.mp3"
 					],
 					"phonetics": [
 						"[hɪˈstɔːrɪkli]",
@@ -663,7 +653,7 @@
 				{
 					"word": "instrument",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=instrument&type=2"
+						"/audios/instrument.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -673,7 +663,7 @@
 				{
 					"word": "invitation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=invitation&type=2"
+						"/audios/invitation.mp3"
 					],
 					"phonetics": [
 						"[ˌɪnvɪˈteɪʃ(ə)n]"
@@ -683,7 +673,7 @@
 				{
 					"word": "labor",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=labor&type=2"
+						"/audios/labor.mp3"
 					],
 					"phonetics": [
 						"[ˈleɪbər]",
@@ -694,7 +684,7 @@
 				{
 					"word": "merchant",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=merchant&type=2"
+						"/audios/merchant.mp3"
 					],
 					"phonetics": [
 						"[ˈmɜːrtʃənt]",
@@ -705,7 +695,7 @@
 				{
 					"word": "obsess",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=obsess&type=2"
+						"/audios/obsess.mp3"
 					],
 					"phonetics": [
 						"[əbˈses]"
@@ -715,7 +705,7 @@
 				{
 					"word": "officially",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=officially&type=2"
+						"/audios/officially.mp3"
 					],
 					"phonetics": [
 						"[əˈfɪʃəli]"
@@ -725,7 +715,7 @@
 				{
 					"word": "only",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=only&type=2"
+						"/audios/only.mp3"
 					],
 					"phonetics": [
 						"[ˈoʊnli]",
@@ -736,7 +726,7 @@
 				{
 					"word": "participation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=participation&type=2"
+						"/audios/participation.mp3"
 					],
 					"phonetics": [
 						"[pɑːrˌtɪsɪˈpeɪʃ(ə)n]",
@@ -747,7 +737,7 @@
 				{
 					"word": "pause",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pause&type=2"
+						"/audios/pause.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -757,7 +747,7 @@
 				{
 					"word": "performance",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=performance&type=2"
+						"/audios/performance.mp3"
 					],
 					"phonetics": [
 						"[pərˈfɔːrməns]",
@@ -768,7 +758,7 @@
 				{
 					"word": "period",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=period&type=2"
+						"/audios/period.mp3"
 					],
 					"phonetics": [
 						"[ˈpɪriəd]",
@@ -779,7 +769,7 @@
 				{
 					"word": "permanent",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=permanent&type=2"
+						"/audios/permanent.mp3"
 					],
 					"phonetics": [
 						"[ˈpɜːrmənənt]",
@@ -790,7 +780,7 @@
 				{
 					"word": "phase",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=phase&type=2"
+						"/audios/phase.mp3"
 					],
 					"phonetics": [
 						"[feɪz]"
@@ -800,7 +790,7 @@
 				{
 					"word": "phrase",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=phrase&type=2"
+						"/audios/phrase.mp3"
 					],
 					"phonetics": [
 						"[freɪz]"
@@ -810,7 +800,7 @@
 				{
 					"word": "pleasure",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pleasure&type=2"
+						"/audios/pleasure.mp3"
 					],
 					"phonetics": [
 						"[ˈpleʒər]",
@@ -821,7 +811,7 @@
 				{
 					"word": "postpone",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=postpone&type=2"
+						"/audios/postpone.mp3"
 					],
 					"phonetics": [
 						"[poʊˈspoʊn]",
@@ -832,7 +822,7 @@
 				{
 					"word": "potential",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=potential&type=2"
+						"/audios/potential.mp3"
 					],
 					"phonetics": [
 						"[pəˈtenʃ(ə)l]"
@@ -841,9 +831,7 @@
 				},
 				{
 					"word": "practices",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=practices&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˈpræktɪsɪz]"
 					],
@@ -852,7 +840,7 @@
 				{
 					"word": "precise",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=precise&type=2"
+						"/audios/precise.mp3"
 					],
 					"phonetics": [
 						"[prɪˈsaɪs]"
@@ -862,7 +850,7 @@
 				{
 					"word": "preference",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=preference&type=2"
+						"/audios/preference.mp3"
 					],
 					"phonetics": [
 						"[ˈprefrəns]"
@@ -872,7 +860,7 @@
 				{
 					"word": "prevalent",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=prevalent&type=2"
+						"/audios/prevalent.mp3"
 					],
 					"phonetics": [
 						"[ˈprevələnt]"
@@ -882,7 +870,7 @@
 				{
 					"word": "prioritize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=prioritize&type=2"
+						"/audios/prioritize.mp3"
 					],
 					"phonetics": [
 						"[praɪˈɔːrətaɪz]",
@@ -893,7 +881,7 @@
 				{
 					"word": "private",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=private&type=2"
+						"/audios/private.mp3"
 					],
 					"phonetics": [
 						"[ˈpraɪvət]"
@@ -903,7 +891,7 @@
 				{
 					"word": "profile",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=profile&type=2"
+						"/audios/profile.mp3"
 					],
 					"phonetics": [
 						"[ˈproʊfaɪl]",
@@ -914,7 +902,7 @@
 				{
 					"word": "progress",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=progress&type=2"
+						"/audios/progress.mp3"
 					],
 					"phonetics": [
 						"[ˈprɑːɡres]",
@@ -925,7 +913,7 @@
 				{
 					"word": "project",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=project&type=2"
+						"/audios/project.mp3"
 					],
 					"phonetics": [
 						"[ˈprɑːdʒekt]",
@@ -936,7 +924,7 @@
 				{
 					"word": "proposal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=proposal&type=2"
+						"/audios/proposal.mp3"
 					],
 					"phonetics": [
 						"[prəˈpoʊz(ə)l]",
@@ -947,7 +935,7 @@
 				{
 					"word": "propose",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=propose&type=2"
+						"/audios/propose.mp3"
 					],
 					"phonetics": [
 						"[prəˈpoʊz]",
@@ -958,7 +946,7 @@
 				{
 					"word": "proposed",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=proposed&type=2"
+						"/audios/proposed.mp3"
 					],
 					"phonetics": [
 						"[prəˈpoʊzd]",
@@ -969,7 +957,7 @@
 				{
 					"word": "pursue",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pursue&type=2"
+						"/audios/pursue.mp3"
 					],
 					"phonetics": [
 						"[pərˈsuː]",
@@ -980,7 +968,7 @@
 				{
 					"word": "radio",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=radio&type=2"
+						"/audios/radio.mp3"
 					],
 					"phonetics": [
 						"[ˈreɪdioʊ]",
@@ -991,7 +979,7 @@
 				{
 					"word": "range",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=range&type=2"
+						"/audios/range.mp3"
 					],
 					"phonetics": [
 						"[reɪndʒ]"
@@ -1001,7 +989,7 @@
 				{
 					"word": "ratio",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ratio&type=2"
+						"/audios/ratio.mp3"
 					],
 					"phonetics": [
 						"[ˈreɪʃioʊ]",
@@ -1012,7 +1000,7 @@
 				{
 					"word": "recognize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=recognize&type=2"
+						"/audios/recognize.mp3"
 					],
 					"phonetics": [
 						"[ˈrekəɡnaɪz]"
@@ -1022,7 +1010,7 @@
 				{
 					"word": "regret",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=regret&type=2"
+						"/audios/regret.mp3"
 					],
 					"phonetics": [
 						"[rɪˈɡret]"
@@ -1032,7 +1020,7 @@
 				{
 					"word": "relay",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=relay&type=2"
+						"/audios/relay.mp3"
 					],
 					"phonetics": [
 						"[ˈriːleɪ]"
@@ -1042,7 +1030,7 @@
 				{
 					"word": "relevant",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=relevant&type=2"
+						"/audios/relevant.mp3"
 					],
 					"phonetics": [
 						"[ˈreləvənt]"
@@ -1052,7 +1040,7 @@
 				{
 					"word": "reset",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=reset&type=2"
+						"/audios/reset.mp3"
 					],
 					"phonetics": [
 						"[ˌriːˈset]"
@@ -1062,7 +1050,7 @@
 				{
 					"word": "resources",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=resources&type=2"
+						"/audios/resources.mp3"
 					],
 					"phonetics": [
 						"[ˈriːsɔːrsɪz]",
@@ -1073,7 +1061,7 @@
 				{
 					"word": "robust",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=robust&type=2"
+						"/audios/robust.mp3"
 					],
 					"phonetics": [
 						"[roʊˈbʌst]",
@@ -1084,7 +1072,7 @@
 				{
 					"word": "rough",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=rough&type=2"
+						"/audios/rough.mp3"
 					],
 					"phonetics": [
 						"[rʌf]"
@@ -1094,7 +1082,7 @@
 				{
 					"word": "sacrifice",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sacrifice&type=2"
+						"/audios/sacrifice.mp3"
 					],
 					"phonetics": [
 						"[ˈsækrɪfaɪs]"
@@ -1104,7 +1092,7 @@
 				{
 					"word": "scenario",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=scenario&type=2"
+						"/audios/scenario.mp3"
 					],
 					"phonetics": [
 						"[səˈnærioʊ]",
@@ -1115,7 +1103,7 @@
 				{
 					"word": "scrum",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=scrum&type=2"
+						"/audios/scrum.mp3"
 					],
 					"phonetics": [
 						"[skrʌm]"
@@ -1125,7 +1113,7 @@
 				{
 					"word": "significant",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=significant&type=2"
+						"/audios/significant.mp3"
 					],
 					"phonetics": [
 						"[sɪɡˈnɪfɪkənt]"
@@ -1135,7 +1123,7 @@
 				{
 					"word": "sincere",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sincere&type=2"
+						"/audios/sincere.mp3"
 					],
 					"phonetics": [
 						"[sɪnˈsɪr]",
@@ -1146,7 +1134,7 @@
 				{
 					"word": "solid",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=solid&type=2"
+						"/audios/solid.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -1156,7 +1144,7 @@
 				{
 					"word": "stakeholders",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=stakeholders&type=2"
+						"/audios/stakeholders.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -1166,7 +1154,7 @@
 				{
 					"word": "techniques",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=techniques&type=2"
+						"/audios/techniques.mp3"
 					],
 					"phonetics": [
 						"[tekˈniːks]"
@@ -1176,7 +1164,7 @@
 				{
 					"word": "tedious",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=tedious&type=2"
+						"/audios/tedious.mp3"
 					],
 					"phonetics": [
 						"[ˈtiːdiəs]"
@@ -1186,7 +1174,7 @@
 				{
 					"word": "temporarily",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=temporarily&type=2"
+						"/audios/temporarily.mp3"
 					],
 					"phonetics": [
 						"[ˌtempəˈrerəli]",
@@ -1197,7 +1185,7 @@
 				{
 					"word": "theoretical",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=theoretical&type=2"
+						"/audios/theoretical.mp3"
 					],
 					"phonetics": [
 						"[ˌθiːəˈretɪk(ə)l]",
@@ -1208,7 +1196,7 @@
 				{
 					"word": "theory",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=theory&type=2"
+						"/audios/theory.mp3"
 					],
 					"phonetics": [
 						"[ˈθiːəri]",
@@ -1219,7 +1207,7 @@
 				{
 					"word": "thrill",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=thrill&type=2"
+						"/audios/thrill.mp3"
 					],
 					"phonetics": [
 						"[θrɪl]"
@@ -1229,7 +1217,7 @@
 				{
 					"word": "tolerate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=tolerate&type=2"
+						"/audios/tolerate.mp3"
 					],
 					"phonetics": [
 						"[ˈtɑːləreɪt]",
@@ -1240,7 +1228,7 @@
 				{
 					"word": "tomorrow",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=tomorrow&type=2"
+						"/audios/tomorrow.mp3"
 					],
 					"phonetics": [
 						"[təˈmɑːroʊ]",
@@ -1251,7 +1239,7 @@
 				{
 					"word": "uncertain",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=uncertain&type=2"
+						"/audios/uncertain.mp3"
 					],
 					"phonetics": [
 						"[ʌnˈsɜːrt(ə)n]",
@@ -1262,7 +1250,7 @@
 				{
 					"word": "validity",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=validity&type=2"
+						"/audios/validity.mp3"
 					],
 					"phonetics": [
 						"[vəˈlɪdəti]"
@@ -1272,7 +1260,7 @@
 				{
 					"word": "variant",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=variant&type=2"
+						"/audios/variant.mp3"
 					],
 					"phonetics": [
 						"[ˈveriənt]",
@@ -1283,7 +1271,7 @@
 				{
 					"word": "via",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=via&type=2"
+						"/audios/via.mp3"
 					],
 					"phonetics": [
 						"[ˈvaɪə]"
@@ -1293,7 +1281,7 @@
 				{
 					"word": "vocal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=vocal&type=2"
+						"/audios/vocal.mp3"
 					],
 					"phonetics": [
 						"[ˈvoʊk(ə)l]",
@@ -1304,7 +1292,7 @@
 				{
 					"word": "volume",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=volume&type=2"
+						"/audios/volume.mp3"
 					],
 					"phonetics": [
 						"[ˈvɑːljəm]",
@@ -1315,7 +1303,7 @@
 				{
 					"word": "volunteer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=volunteer&type=2"
+						"/audios/volunteer.mp3"
 					],
 					"phonetics": [
 						"[ˌvɑːlənˈtɪr]",
@@ -1326,18 +1314,17 @@
 				{
 					"word": "walkthrough",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=walkthrough&type=2"
+						"/audios/walkthrough.mp3"
 					],
 					"phonetics": [
-						"[ˈwɔːkˌθrʊ]",
-						"[ˈwɔːkˌθruː]"
+						"[TBD]"
 					],
 					"reference": ""
 				},
 				{
 					"word": "waterfall",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=waterfall&type=2"
+						"/audios/waterfall.mp3"
 					],
 					"phonetics": [
 						"[ˈwɔːtərfɔːl]",
@@ -1347,9 +1334,7 @@
 				},
 				{
 					"word": "willingness",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=willingness&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˈwɪlɪŋnəs]"
 					],
@@ -1358,7 +1343,7 @@
 				{
 					"word": "written",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=written&type=2"
+						"/audios/written.mp3"
 					],
 					"phonetics": [
 						"[ˈrɪt(ə)n]"
@@ -1368,7 +1353,7 @@
 				{
 					"word": "wrote",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=wrote&type=2"
+						"/audios/wrote.mp3"
 					],
 					"phonetics": [
 						"[roʊt]",
@@ -1384,7 +1369,7 @@
 				{
 					"word": "access",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=access&type=2"
+						"/audios/access.mp3"
 					],
 					"phonetics": [
 						"[ˈækses]"
@@ -1394,7 +1379,7 @@
 				{
 					"word": "accordion",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=accordion&type=2"
+						"/audios/accordion.mp3"
 					],
 					"phonetics": [
 						"[əˈkɔːrdiən]",
@@ -1405,7 +1390,7 @@
 				{
 					"word": "active",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=active&type=2"
+						"/audios/active.mp3"
 					],
 					"phonetics": [
 						"[ˈæktɪv]"
@@ -1415,7 +1400,7 @@
 				{
 					"word": "adjacent",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adjacent&type=2"
+						"/audios/adjacent.mp3"
 					],
 					"phonetics": [
 						"[əˈdʒeɪs(ə)nt]"
@@ -1425,7 +1410,7 @@
 				{
 					"word": "admin",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=admin&type=2"
+						"/audios/admin.mp3"
 					],
 					"phonetics": [
 						"[ˈædmɪn]"
@@ -1435,7 +1420,7 @@
 				{
 					"word": "affix",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=affix&type=2"
+						"/audios/affix.mp3"
 					],
 					"phonetics": [
 						"[əˈfɪks]"
@@ -1445,7 +1430,7 @@
 				{
 					"word": "agile",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=agile&type=2"
+						"/audios/agile.mp3"
 					],
 					"phonetics": [
 						"[ˈædʒ(ə)l]",
@@ -1456,7 +1441,7 @@
 				{
 					"word": "agnostic",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=agnostic&type=2"
+						"/audios/agnostic.mp3"
 					],
 					"phonetics": [
 						"[æɡˈnɑːstɪk]",
@@ -1467,7 +1452,7 @@
 				{
 					"word": "algorithm",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=algorithm&type=2"
+						"/audios/algorithm.mp3"
 					],
 					"phonetics": [
 						"[ˈælɡərɪðəm]"
@@ -1477,7 +1462,7 @@
 				{
 					"word": "alias",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=alias&type=2"
+						"/audios/alias.mp3"
 					],
 					"phonetics": [
 						"[ˈeɪliəs]"
@@ -1487,7 +1472,7 @@
 				{
 					"word": "aliases",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=aliases&type=2"
+						"/audios/aliases.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -1495,19 +1480,9 @@
 					"reference": ""
 				},
 				{
-					"word": "allocate",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=allocate&type=2"
-					],
-					"phonetics": [
-						"[ˈæləkeɪt]"
-					],
-					"reference": ""
-				},
-				{
 					"word": "amend",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=amend&type=2"
+						"/audios/amend.mp3"
 					],
 					"phonetics": [
 						"[əˈmend]"
@@ -1517,7 +1492,7 @@
 				{
 					"word": "ampersand",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ampersand&type=2"
+						"/audios/ampersand.mp3"
 					],
 					"phonetics": [
 						"[ˈæmpərsænd]",
@@ -1528,7 +1503,7 @@
 				{
 					"word": "anagram",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=anagram&type=2"
+						"/audios/anagram.mp3"
 					],
 					"phonetics": [
 						"[ˈænəɡræm]"
@@ -1538,7 +1513,7 @@
 				{
 					"word": "analytics",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=analytics&type=2"
+						"/audios/analytics.mp3"
 					],
 					"phonetics": [
 						"[ˌænəˈlɪtɪks]"
@@ -1548,7 +1523,7 @@
 				{
 					"word": "analyzer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=analyzer&type=2"
+						"/audios/analyzer.mp3"
 					],
 					"phonetics": [
 						"[ˈænəˌlaɪzər]",
@@ -1559,7 +1534,7 @@
 				{
 					"word": "animation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=animation&type=2"
+						"/audios/animation.mp3"
 					],
 					"phonetics": [
 						"[ˌænɪˈmeɪʃ(ə)n]"
@@ -1569,7 +1544,7 @@
 				{
 					"word": "anonymous",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=anonymous&type=2"
+						"/audios/anonymous.mp3"
 					],
 					"phonetics": [
 						"[əˈnɑːnɪməs]",
@@ -1580,7 +1555,7 @@
 				{
 					"word": "apostrophe",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=apostrophe&type=2"
+						"/audios/apostrophe.mp3"
 					],
 					"phonetics": [
 						"[əˈpɑːstrəfi]",
@@ -1591,7 +1566,7 @@
 				{
 					"word": "app",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=app&type=2"
+						"/audios/app.mp3"
 					],
 					"phonetics": [
 						"[æp]"
@@ -1601,7 +1576,7 @@
 				{
 					"word": "arbitrary",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=arbitrary&type=2"
+						"/audios/arbitrary.mp3"
 					],
 					"phonetics": [
 						"[ˈɑːrbɪtreri]",
@@ -1612,7 +1587,7 @@
 				{
 					"word": "architectural",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=architectural&type=2"
+						"/audios/architectural.mp3"
 					],
 					"phonetics": [
 						"[ˌɑːrkɪˈtektʃərəl]",
@@ -1623,7 +1598,7 @@
 				{
 					"word": "architecture",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=architecture&type=2"
+						"/audios/architecture.mp3"
 					],
 					"phonetics": [
 						"[ˈɑːrkɪtektʃər]",
@@ -1634,7 +1609,7 @@
 				{
 					"word": "archive",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=archive&type=2"
+						"/audios/archive.mp3"
 					],
 					"phonetics": [
 						"[ˈɑːrkaɪv]",
@@ -1645,7 +1620,7 @@
 				{
 					"word": "array",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=array&type=2"
+						"/audios/array.mp3"
 					],
 					"phonetics": [
 						"[əˈreɪ]"
@@ -1655,7 +1630,7 @@
 				{
 					"word": "assert",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=assert&type=2"
+						"/audios/assert.mp3"
 					],
 					"phonetics": [
 						"[əˈsɜːrt]",
@@ -1666,7 +1641,7 @@
 				{
 					"word": "assess",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=assess&type=2"
+						"/audios/assess.mp3"
 					],
 					"phonetics": [
 						"[əˈses]"
@@ -1676,7 +1651,7 @@
 				{
 					"word": "assets",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=assets&type=2"
+						"/audios/assets.mp3"
 					],
 					"phonetics": [
 						"[ˈæsets]"
@@ -1686,7 +1661,7 @@
 				{
 					"word": "asterisk",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=asterisk&type=2"
+						"/audios/asterisk.mp3"
 					],
 					"phonetics": [
 						"[ˈæstərɪsk]"
@@ -1696,7 +1671,7 @@
 				{
 					"word": "async",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=async&type=2"
+						"/audios/async.mp3"
 					],
 					"phonetics": [
 						"[əˈsɪŋk]"
@@ -1706,7 +1681,7 @@
 				{
 					"word": "asynchronous",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=asynchronous&type=2"
+						"/audios/asynchronous.mp3"
 					],
 					"phonetics": [
 						"[eɪˈsɪŋkrənəs]"
@@ -1716,7 +1691,7 @@
 				{
 					"word": "authenticate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=authenticate&type=2"
+						"/audios/authenticate.mp3"
 					],
 					"phonetics": [
 						"[ɔːˈθentɪkeɪt]"
@@ -1726,7 +1701,7 @@
 				{
 					"word": "authorization",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=authorization&type=2"
+						"/audios/authorization.mp3"
 					],
 					"phonetics": [
 						"[ˌɔːθərəˈzeɪʃ(ə)n]",
@@ -1737,7 +1712,7 @@
 				{
 					"word": "authorize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=authorize&type=2"
+						"/audios/authorize.mp3"
 					],
 					"phonetics": [
 						"[ˈɔːθəraɪz]"
@@ -1747,7 +1722,7 @@
 				{
 					"word": "avatar",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=avatar&type=2"
+						"/audios/avatar.mp3"
 					],
 					"phonetics": [
 						"[ˈævətɑːr]",
@@ -1758,7 +1733,7 @@
 				{
 					"word": "babel",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=babel&type=2"
+						"/audios/babel.mp3"
 					],
 					"phonetics": [
 						"[ˈbeɪbl]"
@@ -1768,7 +1743,7 @@
 				{
 					"word": "backslash",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=backslash&type=2"
+						"/audios/backslash.mp3"
 					],
 					"phonetics": [
 						"[ˈbækslæʃ]"
@@ -1778,7 +1753,7 @@
 				{
 					"word": "badge",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=badge&type=2"
+						"/audios/badge.mp3"
 					],
 					"phonetics": [
 						"[bædʒ]"
@@ -1788,7 +1763,7 @@
 				{
 					"word": "beacon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=beacon&type=2"
+						"/audios/beacon.mp3"
 					],
 					"phonetics": [
 						"[ˈbiːkən]"
@@ -1798,7 +1773,7 @@
 				{
 					"word": "bind",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=bind&type=2"
+						"/audios/bind.mp3"
 					],
 					"phonetics": [
 						"[baɪnd]"
@@ -1808,7 +1783,7 @@
 				{
 					"word": "braces",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=braces&type=2"
+						"/audios/braces.mp3"
 					],
 					"phonetics": [
 						"[ˈbreɪsɪz]"
@@ -1818,7 +1793,7 @@
 				{
 					"word": "breadcrumb",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=breadcrumb&type=2"
+						"/audios/breadcrumb.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -1829,7 +1804,7 @@
 				{
 					"word": "bug",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=bug&type=2"
+						"/audios/bug.mp3"
 					],
 					"phonetics": [
 						"[bʌɡ]"
@@ -1839,7 +1814,7 @@
 				{
 					"word": "cache",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=cache&type=2"
+						"/audios/cache.mp3"
 					],
 					"phonetics": [
 						"[kæʃ]"
@@ -1849,7 +1824,7 @@
 				{
 					"word": "cascader",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=cascader&type=2"
+						"/audios/cascader.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -1859,7 +1834,7 @@
 				{
 					"word": "char",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=char&type=2"
+						"/audios/char.mp3"
 					],
 					"phonetics": [
 						"[tʃɑːr]",
@@ -1870,7 +1845,7 @@
 				{
 					"word": "chunk",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=chunk&type=2"
+						"/audios/chunk.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -1880,7 +1855,7 @@
 				{
 					"word": "collapse",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=collapse&type=2"
+						"/audios/collapse.mp3"
 					],
 					"phonetics": [
 						"[kəˈlæps]"
@@ -1890,7 +1865,7 @@
 				{
 					"word": "colon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=colon&type=2"
+						"/audios/colon.mp3"
 					],
 					"phonetics": [
 						"[ˈkoʊlən]",
@@ -1901,7 +1876,7 @@
 				{
 					"word": "column",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=column&type=2"
+						"/audios/column.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːləm]",
@@ -1912,7 +1887,7 @@
 				{
 					"word": "comma",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=comma&type=2"
+						"/audios/comma.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːmə]",
@@ -1923,7 +1898,7 @@
 				{
 					"word": "commands",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=commands&type=2"
+						"/audios/commands.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -1933,7 +1908,7 @@
 				{
 					"word": "commit",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=commit&type=2"
+						"/audios/commit.mp3"
 					],
 					"phonetics": [
 						"[kəˈmɪt]"
@@ -1943,7 +1918,7 @@
 				{
 					"word": "compatible",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=compatible&type=2"
+						"/audios/compatible.mp3"
 					],
 					"phonetics": [
 						"[kəmˈpætəb(ə)l]"
@@ -1953,7 +1928,7 @@
 				{
 					"word": "compilation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=compilation&type=2"
+						"/audios/compilation.mp3"
 					],
 					"phonetics": [
 						"[ˌkɑːmpɪˈleɪʃn]",
@@ -1964,7 +1939,7 @@
 				{
 					"word": "compile",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=compile&type=2"
+						"/audios/compile.mp3"
 					],
 					"phonetics": [
 						"[kəmˈpaɪl]"
@@ -1974,7 +1949,7 @@
 				{
 					"word": "complex",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=complex&type=2"
+						"/audios/complex.mp3"
 					],
 					"phonetics": [
 						"[kəmˈpleks]",
@@ -1985,7 +1960,7 @@
 				{
 					"word": "composition",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=composition&type=2"
+						"/audios/composition.mp3"
 					],
 					"phonetics": [
 						"[ˌkɑːmpəˈzɪʃ(ə)n]",
@@ -1996,7 +1971,7 @@
 				{
 					"word": "compress",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=compress&type=2"
+						"/audios/compress.mp3"
 					],
 					"phonetics": [
 						"[kəmˈpres]"
@@ -2006,7 +1981,7 @@
 				{
 					"word": "con",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=con&type=2"
+						"/audios/con.mp3"
 					],
 					"phonetics": [
 						"[kɑːn]",
@@ -2017,7 +1992,7 @@
 				{
 					"word": "concat",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=concat&type=2"
+						"/audios/concat.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2027,7 +2002,7 @@
 				{
 					"word": "concurrent",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=concurrent&type=2"
+						"/audios/concurrent.mp3"
 					],
 					"phonetics": [
 						"[kənˈkɜːrənt]",
@@ -2038,7 +2013,7 @@
 				{
 					"word": "configurable",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=configurable&type=2"
+						"/audios/configurable.mp3"
 					],
 					"phonetics": [
 						"[kənˈfɪgjərəbl]",
@@ -2047,19 +2022,9 @@
 					"reference": ""
 				},
 				{
-					"word": "consistency",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=consistency&type=2"
-					],
-					"phonetics": [
-						"[kənˈsɪstənsi]"
-					],
-					"reference": ""
-				},
-				{
 					"word": "console",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=console&type=2"
+						"/audios/console.mp3"
 					],
 					"phonetics": [
 						"[kənˈsoʊl]",
@@ -2070,7 +2035,7 @@
 				{
 					"word": "constant",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=constant&type=2"
+						"/audios/constant.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːnstənt]",
@@ -2081,7 +2046,7 @@
 				{
 					"word": "contiguous",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=contiguous&type=2"
+						"/audios/contiguous.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2091,7 +2056,7 @@
 				{
 					"word": "creation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=creation&type=2"
+						"/audios/creation.mp3"
 					],
 					"phonetics": [
 						"[kriˈeɪʃ(ə)n]"
@@ -2101,7 +2066,7 @@
 				{
 					"word": "ctrl",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ctrl&type=2"
+						"/audios/ctrl.mp3"
 					],
 					"phonetics": [
 						"[kənˈtrol]",
@@ -2112,7 +2077,7 @@
 				{
 					"word": "cursor",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=cursor&type=2"
+						"/audios/cursor.mp3"
 					],
 					"phonetics": [
 						"[ˈkɜːrsər]",
@@ -2123,7 +2088,7 @@
 				{
 					"word": "custom",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=custom&type=2"
+						"/audios/custom.mp3"
 					],
 					"phonetics": [
 						"[ˈkʌstəm]"
@@ -2133,7 +2098,7 @@
 				{
 					"word": "declaration",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=declaration&type=2"
+						"/audios/declaration.mp3"
 					],
 					"phonetics": [
 						"[ˌdekləˈreɪʃn]",
@@ -2143,9 +2108,7 @@
 				},
 				{
 					"word": "declarative",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=declarative&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[dɪˈklærətɪv]"
 					],
@@ -2154,7 +2117,7 @@
 				{
 					"word": "declare",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=declare&type=2"
+						"/audios/declare.mp3"
 					],
 					"phonetics": [
 						"[dɪˈkler]",
@@ -2165,7 +2128,7 @@
 				{
 					"word": "decouple",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=decouple&type=2"
+						"/audios/decouple.mp3"
 					],
 					"phonetics": [
 						"[diːˈkʌpl]"
@@ -2175,7 +2138,7 @@
 				{
 					"word": "deferred",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=deferred&type=2"
+						"/audios/deferred.mp3"
 					],
 					"phonetics": [
 						"[dɪˈfɜːrd]",
@@ -2186,7 +2149,7 @@
 				{
 					"word": "definition",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=definition&type=2"
+						"/audios/definition.mp3"
 					],
 					"phonetics": [
 						"[ˌdefɪˈnɪʃn]",
@@ -2197,7 +2160,7 @@
 				{
 					"word": "delegation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=delegation&type=2"
+						"/audios/delegation.mp3"
 					],
 					"phonetics": [
 						"[ˌdelɪˈɡeɪʃn]"
@@ -2207,7 +2170,7 @@
 				{
 					"word": "deletion",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=deletion&type=2"
+						"/audios/deletion.mp3"
 					],
 					"phonetics": [
 						"[dɪˈliːʃn]"
@@ -2217,7 +2180,7 @@
 				{
 					"word": "delimiter",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=delimiter&type=2"
+						"/audios/delimiter.mp3"
 					],
 					"phonetics": [
 						"[dɪˈlɪmɪtər]",
@@ -2228,7 +2191,7 @@
 				{
 					"word": "div",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=div&type=2"
+						"/audios/div.mp3"
 					],
 					"phonetics": [
 						"[ dɪv]",
@@ -2239,7 +2202,7 @@
 				{
 					"word": "drawer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=drawer&type=2"
+						"/audios/drawer.mp3"
 					],
 					"phonetics": [
 						"[drɔːr]",
@@ -2249,9 +2212,7 @@
 				},
 				{
 					"word": "ellipses",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ellipses&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ɪˈlɪpsiz]",
 						"[ɪˈlɪpsɪz]"
@@ -2261,7 +2222,7 @@
 				{
 					"word": "embed",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=embed&type=2"
+						"/audios/embed.mp3"
 					],
 					"phonetics": [
 						"[ɪmˈbed]"
@@ -2271,7 +2232,7 @@
 				{
 					"word": "emit",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=emit&type=2"
+						"/audios/emit.mp3"
 					],
 					"phonetics": [
 						"[iˈmɪt]"
@@ -2281,7 +2242,7 @@
 				{
 					"word": "enumerable",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=enumerable&type=2"
+						"/audios/enumerable.mp3"
 					],
 					"phonetics": [
 						"[ɪˈnjumərəbəl]",
@@ -2290,19 +2251,9 @@
 					"reference": ""
 				},
 				{
-					"word": "eval",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=eval&type=2"
-					],
-					"phonetics": [
-						"[TBD]"
-					],
-					"reference": ""
-				},
-				{
 					"word": "event",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=event&type=2"
+						"/audios/event.mp3"
 					],
 					"phonetics": [
 						"[ɪˈvent]"
@@ -2312,7 +2263,7 @@
 				{
 					"word": "exact",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=exact&type=2"
+						"/audios/exact.mp3"
 					],
 					"phonetics": [
 						"[ɪɡˈzækt]"
@@ -2322,7 +2273,7 @@
 				{
 					"word": "exclamation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=exclamation&type=2"
+						"/audios/exclamation.mp3"
 					],
 					"phonetics": [
 						"[ˌekskləˈmeɪʃn]",
@@ -2333,7 +2284,7 @@
 				{
 					"word": "expiry",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=expiry&type=2"
+						"/audios/expiry.mp3"
 					],
 					"phonetics": [
 						"[ɪkˈspaɪəri]"
@@ -2343,7 +2294,7 @@
 				{
 					"word": "explicit",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=explicit&type=2"
+						"/audios/explicit.mp3"
 					],
 					"phonetics": [
 						"[ɪkˈsplɪsɪt]"
@@ -2353,7 +2304,7 @@
 				{
 					"word": "failure",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=failure&type=2"
+						"/audios/failure.mp3"
 					],
 					"phonetics": [
 						"[ˈfeɪljər]",
@@ -2364,7 +2315,7 @@
 				{
 					"word": "favicon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=favicon&type=2"
+						"/audios/favicon.mp3"
 					],
 					"phonetics": [
 						"[ˈfeɪvɪkɑːn]",
@@ -2373,20 +2324,9 @@
 					"reference": ""
 				},
 				{
-					"word": "figure",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=figure&type=2"
-					],
-					"phonetics": [
-						"[ˈfɪɡjər]",
-						"[ˈfɪɡə(r)]"
-					],
-					"reference": ""
-				},
-				{
 					"word": "flaky",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=flaky&type=2"
+						"/audios/flaky.mp3"
 					],
 					"phonetics": [
 						"[ˈfleɪki]"
@@ -2396,7 +2336,7 @@
 				{
 					"word": "flexbox",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=flexbox&type=2"
+						"/audios/flexbox.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2406,7 +2346,7 @@
 				{
 					"word": "format",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=format&type=2"
+						"/audios/format.mp3"
 					],
 					"phonetics": [
 						"[ˈfɔːrmæt]",
@@ -2417,7 +2357,7 @@
 				{
 					"word": "forth",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=forth&type=2"
+						"/audios/forth.mp3"
 					],
 					"phonetics": [
 						"[fɔːrθ]",
@@ -2428,7 +2368,7 @@
 				{
 					"word": "frozen",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=frozen&type=2"
+						"/audios/frozen.mp3"
 					],
 					"phonetics": [
 						"[ˈfroʊz(ə)n]",
@@ -2439,7 +2379,7 @@
 				{
 					"word": "fuzzy",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=fuzzy&type=2"
+						"/audios/fuzzy.mp3"
 					],
 					"phonetics": [
 						"[ˈfʌzi]"
@@ -2449,7 +2389,7 @@
 				{
 					"word": "garbage",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=garbage&type=2"
+						"/audios/garbage.mp3"
 					],
 					"phonetics": [
 						"[ˈɡɑːrbɪdʒ]",
@@ -2460,7 +2400,7 @@
 				{
 					"word": "gesture",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=gesture&type=2"
+						"/audios/gesture.mp3"
 					],
 					"phonetics": [
 						"[ˈdʒestʃər]",
@@ -2471,7 +2411,7 @@
 				{
 					"word": "gist",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=gist&type=2"
+						"/audios/gist.mp3"
 					],
 					"phonetics": [
 						"[dʒɪst]"
@@ -2481,7 +2421,7 @@
 				{
 					"word": "glitches",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=glitches&type=2"
+						"/audios/glitches.mp3"
 					],
 					"phonetics": [
 						"[ɡlɪtʃɪz]",
@@ -2492,7 +2432,7 @@
 				{
 					"word": "handled",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=handled&type=2"
+						"/audios/handled.mp3"
 					],
 					"phonetics": [
 						"[ˈhændld]",
@@ -2503,7 +2443,7 @@
 				{
 					"word": "hash",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hash&type=2"
+						"/audios/hash.mp3"
 					],
 					"phonetics": [
 						"[hæʃ]"
@@ -2513,7 +2453,7 @@
 				{
 					"word": "height",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=height&type=2"
+						"/audios/height.mp3"
 					],
 					"phonetics": [
 						"[haɪt]"
@@ -2523,7 +2463,7 @@
 				{
 					"word": "hidden",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hidden&type=2"
+						"/audios/hidden.mp3"
 					],
 					"phonetics": [
 						"[ˈhɪd(ə)n]"
@@ -2533,7 +2473,7 @@
 				{
 					"word": "hierarchy",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hierarchy&type=2"
+						"/audios/hierarchy.mp3"
 					],
 					"phonetics": [
 						"[ˈhaɪərɑːrki]",
@@ -2544,7 +2484,7 @@
 				{
 					"word": "horizontal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=horizontal&type=2"
+						"/audios/horizontal.mp3"
 					],
 					"phonetics": [
 						"[ˌhɔːrɪˈzɑːnt(ə)l]",
@@ -2555,7 +2495,7 @@
 				{
 					"word": "hover",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hover&type=2"
+						"/audios/hover.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2565,7 +2505,7 @@
 				{
 					"word": "href",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=href&type=2"
+						"/audios/href.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2575,7 +2515,7 @@
 				{
 					"word": "hyper",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hyper&type=2"
+						"/audios/hyper.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2585,7 +2525,7 @@
 				{
 					"word": "hyphen",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=hyphen&type=2"
+						"/audios/hyphen.mp3"
 					],
 					"phonetics": [
 						"[ˈhaɪfn]"
@@ -2595,7 +2535,7 @@
 				{
 					"word": "icon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=icon&type=2"
+						"/audios/icon.mp3"
 					],
 					"phonetics": [
 						"[ˈaɪkɑːn]",
@@ -2606,7 +2546,7 @@
 				{
 					"word": "illustrate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=illustrate&type=2"
+						"/audios/illustrate.mp3"
 					],
 					"phonetics": [
 						"[ˈɪləstreɪt]"
@@ -2616,7 +2556,7 @@
 				{
 					"word": "image",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=image&type=2"
+						"/audios/image.mp3"
 					],
 					"phonetics": [
 						"[ˈɪmɪdʒ]"
@@ -2626,7 +2566,7 @@
 				{
 					"word": "imperative",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=imperative&type=2"
+						"/audios/imperative.mp3"
 					],
 					"phonetics": [
 						"[ɪmˈperətɪv]"
@@ -2636,7 +2576,7 @@
 				{
 					"word": "implement",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=implement&type=2"
+						"/audios/implement.mp3"
 					],
 					"phonetics": [
 						"[ˈɪmplɪment]"
@@ -2646,7 +2586,7 @@
 				{
 					"word": "implicit",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=implicit&type=2"
+						"/audios/implicit.mp3"
 					],
 					"phonetics": [
 						"[ɪmˈplɪsɪt]"
@@ -2656,7 +2596,7 @@
 				{
 					"word": "increase",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=increase&type=2"
+						"/audios/increase.mp3"
 					],
 					"phonetics": [
 						"[ɪnˈkriːs]"
@@ -2666,7 +2606,7 @@
 				{
 					"word": "indeterminate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=indeterminate&type=2"
+						"/audios/indeterminate.mp3"
 					],
 					"phonetics": [
 						"[ˌɪndɪˈtɜːrmɪnət]",
@@ -2677,7 +2617,7 @@
 				{
 					"word": "index",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=index&type=2"
+						"/audios/index.mp3"
 					],
 					"phonetics": [
 						"[ˈɪndeks]"
@@ -2687,7 +2627,7 @@
 				{
 					"word": "indices",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=indices&type=2"
+						"/audios/indices.mp3"
 					],
 					"phonetics": [
 						"[ˈɪndɪsiːz]"
@@ -2697,7 +2637,7 @@
 				{
 					"word": "infinite",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=infinite&type=2"
+						"/audios/infinite.mp3"
 					],
 					"phonetics": [
 						"[ˈɪnfɪnət]"
@@ -2707,7 +2647,7 @@
 				{
 					"word": "inheritance",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=inheritance&type=2"
+						"/audios/inheritance.mp3"
 					],
 					"phonetics": [
 						"[ɪnˈherɪtəns]"
@@ -2717,7 +2657,7 @@
 				{
 					"word": "initialize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=initialize&type=2"
+						"/audios/initialize.mp3"
 					],
 					"phonetics": [
 						"[ɪˈnɪʃəlaɪz]"
@@ -2727,7 +2667,7 @@
 				{
 					"word": "initiated",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=initiated&type=2"
+						"/audios/initiated.mp3"
 					],
 					"phonetics": [
 						"[ɪˈnɪʃɪeɪtɪd]"
@@ -2737,7 +2677,7 @@
 				{
 					"word": "instance",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=instance&type=2"
+						"/audios/instance.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2747,7 +2687,7 @@
 				{
 					"word": "instantiated",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=instantiated&type=2"
+						"/audios/instantiated.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2757,7 +2697,7 @@
 				{
 					"word": "integrity",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=integrity&type=2"
+						"/audios/integrity.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -2767,7 +2707,7 @@
 				{
 					"word": "interact",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=interact&type=2"
+						"/audios/interact.mp3"
 					],
 					"phonetics": [
 						"[ˌɪntərˈækt]"
@@ -2777,7 +2717,7 @@
 				{
 					"word": "intermediate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=intermediate&type=2"
+						"/audios/intermediate.mp3"
 					],
 					"phonetics": [
 						"[ˌɪntərˈmiːdiət]",
@@ -2788,7 +2728,7 @@
 				{
 					"word": "interpolation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=interpolation&type=2"
+						"/audios/interpolation.mp3"
 					],
 					"phonetics": [
 						"[ɪnˌtɜːrpəˈleɪʃ(ə)n]",
@@ -2799,7 +2739,7 @@
 				{
 					"word": "intuition",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=intuition&type=2"
+						"/audios/intuition.mp3"
 					],
 					"phonetics": [
 						"[ˌɪntuˈɪʃ(ə)n]",
@@ -2810,7 +2750,7 @@
 				{
 					"word": "intuitive",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=intuitive&type=2"
+						"/audios/intuitive.mp3"
 					],
 					"phonetics": [
 						"[ɪnˈtuːɪtɪv]",
@@ -2821,7 +2761,7 @@
 				{
 					"word": "isolate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=isolate&type=2"
+						"/audios/isolate.mp3"
 					],
 					"phonetics": [
 						"[ˈaɪsəleɪt]"
@@ -2831,7 +2771,7 @@
 				{
 					"word": "issue",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=issue&type=2"
+						"/audios/issue.mp3"
 					],
 					"phonetics": [
 						"[ˈɪʃuː]"
@@ -2841,7 +2781,7 @@
 				{
 					"word": "jpeg",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=jpeg&type=2"
+						"/audios/jpeg.mp3"
 					],
 					"phonetics": [
 						"[ˈdʒeɪpeɡ]"
@@ -2851,7 +2791,7 @@
 				{
 					"word": "lanes",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=lanes&type=2"
+						"/audios/lanes.mp3"
 					],
 					"phonetics": [
 						"[leɪnz]"
@@ -2861,7 +2801,7 @@
 				{
 					"word": "latency",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=latency&type=2"
+						"/audios/latency.mp3"
 					],
 					"phonetics": [
 						"[ˈleɪtənsi]"
@@ -2871,7 +2811,7 @@
 				{
 					"word": "layer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=layer&type=2"
+						"/audios/layer.mp3"
 					],
 					"phonetics": [
 						"[ˈleɪər]",
@@ -2882,7 +2822,7 @@
 				{
 					"word": "locale",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=locale&type=2"
+						"/audios/locale.mp3"
 					],
 					"phonetics": [
 						"[loʊˈkæl]",
@@ -2893,7 +2833,7 @@
 				{
 					"word": "macro",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=macro&type=2"
+						"/audios/macro.mp3"
 					],
 					"phonetics": [
 						"[ˈmækroʊ]",
@@ -2904,7 +2844,7 @@
 				{
 					"word": "main",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=main&type=2"
+						"/audios/main.mp3"
 					],
 					"phonetics": [
 						"[meɪn]"
@@ -2914,7 +2854,7 @@
 				{
 					"word": "maintainability",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=maintainability&type=2"
+						"/audios/maintainability.mp3"
 					],
 					"phonetics": [
 						"[meɪnˌteɪnəˈbɪləti]"
@@ -2924,7 +2864,7 @@
 				{
 					"word": "maintainable",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=maintainable&type=2"
+						"/audios/maintainable.mp3"
 					],
 					"phonetics": [
 						"[meɪnˈteɪnəbl]"
@@ -2934,7 +2874,7 @@
 				{
 					"word": "maintainer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=maintainer&type=2"
+						"/audios/maintainer.mp3"
 					],
 					"phonetics": [
 						"[menˈteɪnər]",
@@ -2945,7 +2885,7 @@
 				{
 					"word": "maintenance",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=maintenance&type=2"
+						"/audios/maintenance.mp3"
 					],
 					"phonetics": [
 						"[ˈmeɪntənəns]"
@@ -2955,7 +2895,7 @@
 				{
 					"word": "malicious",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=malicious&type=2"
+						"/audios/malicious.mp3"
 					],
 					"phonetics": [
 						"[məˈlɪʃəs]"
@@ -2965,7 +2905,7 @@
 				{
 					"word": "manipulate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=manipulate&type=2"
+						"/audios/manipulate.mp3"
 					],
 					"phonetics": [
 						"[məˈnɪpjuleɪt]"
@@ -2975,7 +2915,7 @@
 				{
 					"word": "manual",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=manual&type=2"
+						"/audios/manual.mp3"
 					],
 					"phonetics": [
 						"[ˈmænjuəl]"
@@ -2985,7 +2925,7 @@
 				{
 					"word": "margin",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=margin&type=2"
+						"/audios/margin.mp3"
 					],
 					"phonetics": [
 						"[ˈmɑːrdʒɪn]",
@@ -2996,7 +2936,7 @@
 				{
 					"word": "micro",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=micro&type=2"
+						"/audios/micro.mp3"
 					],
 					"phonetics": [
 						"[ˈmaɪkroʊ]",
@@ -3007,7 +2947,7 @@
 				{
 					"word": "million",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=million&type=2"
+						"/audios/million.mp3"
 					],
 					"phonetics": [
 						"[ˈmɪljən]"
@@ -3017,7 +2957,7 @@
 				{
 					"word": "minify",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=minify&type=2"
+						"/audios/minify.mp3"
 					],
 					"phonetics": [
 						"[mɪnɪˌfaɪ]",
@@ -3028,7 +2968,7 @@
 				{
 					"word": "mock",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=mock&type=2"
+						"/audios/mock.mp3"
 					],
 					"phonetics": [
 						"[mɑːk]",
@@ -3039,7 +2979,7 @@
 				{
 					"word": "modal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=modal&type=2"
+						"/audios/modal.mp3"
 					],
 					"phonetics": [
 						"[ˈmoʊdl]",
@@ -3050,7 +2990,7 @@
 				{
 					"word": "model",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=model&type=2"
+						"/audios/model.mp3"
 					],
 					"phonetics": [
 						"[ˈmɑːd(ə)l]",
@@ -3061,7 +3001,7 @@
 				{
 					"word": "modification",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=modification&type=2"
+						"/audios/modification.mp3"
 					],
 					"phonetics": [
 						"[ˌmɑːdɪfɪˈkeɪʃ(ə)n]",
@@ -3072,7 +3012,7 @@
 				{
 					"word": "modularize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=modularize&type=2"
+						"/audios/modularize.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -3083,7 +3023,7 @@
 				{
 					"word": "module",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=module&type=2"
+						"/audios/module.mp3"
 					],
 					"phonetics": [
 						"[ˈmɑːdʒuːl]",
@@ -3094,7 +3034,7 @@
 				{
 					"word": "mortem",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=mortem&type=2"
+						"/audios/mortem.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3102,19 +3042,9 @@
 					"reference": ""
 				},
 				{
-					"word": "multiple",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=multiple&type=2"
-					],
-					"phonetics": [
-						"[ˈmʌltɪp(ə)l]"
-					],
-					"reference": ""
-				},
-				{
 					"word": "multiplexing",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=multiplexing&type=2"
+						"/audios/multiplexing.mp3"
 					],
 					"phonetics": [
 						"[ˈmʌltɪpleksɪŋ]",
@@ -3125,7 +3055,7 @@
 				{
 					"word": "multithreading",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=multithreading&type=2"
+						"/audios/multithreading.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -3136,7 +3066,7 @@
 				{
 					"word": "nano",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=nano&type=2"
+						"/audios/nano.mp3"
 					],
 					"phonetics": [
 						"[ˈnænoʊ]",
@@ -3147,7 +3077,7 @@
 				{
 					"word": "next",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=next&type=2"
+						"/audios/next.mp3"
 					],
 					"phonetics": [
 						"[nekst]"
@@ -3157,7 +3087,7 @@
 				{
 					"word": "node_modules",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=node_modules&type=2"
+						"/audios/node_modules.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3167,7 +3097,7 @@
 				{
 					"word": "null",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=null&type=2"
+						"/audios/null.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3177,7 +3107,7 @@
 				{
 					"word": "nuxt",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=nuxt&type=2"
+						"/audios/nuxt.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3187,7 +3117,7 @@
 				{
 					"word": "object",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=object&type=2"
+						"/audios/object.mp3"
 					],
 					"phonetics": [
 						"[ˈɑːbdʒekt]",
@@ -3198,7 +3128,7 @@
 				{
 					"word": "obsolete",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=obsolete&type=2"
+						"/audios/obsolete.mp3"
 					],
 					"phonetics": [
 						"[ˌɑːbsəˈliːt]",
@@ -3209,7 +3139,7 @@
 				{
 					"word": "omit",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=omit&type=2"
+						"/audios/omit.mp3"
 					],
 					"phonetics": [
 						"[əˈmɪt]"
@@ -3219,7 +3149,7 @@
 				{
 					"word": "opacity",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=opacity&type=2"
+						"/audios/opacity.mp3"
 					],
 					"phonetics": [
 						"[oʊˈpæsəti]",
@@ -3230,7 +3160,7 @@
 				{
 					"word": "operational",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=operational&type=2"
+						"/audios/operational.mp3"
 					],
 					"phonetics": [
 						"[ˌɑːpəˈreɪʃən(ə)l]",
@@ -3241,7 +3171,7 @@
 				{
 					"word": "orientation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=orientation&type=2"
+						"/audios/orientation.mp3"
 					],
 					"phonetics": [
 						"[ˌɔːriənˈteɪʃ(ə)n]"
@@ -3251,7 +3181,7 @@
 				{
 					"word": "oriented",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=oriented&type=2"
+						"/audios/oriented.mp3"
 					],
 					"phonetics": [
 						"[ˈɔːrientɪd]"
@@ -3261,7 +3191,7 @@
 				{
 					"word": "origin",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=origin&type=2"
+						"/audios/origin.mp3"
 					],
 					"phonetics": [
 						"[ˈɔːrɪdʒɪn]",
@@ -3272,7 +3202,7 @@
 				{
 					"word": "outage",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=outage&type=2"
+						"/audios/outage.mp3"
 					],
 					"phonetics": [
 						"[ˈaʊtɪdʒ]"
@@ -3282,7 +3212,7 @@
 				{
 					"word": "overhead",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=overhead&type=2"
+						"/audios/overhead.mp3"
 					],
 					"phonetics": [
 						"[ˌoʊvərˈhed]",
@@ -3293,7 +3223,7 @@
 				{
 					"word": "packets",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=packets&type=2"
+						"/audios/packets.mp3"
 					],
 					"phonetics": [
 						"[ˈpækɪts]"
@@ -3302,9 +3232,7 @@
 				},
 				{
 					"word": "pagination",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pagination&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˌpædʒɪˈneɪʃ(ə)n]"
 					],
@@ -3313,7 +3241,7 @@
 				{
 					"word": "panel",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=panel&type=2"
+						"/audios/panel.mp3"
 					],
 					"phonetics": [
 						"[ˈpæn(ə)l]"
@@ -3323,7 +3251,7 @@
 				{
 					"word": "parameter",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=parameter&type=2"
+						"/audios/parameter.mp3"
 					],
 					"phonetics": [
 						"[pəˈræmɪtər]",
@@ -3334,7 +3262,7 @@
 				{
 					"word": "parentheses",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=parentheses&type=2"
+						"/audios/parentheses.mp3"
 					],
 					"phonetics": [
 						"[pəˈrenθəsiːz]"
@@ -3344,7 +3272,7 @@
 				{
 					"word": "percentiles",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=percentiles&type=2"
+						"/audios/percentiles.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3354,7 +3282,7 @@
 				{
 					"word": "pipeline",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pipeline&type=2"
+						"/audios/pipeline.mp3"
 					],
 					"phonetics": [
 						"[ˈpaɪplaɪn]"
@@ -3364,7 +3292,7 @@
 				{
 					"word": "plural",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=plural&type=2"
+						"/audios/plural.mp3"
 					],
 					"phonetics": [
 						"[ˈplʊrəl]",
@@ -3375,7 +3303,7 @@
 				{
 					"word": "pod",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pod&type=2"
+						"/audios/pod.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3385,7 +3313,7 @@
 				{
 					"word": "polish",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=polish&type=2"
+						"/audios/polish.mp3"
 					],
 					"phonetics": [
 						"[ˈpɑːlɪʃ]",
@@ -3396,7 +3324,7 @@
 				{
 					"word": "polyfill",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=polyfill&type=2"
+						"/audios/polyfill.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3406,7 +3334,7 @@
 				{
 					"word": "pop",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pop&type=2"
+						"/audios/pop.mp3"
 					],
 					"phonetics": [
 						"[pɑːp]",
@@ -3417,7 +3345,7 @@
 				{
 					"word": "pound",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pound&type=2"
+						"/audios/pound.mp3"
 					],
 					"phonetics": [
 						"[paʊnd]"
@@ -3427,7 +3355,7 @@
 				{
 					"word": "precedence",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=precedence&type=2"
+						"/audios/precedence.mp3"
 					],
 					"phonetics": [
 						"[ˈpresɪdəns]"
@@ -3437,7 +3365,7 @@
 				{
 					"word": "pro",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pro&type=2"
+						"/audios/pro.mp3"
 					],
 					"phonetics": [
 						"[proʊ]",
@@ -3448,7 +3376,7 @@
 				{
 					"word": "prompt",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=prompt&type=2"
+						"/audios/prompt.mp3"
 					],
 					"phonetics": [
 						"[prɑːmpt]",
@@ -3459,7 +3387,7 @@
 				{
 					"word": "prop",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=prop&type=2"
+						"/audios/prop.mp3"
 					],
 					"phonetics": [
 						"[prɑːp]",
@@ -3470,7 +3398,7 @@
 				{
 					"word": "property",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=property&type=2"
+						"/audios/property.mp3"
 					],
 					"phonetics": [
 						"[ˈprɑːpərti]",
@@ -3481,7 +3409,7 @@
 				{
 					"word": "props",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=props&type=2"
+						"/audios/props.mp3"
 					],
 					"phonetics": [
 						"[prɑːps]",
@@ -3492,7 +3420,7 @@
 				{
 					"word": "prototypal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=prototypal&type=2"
+						"/audios/prototypal.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3502,7 +3430,7 @@
 				{
 					"word": "query",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=query&type=2"
+						"/audios/query.mp3"
 					],
 					"phonetics": [
 						"[ˈkwɪri]",
@@ -3513,7 +3441,7 @@
 				{
 					"word": "queued",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=queued&type=2"
+						"/audios/queued.mp3"
 					],
 					"phonetics": [
 						"[kjuːd]"
@@ -3523,7 +3451,7 @@
 				{
 					"word": "quotation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=quotation&type=2"
+						"/audios/quotation.mp3"
 					],
 					"phonetics": [
 						"[kwoʊˈteɪʃ(ə)n]",
@@ -3534,7 +3462,7 @@
 				{
 					"word": "reject",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=reject&type=2"
+						"/audios/reject.mp3"
 					],
 					"phonetics": [
 						"[rɪˈdʒekt]"
@@ -3544,7 +3472,7 @@
 				{
 					"word": "repetitive",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=repetitive&type=2"
+						"/audios/repetitive.mp3"
 					],
 					"phonetics": [
 						"[rɪˈpetətɪv]"
@@ -3554,7 +3482,7 @@
 				{
 					"word": "replicas",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=replicas&type=2"
+						"/audios/replicas.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3564,7 +3492,7 @@
 				{
 					"word": "repo",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=repo&type=2"
+						"/audios/repo.mp3"
 					],
 					"phonetics": [
 						"[ˈriːpoʊ]",
@@ -3575,7 +3503,7 @@
 				{
 					"word": "repository",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=repository&type=2"
+						"/audios/repository.mp3"
 					],
 					"phonetics": [
 						"[rɪˈpɑːzətɔːri]",
@@ -3586,7 +3514,7 @@
 				{
 					"word": "resolved",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=resolved&type=2"
+						"/audios/resolved.mp3"
 					],
 					"phonetics": [
 						"[rɪˈzɑːlvd]",
@@ -3597,7 +3525,7 @@
 				{
 					"word": "retina",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=retina&type=2"
+						"/audios/retina.mp3"
 					],
 					"phonetics": [
 						"[ˈretɪnə]"
@@ -3607,7 +3535,7 @@
 				{
 					"word": "router",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=router&type=2"
+						"/audios/router.mp3"
 					],
 					"phonetics": [
 						"[ˈruːtər; ˈraʊtər]",
@@ -3618,7 +3546,7 @@
 				{
 					"word": "sanitize",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sanitize&type=2"
+						"/audios/sanitize.mp3"
 					],
 					"phonetics": [
 						"[ˈsænɪtaɪz]"
@@ -3628,7 +3556,7 @@
 				{
 					"word": "scalability",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=scalability&type=2"
+						"/audios/scalability.mp3"
 					],
 					"phonetics": [
 						"[ˌskeɪləˈbɪləti]"
@@ -3638,7 +3566,7 @@
 				{
 					"word": "scale",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=scale&type=2"
+						"/audios/scale.mp3"
 					],
 					"phonetics": [
 						"[skeɪl]"
@@ -3648,7 +3576,7 @@
 				{
 					"word": "schema",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=schema&type=2"
+						"/audios/schema.mp3"
 					],
 					"phonetics": [
 						"[ˈskiːmə]"
@@ -3658,7 +3586,7 @@
 				{
 					"word": "scheme",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=scheme&type=2"
+						"/audios/scheme.mp3"
 					],
 					"phonetics": [
 						"[skiːm]"
@@ -3668,7 +3596,7 @@
 				{
 					"word": "scratch",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=scratch&type=2"
+						"/audios/scratch.mp3"
 					],
 					"phonetics": [
 						"[skrætʃ]"
@@ -3678,7 +3606,7 @@
 				{
 					"word": "sematic",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sematic&type=2"
+						"/audios/sematic.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3687,9 +3615,7 @@
 				},
 				{
 					"word": "semicolon",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=semicolon&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[ˈsemikoʊlən]",
 						"[ˌsemiˈkəʊlən; ˌsemiˈkəʊlɒn]"
@@ -3699,7 +3625,7 @@
 				{
 					"word": "shallow",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=shallow&type=2"
+						"/audios/shallow.mp3"
 					],
 					"phonetics": [
 						"[ˈʃæloʊ]",
@@ -3710,7 +3636,7 @@
 				{
 					"word": "shell",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=shell&type=2"
+						"/audios/shell.mp3"
 					],
 					"phonetics": [
 						"[ʃel]"
@@ -3720,7 +3646,7 @@
 				{
 					"word": "shuffle",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=shuffle&type=2"
+						"/audios/shuffle.mp3"
 					],
 					"phonetics": [
 						"[ˈʃʌf(ə)l]"
@@ -3730,7 +3656,7 @@
 				{
 					"word": "simplicity",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=simplicity&type=2"
+						"/audios/simplicity.mp3"
 					],
 					"phonetics": [
 						"[sɪmˈplɪsəti]"
@@ -3740,7 +3666,7 @@
 				{
 					"word": "simulate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=simulate&type=2"
+						"/audios/simulate.mp3"
 					],
 					"phonetics": [
 						"[ˈsɪmjuleɪt]"
@@ -3750,7 +3676,7 @@
 				{
 					"word": "skeleton",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=skeleton&type=2"
+						"/audios/skeleton.mp3"
 					],
 					"phonetics": [
 						"[ˈskelɪt(ə)n]"
@@ -3760,7 +3686,7 @@
 				{
 					"word": "slot",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=slot&type=2"
+						"/audios/slot.mp3"
 					],
 					"phonetics": [
 						"[slɑːt]",
@@ -3771,7 +3697,7 @@
 				{
 					"word": "snippet",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=snippet&type=2"
+						"/audios/snippet.mp3"
 					],
 					"phonetics": [
 						"[ˈsnɪpɪt]"
@@ -3781,7 +3707,7 @@
 				{
 					"word": "sprites",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sprites&type=2"
+						"/audios/sprites.mp3"
 					],
 					"phonetics": [
 						"[spraɪts]"
@@ -3791,7 +3717,7 @@
 				{
 					"word": "squash",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=squash&type=2"
+						"/audios/squash.mp3"
 					],
 					"phonetics": [
 						"[skwɑːʃ]",
@@ -3802,7 +3728,7 @@
 				{
 					"word": "stats",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=stats&type=2"
+						"/audios/stats.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3812,7 +3738,7 @@
 				{
 					"word": "status",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=status&type=2"
+						"/audios/status.mp3"
 					],
 					"phonetics": [
 						"[ˈsteɪtəs]"
@@ -3822,7 +3748,7 @@
 				{
 					"word": "stringify",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=stringify&type=2"
+						"/audios/stringify.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3832,7 +3758,7 @@
 				{
 					"word": "stub",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=stub&type=2"
+						"/audios/stub.mp3"
 					],
 					"phonetics": [
 						"[stʌb]"
@@ -3842,7 +3768,7 @@
 				{
 					"word": "sudo",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sudo&type=2"
+						"/audios/sudo.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3852,7 +3778,7 @@
 				{
 					"word": "swap",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=swap&type=2"
+						"/audios/swap.mp3"
 					],
 					"phonetics": [
 						"[swɑːp]",
@@ -3863,7 +3789,7 @@
 				{
 					"word": "swipe",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=swipe&type=2"
+						"/audios/swipe.mp3"
 					],
 					"phonetics": [
 						"[swaɪp]"
@@ -3873,7 +3799,7 @@
 				{
 					"word": "swiper",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=swiper&type=2"
+						"/audios/swiper.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -3884,7 +3810,7 @@
 				{
 					"word": "symmetric",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=symmetric&type=2"
+						"/audios/symmetric.mp3"
 					],
 					"phonetics": [
 						"[sɪˈmetrɪk]"
@@ -3894,7 +3820,7 @@
 				{
 					"word": "synchronously",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=synchronously&type=2"
+						"/audios/synchronously.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3904,7 +3830,7 @@
 				{
 					"word": "terminate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=terminate&type=2"
+						"/audios/terminate.mp3"
 					],
 					"phonetics": [
 						"[ˈtɜːrmɪneɪt]",
@@ -3915,7 +3841,7 @@
 				{
 					"word": "ternary",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ternary&type=2"
+						"/audios/ternary.mp3"
 					],
 					"phonetics": [
 						"[ˈtɜːrnəri]",
@@ -3926,7 +3852,7 @@
 				{
 					"word": "text",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=text&type=2"
+						"/audios/text.mp3"
 					],
 					"phonetics": [
 						"[tekst]"
@@ -3936,7 +3862,7 @@
 				{
 					"word": "textarea",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=textarea&type=2"
+						"/audios/textarea.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -3946,7 +3872,7 @@
 				{
 					"word": "threshold",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=threshold&type=2"
+						"/audios/threshold.mp3"
 					],
 					"phonetics": [
 						"[ˈθreʃhoʊld]",
@@ -3957,7 +3883,7 @@
 				{
 					"word": "thresholds",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=thresholds&type=2"
+						"/audios/thresholds.mp3"
 					],
 					"phonetics": [
 						"[ˈθreʃhold]",
@@ -3968,7 +3894,7 @@
 				{
 					"word": "throttle",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=throttle&type=2"
+						"/audios/throttle.mp3"
 					],
 					"phonetics": [
 						"[ˈθrɑːtl]",
@@ -3979,7 +3905,7 @@
 				{
 					"word": "toggle",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=toggle&type=2"
+						"/audios/toggle.mp3"
 					],
 					"phonetics": [
 						"[ˈtɑːɡl]",
@@ -3990,7 +3916,7 @@
 				{
 					"word": "transitions",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=transitions&type=2"
+						"/audios/transitions.mp3"
 					],
 					"phonetics": [
 						"[trænˈzɪʃnz]"
@@ -4000,7 +3926,7 @@
 				{
 					"word": "tuple",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=tuple&type=2"
+						"/audios/tuple.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4010,7 +3936,7 @@
 				{
 					"word": "turbo",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=turbo&type=2"
+						"/audios/turbo.mp3"
 					],
 					"phonetics": [
 						"[ˈtɜːrboʊ]",
@@ -4021,7 +3947,7 @@
 				{
 					"word": "typecast",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=typecast&type=2"
+						"/audios/typecast.mp3"
 					],
 					"phonetics": [
 						"[ˈtaɪpkæst]",
@@ -4032,7 +3958,7 @@
 				{
 					"word": "typography",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=typography&type=2"
+						"/audios/typography.mp3"
 					],
 					"phonetics": [
 						"[taɪˈpɑːɡrəfi]",
@@ -4043,7 +3969,7 @@
 				{
 					"word": "union",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=union&type=2"
+						"/audios/union.mp3"
 					],
 					"phonetics": [
 						"[ˈjuːniən]"
@@ -4053,7 +3979,7 @@
 				{
 					"word": "vanilla",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=vanilla&type=2"
+						"/audios/vanilla.mp3"
 					],
 					"phonetics": [
 						"[vəˈnɪlə]"
@@ -4063,7 +3989,7 @@
 				{
 					"word": "variable",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=variable&type=2"
+						"/audios/variable.mp3"
 					],
 					"phonetics": [
 						"[ˈveriəb(ə)l]",
@@ -4074,7 +4000,7 @@
 				{
 					"word": "variety",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=variety&type=2"
+						"/audios/variety.mp3"
 					],
 					"phonetics": [
 						"[vəˈraɪəti]"
@@ -4084,7 +4010,7 @@
 				{
 					"word": "viewport",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=viewport&type=2"
+						"/audios/viewport.mp3"
 					],
 					"phonetics": [
 						"[ˈvjuːpɔːrt]",
@@ -4095,7 +4021,7 @@
 				{
 					"word": "vulnerability",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=vulnerability&type=2"
+						"/audios/vulnerability.mp3"
 					],
 					"phonetics": [
 						"[ˌvʌlnərəˈbɪləti]"
@@ -4105,7 +4031,7 @@
 				{
 					"word": "widget",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=widget&type=2"
+						"/audios/widget.mp3"
 					],
 					"phonetics": [
 						"[ˈwɪdʒɪt]"
@@ -4115,7 +4041,7 @@
 				{
 					"word": "width",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=width&type=2"
+						"/audios/width.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4125,7 +4051,7 @@
 				{
 					"word": "wobbler",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=wobbler&type=2"
+						"/audios/wobbler.mp3"
 					],
 					"phonetics": [
 						"[ˈwɑːblər]",
@@ -4136,7 +4062,7 @@
 				{
 					"word": "wrapper",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=wrapper&type=2"
+						"/audios/wrapper.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4146,7 +4072,7 @@
 				{
 					"word": "yield",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=yield&type=2"
+						"/audios/yield.mp3"
 					],
 					"phonetics": [
 						"[jiːld]"
@@ -4161,7 +4087,7 @@
 				{
 					"word": ".net",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=.net&type=2"
+						"/audios/.net.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4171,7 +4097,7 @@
 				{
 					"word": "adobe",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=adobe&type=2"
+						"/audios/adobe.mp3"
 					],
 					"phonetics": [
 						"[əˈdoʊbi]",
@@ -4182,7 +4108,7 @@
 				{
 					"word": "AirBnB",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=AirBnB&type=2"
+						"/audios/AirBnB.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4192,7 +4118,7 @@
 				{
 					"word": "AJAX",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=AJAX&type=2"
+						"/audios/AJAX.mp3"
 					],
 					"phonetics": [
 						"[ˈeɪdʒæks]"
@@ -4202,7 +4128,7 @@
 				{
 					"word": "Amazon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Amazon&type=2"
+						"/audios/Amazon.mp3"
 					],
 					"phonetics": [
 						"[ˈæməzɑːn]",
@@ -4213,7 +4139,7 @@
 				{
 					"word": "Android",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Android&type=2"
+						"/audios/Android.mp3"
 					],
 					"phonetics": [
 						"[ˈændrɔɪd]"
@@ -4223,7 +4149,7 @@
 				{
 					"word": "Angular",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Angular&type=2"
+						"/audios/Angular.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4233,7 +4159,7 @@
 				{
 					"word": "Apache",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Apache&type=2"
+						"/audios/Apache.mp3"
 					],
 					"phonetics": [
 						"[əˈpætʃi]"
@@ -4243,7 +4169,7 @@
 				{
 					"word": "ARIA",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ARIA&type=2"
+						"/audios/ARIA.mp3"
 					],
 					"phonetics": [
 						"[ˈɑːriə]"
@@ -4253,7 +4179,7 @@
 				{
 					"word": "ASCII",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ASCII&type=2"
+						"/audios/ASCII.mp3"
 					],
 					"phonetics": [
 						"[ˈæski]"
@@ -4263,17 +4189,7 @@
 				{
 					"word": "ASUS",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ASUS&type=2"
-					],
-					"phonetics": [
-						"[TBD]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "Axios",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Axios&type=2"
+						"/audios/ASUS.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4283,7 +4199,7 @@
 				{
 					"word": "Azure",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Azure&type=2"
+						"/audios/Azure.mp3"
 					],
 					"phonetics": [
 						"[ˈæʒər]",
@@ -4294,7 +4210,7 @@
 				{
 					"word": "BIOS",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=BIOS&type=2"
+						"/audios/BIOS.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -4305,7 +4221,7 @@
 				{
 					"word": "Bootstrap",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Bootstrap&type=2"
+						"/audios/Bootstrap.mp3"
 					],
 					"phonetics": [
 						"[ˈbuːtstræp]"
@@ -4315,7 +4231,7 @@
 				{
 					"word": "Browserify",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Browserify&type=2"
+						"/audios/Browserify.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4325,7 +4241,7 @@
 				{
 					"word": "C#",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=C#&type=2"
+						"/audios/C#.mp3"
 					],
 					"phonetics": [
 						"[siː]"
@@ -4335,7 +4251,7 @@
 				{
 					"word": "CentOS",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=CentOS&type=2"
+						"/audios/CentOS.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4345,7 +4261,7 @@
 				{
 					"word": "chalk",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=chalk&type=2"
+						"/audios/chalk.mp3"
 					],
 					"phonetics": [
 						"[tʃɔːk]"
@@ -4355,7 +4271,7 @@
 				{
 					"word": "Chrome",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Chrome&type=2"
+						"/audios/Chrome.mp3"
 					],
 					"phonetics": [
 						"[kroʊm]",
@@ -4366,7 +4282,7 @@
 				{
 					"word": "cURL",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=cURL&type=2"
+						"/audios/cURL.mp3"
 					],
 					"phonetics": [
 						"[kɜːrl]",
@@ -4377,7 +4293,7 @@
 				{
 					"word": "Daemon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Daemon&type=2"
+						"/audios/Daemon.mp3"
 					],
 					"phonetics": [
 						"[ˈdiːmən]"
@@ -4387,7 +4303,7 @@
 				{
 					"word": "Debian",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Debian&type=2"
+						"/audios/Debian.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4397,7 +4313,7 @@
 				{
 					"word": "DevOps",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=DevOps&type=2"
+						"/audios/DevOps.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4407,7 +4323,7 @@
 				{
 					"word": "ECMAScript",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=ECMAScript&type=2"
+						"/audios/ECMAScript.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4417,7 +4333,7 @@
 				{
 					"word": "Elon Musk",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Elon Musk&type=2"
+						"/audios/Elon Musk.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4427,7 +4343,7 @@
 				{
 					"word": "Enums",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Enums&type=2"
+						"/audios/Enums.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4437,7 +4353,7 @@
 				{
 					"word": "Fiber",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Fiber&type=2"
+						"/audios/Fiber.mp3"
 					],
 					"phonetics": [
 						"[ˈfaɪbər]",
@@ -4448,7 +4364,7 @@
 				{
 					"word": "FIFO",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=FIFO&type=2"
+						"/audios/FIFO.mp3"
 					],
 					"phonetics": [
 						"[ˈfaɪˌfo]",
@@ -4459,7 +4375,7 @@
 				{
 					"word": "FILO",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=FILO&type=2"
+						"/audios/FILO.mp3"
 					],
 					"phonetics": [
 						"[ˈfiːloʊ]",
@@ -4470,7 +4386,7 @@
 				{
 					"word": "Flux",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Flux&type=2"
+						"/audios/Flux.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4480,7 +4396,7 @@
 				{
 					"word": "GIF",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=GIF&type=2"
+						"/audios/GIF.mp3"
 					],
 					"phonetics": [
 						"[ɡɪfˌdʒɪf]",
@@ -4491,7 +4407,7 @@
 				{
 					"word": "Gigabyte",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Gigabyte&type=2"
+						"/audios/Gigabyte.mp3"
 					],
 					"phonetics": [
 						"[ˈɡɪɡəbaɪt]"
@@ -4501,7 +4417,7 @@
 				{
 					"word": "Git",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Git&type=2"
+						"/audios/Git.mp3"
 					],
 					"phonetics": [
 						"[ɡɪt]"
@@ -4511,7 +4427,7 @@
 				{
 					"word": "Google",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Google&type=2"
+						"/audios/Google.mp3"
 					],
 					"phonetics": [
 						"[ˈɡuːɡl]"
@@ -4521,7 +4437,7 @@
 				{
 					"word": "Grafana",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Grafana&type=2"
+						"/audios/Grafana.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4531,7 +4447,7 @@
 				{
 					"word": "GUI",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=GUI&type=2"
+						"/audios/GUI.mp3"
 					],
 					"phonetics": [
 						"[ˈɡuːiˌˌdʒiː juː ˈaɪ]",
@@ -4542,7 +4458,7 @@
 				{
 					"word": "Hadoop",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Hadoop&type=2"
+						"/audios/Hadoop.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4552,7 +4468,7 @@
 				{
 					"word": "IEEE",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=IEEE&type=2"
+						"/audios/IEEE.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4562,7 +4478,7 @@
 				{
 					"word": "IIFE",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=IIFE&type=2"
+						"/audios/IIFE.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4572,7 +4488,7 @@
 				{
 					"word": "Immutable.js",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Immutable.js&type=2"
+						"/audios/Immutable.js.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4582,7 +4498,7 @@
 				{
 					"word": "iPhone",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=iPhone&type=2"
+						"/audios/iPhone.mp3"
 					],
 					"phonetics": [
 						"[ˈaɪfon]",
@@ -4593,7 +4509,7 @@
 				{
 					"word": "Java",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Java&type=2"
+						"/audios/Java.mp3"
 					],
 					"phonetics": [
 						"[ˈdʒɑːvə]"
@@ -4603,7 +4519,7 @@
 				{
 					"word": "Jekyll",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Jekyll&type=2"
+						"/audios/Jekyll.mp3"
 					],
 					"phonetics": [
 						"[ˈdʒikɪl]",
@@ -4614,7 +4530,7 @@
 				{
 					"word": "Jenkins",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Jenkins&type=2"
+						"/audios/Jenkins.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -4625,7 +4541,7 @@
 				{
 					"word": "JSFiddle",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=JSFiddle&type=2"
+						"/audios/JSFiddle.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4635,7 +4551,7 @@
 				{
 					"word": "JSON",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=JSON&type=2"
+						"/audios/JSON.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4645,7 +4561,7 @@
 				{
 					"word": "Kilobyte",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Kilobyte&type=2"
+						"/audios/Kilobyte.mp3"
 					],
 					"phonetics": [
 						"[ˈkɪləbaɪt]"
@@ -4655,7 +4571,7 @@
 				{
 					"word": "Kotlin",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Kotlin&type=2"
+						"/audios/Kotlin.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4665,7 +4581,7 @@
 				{
 					"word": "Kubernetes",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2"
+						"/audios/Kubernetes.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4675,7 +4591,7 @@
 				{
 					"word": "Lambda",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Lambda&type=2"
+						"/audios/Lambda.mp3"
 					],
 					"phonetics": [
 						"[ˈlæmdə]"
@@ -4685,7 +4601,7 @@
 				{
 					"word": "Laravel",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Laravel&type=2"
+						"/audios/Laravel.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4695,7 +4611,7 @@
 				{
 					"word": "LESS",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=LESS&type=2"
+						"/audios/LESS.mp3"
 					],
 					"phonetics": [
 						"[les]"
@@ -4705,7 +4621,7 @@
 				{
 					"word": "Linaria",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Linaria&type=2"
+						"/audios/Linaria.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4715,7 +4631,7 @@
 				{
 					"word": "Linux",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Linux&type=2"
+						"/audios/Linux.mp3"
 					],
 					"phonetics": [
 						"[ˈlɪn.əks]"
@@ -4725,7 +4641,7 @@
 				{
 					"word": "Lodash",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Lodash&type=2"
+						"/audios/Lodash.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4735,7 +4651,7 @@
 				{
 					"word": "Mark Zuckerberg",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Mark Zuckerberg&type=2"
+						"/audios/Mark Zuckerberg.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4745,7 +4661,7 @@
 				{
 					"word": "Maven",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Maven&type=2"
+						"/audios/Maven.mp3"
 					],
 					"phonetics": [
 						"[ˈmeɪvn]"
@@ -4755,7 +4671,7 @@
 				{
 					"word": "Megabyte",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Megabyte&type=2"
+						"/audios/Megabyte.mp3"
 					],
 					"phonetics": [
 						"[ˈmeɡəbaɪt]"
@@ -4765,7 +4681,7 @@
 				{
 					"word": "Microsoft",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Microsoft&type=2"
+						"/audios/Microsoft.mp3"
 					],
 					"phonetics": [
 						"[ˈmaɪkrəsɔːft]",
@@ -4776,7 +4692,7 @@
 				{
 					"word": "MyBatis",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=MyBatis&type=2"
+						"/audios/MyBatis.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4786,7 +4702,7 @@
 				{
 					"word": "MySQL",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=MySQL&type=2"
+						"/audios/MySQL.mp3"
 					],
 					"phonetics": [
 						"[maɪ ɛs kju ɛl]",
@@ -4797,7 +4713,7 @@
 				{
 					"word": "Netflix",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Netflix&type=2"
+						"/audios/Netflix.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4807,7 +4723,7 @@
 				{
 					"word": "Nexus",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Nexus&type=2"
+						"/audios/Nexus.mp3"
 					],
 					"phonetics": [
 						"[ˈneksəs]"
@@ -4817,7 +4733,7 @@
 				{
 					"word": "Nginx",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Nginx&type=2"
+						"/audios/Nginx.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4827,7 +4743,7 @@
 				{
 					"word": "Nodemon",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Nodemon&type=2"
+						"/audios/Nodemon.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4837,7 +4753,7 @@
 				{
 					"word": "NVIDIA",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=NVIDIA&type=2"
+						"/audios/NVIDIA.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4847,7 +4763,7 @@
 				{
 					"word": "OAuth",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=OAuth&type=2"
+						"/audios/OAuth.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4857,7 +4773,7 @@
 				{
 					"word": "Prometheus",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Prometheus&type=2"
+						"/audios/Prometheus.mp3"
 					],
 					"phonetics": [
 						"[proˈmiθɪəs]",
@@ -4868,7 +4784,7 @@
 				{
 					"word": "Puppeteer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Puppeteer&type=2"
+						"/audios/Puppeteer.mp3"
 					],
 					"phonetics": [
 						"[ˌpʌpɪˈtɪr]",
@@ -4879,7 +4795,7 @@
 				{
 					"word": "Python",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Python&type=2"
+						"/audios/Python.mp3"
 					],
 					"phonetics": [
 						"[ˈpaɪθɑːn]",
@@ -4890,7 +4806,7 @@
 				{
 					"word": "Realm",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Realm&type=2"
+						"/audios/Realm.mp3"
 					],
 					"phonetics": [
 						"[relm]"
@@ -4900,7 +4816,7 @@
 				{
 					"word": "Redis",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Redis&type=2"
+						"/audios/Redis.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4910,7 +4826,7 @@
 				{
 					"word": "Redux",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Redux&type=2"
+						"/audios/Redux.mp3"
 					],
 					"phonetics": [
 						"[ˈriːdʌks]"
@@ -4920,7 +4836,7 @@
 				{
 					"word": "RegExp",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=RegExp&type=2"
+						"/audios/RegExp.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4930,7 +4846,7 @@
 				{
 					"word": "RESTful",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=RESTful&type=2"
+						"/audios/RESTful.mp3"
 					],
 					"phonetics": [
 						"[ˈrestfl]"
@@ -4940,7 +4856,7 @@
 				{
 					"word": "Rollup",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Rollup&type=2"
+						"/audios/Rollup.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4950,7 +4866,7 @@
 				{
 					"word": "Safari",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Safari&type=2"
+						"/audios/Safari.mp3"
 					],
 					"phonetics": [
 						"[səˈfɑːri]"
@@ -4960,7 +4876,7 @@
 				{
 					"word": "SCSS",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=SCSS&type=2"
+						"/audios/SCSS.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4970,7 +4886,7 @@
 				{
 					"word": "Sentry",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Sentry&type=2"
+						"/audios/Sentry.mp3"
 					],
 					"phonetics": [
 						"[ˈsentri]"
@@ -4980,7 +4896,7 @@
 				{
 					"word": "SHA",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=SHA&type=2"
+						"/audios/SHA.mp3"
 					],
 					"phonetics": [
 						"[ˌɛs etʃ ˈe]",
@@ -4991,7 +4907,7 @@
 				{
 					"word": "SonarQube",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=SonarQube&type=2"
+						"/audios/SonarQube.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5000,9 +4916,7 @@
 				},
 				{
 					"word": "SQL",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=SQL&type=2"
-					],
+					"origin": [],
 					"phonetics": [
 						"[TBD]"
 					],
@@ -5011,7 +4925,7 @@
 				{
 					"word": "StackBlitz",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=StackBlitz&type=2"
+						"/audios/StackBlitz.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5021,7 +4935,7 @@
 				{
 					"word": "Svelte",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Svelte&type=2"
+						"/audios/Svelte.mp3"
 					],
 					"phonetics": [
 						"[svelt]"
@@ -5031,7 +4945,7 @@
 				{
 					"word": "Swagger",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Swagger&type=2"
+						"/audios/Swagger.mp3"
 					],
 					"phonetics": [
 						"[ˈswæɡər]",
@@ -5042,7 +4956,7 @@
 				{
 					"word": "TOEIC",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=TOEIC&type=2"
+						"/audios/TOEIC.mp3"
 					],
 					"phonetics": [
 						"[ˈtoʊɪk]",
@@ -5053,7 +4967,7 @@
 				{
 					"word": "Ubuntu",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Ubuntu&type=2"
+						"/audios/Ubuntu.mp3"
 					],
 					"phonetics": [
 						"[ʊˈbʊntuː]"
@@ -5063,7 +4977,7 @@
 				{
 					"word": "Vim",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Vim&type=2"
+						"/audios/Vim.mp3"
 					],
 					"phonetics": [
 						"[vɪm]"
@@ -5073,7 +4987,7 @@
 				{
 					"word": "Vite",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Vite&type=2"
+						"/audios/Vite.mp3"
 					],
 					"phonetics": [
 						"[TBD]",
@@ -5084,7 +4998,7 @@
 				{
 					"word": "WiFi",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=WiFi&type=2"
+						"/audios/WiFi.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5094,7 +5008,7 @@
 				{
 					"word": "XML",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=XML&type=2"
+						"/audios/XML.mp3"
 					],
 					"phonetics": [
 						"[ˌeks em ˈel]"
@@ -5104,7 +5018,7 @@
 				{
 					"word": "YAML",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=YAML&type=2"
+						"/audios/YAML.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5114,7 +5028,7 @@
 				{
 					"word": "Yargs",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=Yargs&type=2"
+						"/audios/Yargs.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5124,7 +5038,7 @@
 				{
 					"word": "YouTube",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=YouTube&type=2"
+						"/audios/YouTube.mp3"
 					],
 					"phonetics": [
 						"[ˈjuːtuːb]",
@@ -5140,7 +5054,7 @@
 				{
 					"word": "addition",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=addition&type=2"
+						"/audios/addition.mp3"
 					],
 					"phonetics": [
 						"[əˈdɪʃ(ə)n]"
@@ -5150,7 +5064,7 @@
 				{
 					"word": "backward",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=backward&type=2"
+						"/audios/backward.mp3"
 					],
 					"phonetics": [
 						"[ˈbækwərd]",
@@ -5161,7 +5075,7 @@
 				{
 					"word": "complexity",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=complexity&type=2"
+						"/audios/complexity.mp3"
 					],
 					"phonetics": [
 						"[kəmˈpleksəti]"
@@ -5171,7 +5085,7 @@
 				{
 					"word": "constant",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=constant&type=2"
+						"/audios/constant.mp3"
 					],
 					"phonetics": [
 						"[ˈkɑːnstənt]",
@@ -5182,7 +5096,7 @@
 				{
 					"word": "cubic",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=cubic&type=2"
+						"/audios/cubic.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5192,7 +5106,7 @@
 				{
 					"word": "denominator",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=denominator&type=2"
+						"/audios/denominator.mp3"
 					],
 					"phonetics": [
 						"[dɪˈnɑːmɪneɪtər]",
@@ -5203,7 +5117,7 @@
 				{
 					"word": "difference",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=difference&type=2"
+						"/audios/difference.mp3"
 					],
 					"phonetics": [
 						"[ˈdɪfrəns]"
@@ -5213,7 +5127,7 @@
 				{
 					"word": "division",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=division&type=2"
+						"/audios/division.mp3"
 					],
 					"phonetics": [
 						"[dɪˈvɪʒ(ə)n]"
@@ -5223,7 +5137,7 @@
 				{
 					"word": "float",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=float&type=2"
+						"/audios/float.mp3"
 					],
 					"phonetics": [
 						"[floʊt]",
@@ -5234,7 +5148,7 @@
 				{
 					"word": "forward",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=forward&type=2"
+						"/audios/forward.mp3"
 					],
 					"phonetics": [
 						"[ˈfɔːrwərd]",
@@ -5245,7 +5159,7 @@
 				{
 					"word": "integer",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=integer&type=2"
+						"/audios/integer.mp3"
 					],
 					"phonetics": [
 						"[ˈɪntɪdʒər]",
@@ -5256,7 +5170,7 @@
 				{
 					"word": "inward",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=inward&type=2"
+						"/audios/inward.mp3"
 					],
 					"phonetics": [
 						"[ˈɪnwərd]",
@@ -5267,7 +5181,7 @@
 				{
 					"word": "iterate",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=iterate&type=2"
+						"/audios/iterate.mp3"
 					],
 					"phonetics": [
 						"[ˈɪtəreɪt]"
@@ -5277,7 +5191,7 @@
 				{
 					"word": "linear",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=linear&type=2"
+						"/audios/linear.mp3"
 					],
 					"phonetics": [
 						"[ˈlɪniər]",
@@ -5288,7 +5202,7 @@
 				{
 					"word": "logarithmic",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=logarithmic&type=2"
+						"/audios/logarithmic.mp3"
 					],
 					"phonetics": [
 						"[ˌlɔːɡəˈrɪðmɪk]",
@@ -5299,7 +5213,7 @@
 				{
 					"word": "matrix",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=matrix&type=2"
+						"/audios/matrix.mp3"
 					],
 					"phonetics": [
 						"[ˈmeɪtrɪks]"
@@ -5309,7 +5223,7 @@
 				{
 					"word": "multiplication",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=multiplication&type=2"
+						"/audios/multiplication.mp3"
 					],
 					"phonetics": [
 						"[ˌmʌltɪplɪˈkeɪʃn]",
@@ -5320,7 +5234,7 @@
 				{
 					"word": "n-ary",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=n-ary&type=2"
+						"/audios/n-ary.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5330,7 +5244,7 @@
 				{
 					"word": "numerator",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=numerator&type=2"
+						"/audios/numerator.mp3"
 					],
 					"phonetics": [
 						"[ˈnuːməreɪtər]",
@@ -5341,7 +5255,7 @@
 				{
 					"word": "optimal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=optimal&type=2"
+						"/audios/optimal.mp3"
 					],
 					"phonetics": [
 						"[ˈɑːptɪməl]",
@@ -5352,7 +5266,7 @@
 				{
 					"word": "outward",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=outward&type=2"
+						"/audios/outward.mp3"
 					],
 					"phonetics": [
 						"[ˈaʊtwərd]",
@@ -5363,7 +5277,7 @@
 				{
 					"word": "palindrome",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=palindrome&type=2"
+						"/audios/palindrome.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -5373,7 +5287,7 @@
 				{
 					"word": "peak",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=peak&type=2"
+						"/audios/peak.mp3"
 					],
 					"phonetics": [
 						"[piːk]"
@@ -5383,7 +5297,7 @@
 				{
 					"word": "permutation",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=permutation&type=2"
+						"/audios/permutation.mp3"
 					],
 					"phonetics": [
 						"[ˌpɜːrmjuˈteɪʃ(ə)n]",
@@ -5394,7 +5308,7 @@
 				{
 					"word": "pivot",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pivot&type=2"
+						"/audios/pivot.mp3"
 					],
 					"phonetics": [
 						"[ˈpɪvət]"
@@ -5404,7 +5318,7 @@
 				{
 					"word": "product",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=product&type=2"
+						"/audios/product.mp3"
 					],
 					"phonetics": [
 						"[ˈprɑːdʌkt]",
@@ -5415,7 +5329,7 @@
 				{
 					"word": "pseudocode",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=pseudocode&type=2"
+						"/audios/pseudocode.mp3"
 					],
 					"phonetics": [
 						"[ˈsju:doˌkod]",
@@ -5426,7 +5340,7 @@
 				{
 					"word": "quadratic",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=quadratic&type=2"
+						"/audios/quadratic.mp3"
 					],
 					"phonetics": [
 						"[kwɑːˈdrætɪk]",
@@ -5437,7 +5351,7 @@
 				{
 					"word": "quotient",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=quotient&type=2"
+						"/audios/quotient.mp3"
 					],
 					"phonetics": [
 						"[ˈkwoʊʃ(ə)nt]",
@@ -5448,7 +5362,7 @@
 				{
 					"word": "recursion",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=recursion&type=2"
+						"/audios/recursion.mp3"
 					],
 					"phonetics": [
 						"[rɪˈkɜːrʒn]",
@@ -5459,7 +5373,7 @@
 				{
 					"word": "remainder",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=remainder&type=2"
+						"/audios/remainder.mp3"
 					],
 					"phonetics": [
 						"[rɪˈmeɪndər]",
@@ -5470,7 +5384,7 @@
 				{
 					"word": "represent",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=represent&type=2"
+						"/audios/represent.mp3"
 					],
 					"phonetics": [
 						"[ˌreprɪˈzent]"
@@ -5480,7 +5394,7 @@
 				{
 					"word": "rounds",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=rounds&type=2"
+						"/audios/rounds.mp3"
 					],
 					"phonetics": [
 						"[raʊndz]"
@@ -5490,7 +5404,7 @@
 				{
 					"word": "squared",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=squared&type=2"
+						"/audios/squared.mp3"
 					],
 					"phonetics": [
 						"[skwerd]",
@@ -5501,7 +5415,7 @@
 				{
 					"word": "subtraction",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=subtraction&type=2"
+						"/audios/subtraction.mp3"
 					],
 					"phonetics": [
 						"[səbˈtrækʃ(ə)n]"
@@ -5511,7 +5425,7 @@
 				{
 					"word": "sum",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=sum&type=2"
+						"/audios/sum.mp3"
 					],
 					"phonetics": [
 						"[sʌm; səm]",
@@ -5522,7 +5436,7 @@
 				{
 					"word": "traversal",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=traversal&type=2"
+						"/audios/traversal.mp3"
 					],
 					"phonetics": [
 						"[trəˈvərs(ə)l]"
@@ -5532,7 +5446,7 @@
 				{
 					"word": "traverse",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=traverse&type=2"
+						"/audios/traverse.mp3"
 					],
 					"phonetics": [
 						"[trəˈvɜːrs]",
@@ -5543,7 +5457,7 @@
 				{
 					"word": "valley",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=valley&type=2"
+						"/audios/valley.mp3"
 					],
 					"phonetics": [
 						"[ˈvæli]"
@@ -5558,7 +5472,7 @@
 				{
 					"word": "present",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=present&type=2"
+						"/audios/present.mp3"
 					],
 					"phonetics": [
 						"[ˈprez(ə)nt]"
@@ -5568,7 +5482,7 @@
 				{
 					"word": "represented",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=represented&type=2"
+						"/audios/represented.mp3"
 					],
 					"phonetics": [
 						"[ˌreprɪˈzentɪd]"
@@ -5578,7 +5492,7 @@
 				{
 					"word": "wrapping",
 					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=wrapping&type=2"
+						"/audios/wrapping.mp3"
 					],
 					"phonetics": [
 						"[ˈræpɪŋ]"
