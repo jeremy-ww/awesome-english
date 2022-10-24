@@ -8,7 +8,6 @@ import Case from 'case'
 import AudioPlayer from 'react-h5-audio-player'
 import 'react-h5-audio-player/lib/styles.css'
 import breakpoints from '../styles/breakpoints'
-import { Drawer } from '@mui/material'
 import { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
@@ -177,6 +176,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                   customVolumeControls={[]}
                   customAdditionalControls={[]}
                   showJumpControls={false}
+                  crossOrigin="anonymous"
+                  preload="metadata"
                   key={v}
                   src={v}
                 />
