@@ -176,7 +176,6 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                   customVolumeControls={[]}
                   customAdditionalControls={[]}
                   showJumpControls={false}
-                  crossOrigin="anonymous"
                   preload="metadata"
                   key={v}
                   src={v}
