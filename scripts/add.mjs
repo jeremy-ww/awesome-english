@@ -4,8 +4,21 @@ import prettier from 'prettier'
 import database from '../libs/database.json' assert { type: 'json' }
 import addContent from './add.json' assert { type: 'json' }
 import _ from 'lodash'
+import https from 'https'
 
-const glossary = _.keyBy(database.glossary, 'type')
+function download(type, word) {
+  return new Promise((resolve, reject) => {
+    https.get(`https://dict.youdao.com/dictvoice?audio=${word}&type=2`, (res) => {
+      const path = `./public/audios/${word}.mp3`
+      const filePath = fs.createWriteStream(path)
+      res.pipe(filePath)
+      filePath.on('finish', () => {
+        filePath.close()
+        resolve()
+      })
+    })
+  })
+}
 
 async function get(type, word) {
   if (!(type in glossary)) {
@@ -15,12 +28,10 @@ async function get(type, word) {
     }
     database.glossary.push(glossary[type])
   }
-
   const existedWord = glossary[type].content.find((v) => v.word === word)
   if (existedWord) {
     return
   }
-
   try {
     const data = await axios
       .get(
@@ -40,11 +51,8 @@ async function get(type, word) {
         item.phonetics.push(ukPhonetics)
       }
       glossary[type].content.unshift(item)
-
       glossary[type].content = _.uniqBy(glossary[type].content, 'word')
-
       glossary[type].content.sort((a, b) => a.word.localeCompare(b.word))
-
       console.log('Finished adding:', word)
     } catch (e) {
       console.log(e)

@@ -171,14 +171,14 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           >
             <div>{v.word}</div>
             <div>
-              {v.origin?.map((v) => (
+              {v.origin?.map(() => (
                 <AudioPlayer
                   customVolumeControls={[]}
                   customAdditionalControls={[]}
                   showJumpControls={false}
                   preload="metadata"
-                  key={v}
-                  src={v}
+                  key={v.word}
+                  src={`/audios/${v.word}.mp3`}
                 />
               ))}
             </div>
