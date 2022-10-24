@@ -19,15 +19,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
       <Head>
         <title>{`${Case.capital(category.type)} - ${process.env.APP_NAME}`}</title>
         <meta name="description" content={metadata.description} />
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="@JeremyWuReal" />
         <meta property="og:url" content={metadata.url} />
-        <meta property="og:title" content={process.env.APP_NAME} />
         <meta property="og:description" content={metadata.description} />
-        <meta property="og:image" content="https://awesome-english.vercel.app/og-image.jpeg" />
       </Head>
 
       <Drawer

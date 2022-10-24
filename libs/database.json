@@ -923,17 +923,6 @@
 					"reference": ""
 				},
 				{
-					"word": "progress",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=progress&type=2"
-					],
-					"phonetics": [
-						"[ˈprɑːɡres]",
-						"[ˈprəʊɡres]"
-					],
-					"reference": ""
-				},
-				{
 					"word": "project",
 					"origin": [
 						"https://dict.youdao.com/dictvoice?audio=project&type=2"
@@ -1895,17 +1884,6 @@
 					],
 					"phonetics": [
 						"[kəˈlæps]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "colon",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=colon&type=2"
-					],
-					"phonetics": [
-						"[ˈkoʊlən]",
-						"[ˈkəʊlən; ˈkəʊlɒn]"
 					],
 					"reference": ""
 				},
@@ -4111,16 +4089,6 @@
 					"phonetics": [
 						"[ˈvjuːpɔːrt]",
 						"[ˈvjuːpɔːt]"
-					],
-					"reference": ""
-				},
-				{
-					"word": "vulnerability",
-					"origin": [
-						"https://dict.youdao.com/dictvoice?audio=vulnerability&type=2"
-					],
-					"phonetics": [
-						"[ˌvʌlnərəˈbɪləti]"
 					],
 					"reference": ""
 				},

@@ -41,6 +41,8 @@ async function get(type, word) {
       }
       glossary[type].content.unshift(item)
 
+      glossary[type].content = _.uniqBy(glossary[type].content, 'word')
+
       glossary[type].content.sort((a, b) => a.word.localeCompare(b.word))
 
       console.log('Finished adding:', word)
