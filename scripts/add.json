@@ -20,7 +20,10 @@
         "applicable",
         "aspects",
         "accurate",
-        ""
+        "billion",
+        "brief",
+        "behavioral",
+        "convince"
       ]
     },
     {
@@ -57,7 +60,16 @@
         "alias",
         "app",
         "archive",
-        "array"
+        "array",
+        "avatar",
+        "algorithm",
+        "beacon",
+        "backward",
+        "badge",
+        "breadcrumb",
+        "babel",
+        "bind",
+        "bug"
       ]
     },
     {
@@ -71,7 +83,12 @@
         "AJAX",
         "Android",
         "Apache",
-        "ASCII"
+        "ASCII",
+        "ASUS",
+        "Azure",
+        "Bootstrap",
+        "Browserify",
+        "BIOS"
       ]
     }
   ]
