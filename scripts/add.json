@@ -35,7 +35,18 @@
         "capability",
         "collaborative",
         "comprehensive",
-        "complement"
+        "complement",
+        "demonstrate",
+        "disability",
+        "due",
+        "determined",
+        "demand",
+        "dual",
+        "debt",
+        "deprioritize",
+        "denote",
+        "doc",
+        "explanation"
       ]
     },
     {
@@ -104,7 +115,23 @@
         "constant",
         "complex",
         "colon",
-        "cache"
+        "cache",
+        "char",
+        "console",
+        "ctrl",
+        "deletion",
+        "decouple",
+        "declarative",
+        "deferred",
+        "delegation",
+        "drawer",
+        "declare",
+        "overhead",
+        "delimiter",
+        "declaration",
+        "div",
+        "definition",
+        "expiry"
       ]
     },
     {
@@ -127,7 +154,11 @@
         "Chrome",
         "chalk",
         "C#",
-        "CentOS"
+        "CentOS",
+        "cURL",
+        "Daemon",
+        "Debian",
+        "DevOps"
       ]
     },
     {
