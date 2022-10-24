@@ -93,8 +93,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           <section
             className={css`
               display: flex;
-              padding: 10px 0;
-              margin-bottom: 10px;
+              padding: 13px 0;
               align-items: center;
               border-bottom: 1px solid #f5f5f5;
               color: var(--text-primary);
