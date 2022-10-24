@@ -62,7 +62,10 @@
         "glossary",
         "gorgeous",
         "hesitate",
-        "historically"
+        "historically",
+        "hassle",
+        "invitation",
+        "instrument"
       ]
     },
     {
@@ -176,7 +179,21 @@
         "handled",
         "hover",
         "hyper",
-        "hash"
+        "hash",
+        "horizontal",
+        "hierarchy",
+        "hyphen",
+        "hidden",
+        "href",
+        "infinite",
+        "instance",
+        "illustrate",
+        "imperative",
+        "index",
+        "inheritance",
+        "initiated",
+        "initialize",
+        "intuition"
       ]
     },
     {
@@ -218,12 +235,13 @@
         "Google",
         "GUI",
         "StackBlitz",
-        ""
+        "Hadoop",
+        "IIFE"
       ]
     },
     {
       "type": "algorithm",
-      "content": ["cubic", "complexity"]
+      "content": ["cubic", "complexity", "inward"]
     }
   ]
 }
