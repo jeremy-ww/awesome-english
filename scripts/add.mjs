@@ -28,8 +28,8 @@ async function get(type, word) {
       )
       .then((response) => response.data)
     try {
-      const usPhonetics = `[${data.ec.word.usphone}]`
-      const ukPhonetics = `[${data.ec.word.ukphone}]`
+      const usPhonetics = `[${data.ec?.word?.usphone ?? 'TBD'}]`
+      const ukPhonetics = `[${data.ec?.word?.ukphone ?? 'TBD'}]`
       const item = {
         word,
         origin: [`https://dict.youdao.com/dictvoice?audio=${word}&type=2`],
@@ -40,6 +40,9 @@ async function get(type, word) {
         item.phonetics.push(ukPhonetics)
       }
       glossary[type].content.unshift(item)
+
+      glossary[type].content.sort((a, b) => a.word.localeCompare(b.word))
+
       console.log('Finished adding:', word)
     } catch (e) {
       console.log(e)
@@ -59,8 +62,6 @@ addContent?.glossary?.forEach((category) => {
 })
 
 Promise.all(promises).then(() => {
-  console.log(database.glossary)
-
   fs.writeFileSync(
     './libs/database.json',
     prettier.format(JSON.stringify(database), {
