@@ -8,7 +8,7 @@ import _ from 'lodash'
 const glossary = _.keyBy(database.glossary, 'type')
 
 async function get(type, word) {
-  if (!type in glossary) {
+  if (!(type in glossary)) {
     glossary[type] = {
       type,
       content: [],
@@ -59,4 +59,13 @@ addContent?.glossary?.forEach((category) => {
 
 Promise.all(promises).then(() => {
   console.log(database.glossary[0].content)
+
+  fs.writeFileSync(
+    './libs/database.json',
+    prettier.format(JSON.stringify(database), {
+      useTabs: true,
+      parser: 'json',
+      printWidth: 30,
+    }),
+  )
 })

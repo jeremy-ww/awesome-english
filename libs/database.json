@@ -1,25 +1,505 @@
 {
-  "glossary": [
-    {
-      "type": "general",
-      "content": []
-    },
-    {
-      "type": "email",
-      "content": []
-    },
-    {
-      "type": "diploma",
-      "content": []
-    },
-    {
-      "type": "algorithm",
-      "content": []
-    },
-    {
-      "type": "tools",
-      "content": []
-    }
-  ],
-  "expression": []
+	"glossary": [
+		{
+			"type": "general",
+			"content": [
+				{
+					"word": "action",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=action&type=2"
+					],
+					"phonetics": [
+						"[ˈækʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "due",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=due&type=2"
+					],
+					"phonetics": [
+						"[duː]",
+						"[djuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "capacity",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=capacity&type=2"
+					],
+					"phonetics": [
+						"[kəˈpæsəti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "demand",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=demand&type=2"
+					],
+					"phonetics": [
+						"[dɪˈmænd]",
+						"[dɪˈmɑːnd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adjust",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=adjust&type=2"
+					],
+					"phonetics": [
+						"[əˈdʒʌst]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adopt",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=adopt&type=2"
+					],
+					"phonetics": [
+						"[əˈdɑːpt]",
+						"[əˈdɒpt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "demonstrate",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"
+					],
+					"phonetics": [
+						"[ˈdemənstreɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "college",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=college&type=2"
+					],
+					"phonetics": [
+						"[ˈkɑːlɪdʒ]",
+						"[ˈkɒlɪdʒ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "annual",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=annual&type=2"
+					],
+					"phonetics": [
+						"[ˈænjuəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "approval",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=approval&type=2"
+					],
+					"phonetics": [
+						"[əˈpruːv(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "billion",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=billion&type=2"
+					],
+					"phonetics": [
+						"[ˈbɪljən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "explanation",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=explanation&type=2"
+					],
+					"phonetics": [
+						"[ˌekspləˈneɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "complement",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=complement&type=2"
+					],
+					"phonetics": [
+						"[ˈkɑːmplɪment]",
+						"[ˈkɒmplɪment]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "agency",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=agency&type=2"
+					],
+					"phonetics": [
+						"[ˈeɪdʒənsi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "alternative",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=alternative&type=2"
+					],
+					"phonetics": [
+						"[ɔːlˈtɜːrnətɪv]",
+						"[ɔːlˈtɜːnətɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "brief",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=brief&type=2"
+					],
+					"phonetics": [
+						"[briːf]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "capability",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=capability&type=2"
+					],
+					"phonetics": [
+						"[ˌkeɪpəˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "debt",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=debt&type=2"
+					],
+					"phonetics": [
+						"[det]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "comprehensive",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=comprehensive&type=2"
+					],
+					"phonetics": [
+						"[ˌkɑːmprɪˈhensɪv]",
+						"[ˌkɒmprɪˈhensɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adapt",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=adapt&type=2"
+					],
+					"phonetics": [
+						"[əˈdæpt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "disability",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=disability&type=2"
+					],
+					"phonetics": [
+						"[ˌdɪsəˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "determined",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=determined&type=2"
+					],
+					"phonetics": [
+						"[dɪˈtɜːrmɪnd]",
+						"[dɪˈtɜːmɪnd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "concept",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=concept&type=2"
+					],
+					"phonetics": [
+						"[ˈkɑːnsept]",
+						"[ˈkɒnsept]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "currency",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=currency&type=2"
+					],
+					"phonetics": [
+						"[ˈkɜːrənsi]",
+						"[ˈkʌrənsi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "compliance",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=compliance&type=2"
+					],
+					"phonetics": [
+						"[kəmˈplaɪəns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "accurate",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=accurate&type=2"
+					],
+					"phonetics": [
+						"[ˈækjərət]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "convince",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=convince&type=2"
+					],
+					"phonetics": [
+						"[kənˈvɪns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "collaborative",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=collaborative&type=2"
+					],
+					"phonetics": [
+						"[kəˈlæbəreɪtɪv]",
+						"[kəˈlæbərətɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "dual",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=dual&type=2"
+					],
+					"phonetics": [
+						"[ˈduːəl]",
+						"[ˈdjuːəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "denote",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=denote&type=2"
+					],
+					"phonetics": [
+						"[dɪˈnoʊt]",
+						"[dɪˈnəʊt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "applicable",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=applicable&type=2"
+					],
+					"phonetics": [
+						"[ˈæplɪkəb(ə)l]",
+						"[əˈplɪkəb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "deprioritize",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=deprioritize&type=2"
+					],
+					"phonetics": [
+						"[undefined]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "criteria",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=criteria&type=2"
+					],
+					"phonetics": [
+						"[kraɪˈtɪriə]",
+						"[kraɪˈtɪəriə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "aspects",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=aspects&type=2"
+					],
+					"phonetics": [
+						"[ˈæspekts]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "colleague",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=colleague&type=2"
+					],
+					"phonetics": [
+						"[ˈkɑːliːɡ]",
+						"[ˈkɒliːɡ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "availability",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=availability&type=2"
+					],
+					"phonetics": [
+						"[əˌveɪləˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "apologize",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=apologize&type=2"
+					],
+					"phonetics": [
+						"[əˈpɑːlədʒaɪz]",
+						"[əˈpɒlədʒaɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "doc",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=doc&type=2"
+					],
+					"phonetics": [
+						"[dɑːk]",
+						"[dɒk]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "attentive",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=attentive&type=2"
+					],
+					"phonetics": [
+						"[əˈtentɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adaptable",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=adaptable&type=2"
+					],
+					"phonetics": [
+						"[əˈdæptəb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "accepts",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=accepts&type=2"
+					],
+					"phonetics": [
+						"[əkˈsepts]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "behavioral",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=behavioral&type=2"
+					],
+					"phonetics": [
+						"[bɪˈheɪvjərəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "attribution",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=attribution&type=2"
+					],
+					"phonetics": [
+						"[ˌætrɪˈbjuːʃn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "certificate",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=certificate&type=2"
+					],
+					"phonetics": [
+						"[undefined]"
+					],
+					"reference": ""
+				}
+			]
+		},
+		{
+			"type": "email",
+			"content": []
+		},
+		{
+			"type": "diploma",
+			"content": []
+		},
+		{
+			"type": "algorithm",
+			"content": [
+				{
+					"word": "cubic",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=cubic&type=2"
+					],
+					"phonetics": [
+						"[undefined]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "complexity",
+					"origin": [
+						"https://dict.youdao.com/dictvoice?audio=complexity&type=2"
+					],
+					"phonetics": [
+						"[kəmˈpleksəti]"
+					],
+					"reference": ""
+				}
+			]
+		},
+		{
+			"type": "tools",
+			"content": []
+		}
+	],
+	"expression": []
 }

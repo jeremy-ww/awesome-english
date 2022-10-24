@@ -46,7 +46,15 @@
         "deprioritize",
         "denote",
         "doc",
-        "explanation"
+        "explanation",
+        "emoji",
+        "exist",
+        "encounter",
+        "emphasize",
+        "etc",
+        "ethics",
+        "evolved",
+        "eureka"
       ]
     },
     {
@@ -131,7 +139,17 @@
         "declaration",
         "div",
         "definition",
-        "expiry"
+        "expiry",
+        "exact",
+        "enumerable",
+        "emit",
+        "embed",
+        "explicit",
+        "exclamation",
+        "implicit",
+        "eval",
+        "event",
+        "flaky"
       ]
     },
     {
@@ -158,7 +176,10 @@
         "cURL",
         "Daemon",
         "Debian",
-        "DevOps"
+        "DevOps",
+        "Elon Musk",
+        "Enums",
+        "ECMAScript"
       ]
     },
     {
