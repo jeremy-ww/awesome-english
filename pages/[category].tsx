@@ -11,6 +11,7 @@ import breakpoints from '../styles/breakpoints'
 import { Drawer } from '@mui/material'
 import { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
+import { SwipeableDrawer } from '@mui/material'
 
 export default function Content({ menu, category }: { menu: Menu; category: Category }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
@@ -23,7 +24,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
         <meta property="og:description" content={metadata.description} />
       </Head>
 
-      <Drawer
+      <SwipeableDrawer
+        onOpen={() => setIsDrawerOpen(true)}
         onClose={() => {
           setIsDrawerOpen(false)
         }}
@@ -43,7 +45,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           `}
           menu={menu}
         />
-      </Drawer>
+      </SwipeableDrawer>
 
       <Navbar
         className={css`
@@ -144,12 +146,21 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 }
               }
 
+              @media (max-width: calc(${breakpoints.xl} + 100px)) {
+                .rhap_container {
+                  width: 80%;
+                }
+              }
+
+              @media (max-width: ${breakpoints.lg}) {
+                .rhap_container {
+                  width: 90%;
+                }
+              }
+
               @media (max-width: ${breakpoints.md}) {
                 .rhap_progress-section {
                   display: none;
-                }
-                .rhap_container {
-                  width: 100%;
                 }
 
                 > div:nth-child(2) {
@@ -173,6 +184,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
             </div>
             <div
               className={css`
+                flex-wrap: wrap;
+
                 span {
                   margin: 0 3px;
                 }
