@@ -176,7 +176,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                   customVolumeControls={[]}
                   customAdditionalControls={[]}
                   showJumpControls={false}
-                  preload="metadata"
+                  preload="none"
                   key={v.word}
                   src={`/audios/${v.word}.mp3`}
                 />
