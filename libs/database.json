@@ -139,7 +139,9 @@
 				},
 				{
 					"word": "aspects",
-					"origin": [],
+					"origin": [
+						"/audios/aspects.mp3"
+					],
 					"phonetics": [
 						"[ˈæspekts]"
 					],
@@ -248,7 +250,9 @@
 				},
 				{
 					"word": "colleague",
-					"origin": [],
+					"origin": [
+						"/audios/colleague.mp3"
+					],
 					"phonetics": [
 						"[ˈkɑːliːɡ]",
 						"[ˈkɒliːɡ]"
@@ -407,7 +411,9 @@
 				},
 				{
 					"word": "deprioritize",
-					"origin": [],
+					"origin": [
+						"/audios/deprioritize.mp3"
+					],
 					"phonetics": [
 						"[TBD]"
 					],
@@ -436,7 +442,9 @@
 				},
 				{
 					"word": "doc",
-					"origin": [],
+					"origin": [
+						"/audios/doc.mp3"
+					],
 					"phonetics": [
 						"[dɑːk]",
 						"[dɒk]"
@@ -499,7 +507,9 @@
 				},
 				{
 					"word": "etc",
-					"origin": [],
+					"origin": [
+						"/audios/etc.mp3"
+					],
 					"phonetics": [
 						"[ˌet ˈsetərə; ˌɪt ˈsetərə]"
 					],
@@ -831,7 +841,9 @@
 				},
 				{
 					"word": "practices",
-					"origin": [],
+					"origin": [
+						"/audios/practices.mp3"
+					],
 					"phonetics": [
 						"[ˈpræktɪsɪz]"
 					],
@@ -1317,7 +1329,8 @@
 						"/audios/walkthrough.mp3"
 					],
 					"phonetics": [
-						"[TBD]"
+						"[ˈwɔːkˌθrʊ]",
+						"[ˈwɔːkˌθruː]"
 					],
 					"reference": ""
 				},
@@ -1334,7 +1347,9 @@
 				},
 				{
 					"word": "willingness",
-					"origin": [],
+					"origin": [
+						"/audios/willingness.mp3"
+					],
 					"phonetics": [
 						"[ˈwɪlɪŋnəs]"
 					],
@@ -1476,6 +1491,16 @@
 					],
 					"phonetics": [
 						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "allocate",
+					"origin": [
+						"/audios/allocate.mp3"
+					],
+					"phonetics": [
+						"[ˈæləkeɪt]"
 					],
 					"reference": ""
 				},
@@ -2022,6 +2047,16 @@
 					"reference": ""
 				},
 				{
+					"word": "consistency",
+					"origin": [
+						"/audios/consistency.mp3"
+					],
+					"phonetics": [
+						"[kənˈsɪstənsi]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "console",
 					"origin": [
 						"/audios/console.mp3"
@@ -2108,7 +2143,9 @@
 				},
 				{
 					"word": "declarative",
-					"origin": [],
+					"origin": [
+						"/audios/declarative.mp3"
+					],
 					"phonetics": [
 						"[dɪˈklærətɪv]"
 					],
@@ -2212,7 +2249,9 @@
 				},
 				{
 					"word": "ellipses",
-					"origin": [],
+					"origin": [
+						"/audios/ellipses.mp3"
+					],
 					"phonetics": [
 						"[ɪˈlɪpsiz]",
 						"[ɪˈlɪpsɪz]"
@@ -2247,6 +2286,16 @@
 					"phonetics": [
 						"[ɪˈnjumərəbəl]",
 						"[ɪˈnjuːm(ə)rəb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "eval",
+					"origin": [
+						"/audios/eval.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
 					],
 					"reference": ""
 				},
@@ -2320,6 +2369,17 @@
 					"phonetics": [
 						"[ˈfeɪvɪkɑːn]",
 						"[ˈfævɪkɒn; ˈfeɪvɪkɒn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "figure",
+					"origin": [
+						"/audios/figure.mp3"
+					],
+					"phonetics": [
+						"[ˈfɪɡjər]",
+						"[ˈfɪɡə(r)]"
 					],
 					"reference": ""
 				},
@@ -3042,6 +3102,16 @@
 					"reference": ""
 				},
 				{
+					"word": "multiple",
+					"origin": [
+						"/audios/multiple.mp3"
+					],
+					"phonetics": [
+						"[ˈmʌltɪp(ə)l]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "multiplexing",
 					"origin": [
 						"/audios/multiplexing.mp3"
@@ -3232,7 +3302,9 @@
 				},
 				{
 					"word": "pagination",
-					"origin": [],
+					"origin": [
+						"/audios/pagination.mp3"
+					],
 					"phonetics": [
 						"[ˌpædʒɪˈneɪʃ(ə)n]"
 					],
@@ -3615,7 +3687,9 @@
 				},
 				{
 					"word": "semicolon",
-					"origin": [],
+					"origin": [
+						"/audios/semicolon.mp3"
+					],
 					"phonetics": [
 						"[ˈsemikoʊlən]",
 						"[ˌsemiˈkəʊlən; ˌsemiˈkəʊlɒn]"
@@ -4087,7 +4161,7 @@
 				{
 					"word": ".net",
 					"origin": [
-						"/audios/.net.mp3"
+						"/audios/dot-net.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4190,6 +4264,16 @@
 					"word": "ASUS",
 					"origin": [
 						"/audios/ASUS.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Axios",
+					"origin": [
+						"/audios/Axios.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4488,7 +4572,7 @@
 				{
 					"word": "Immutable.js",
 					"origin": [
-						"/audios/Immutable.js.mp3"
+						"/audios/Immutabledot-js.mp3"
 					],
 					"phonetics": [
 						"[TBD]"
@@ -4916,7 +5000,9 @@
 				},
 				{
 					"word": "SQL",
-					"origin": [],
+					"origin": [
+						"/audios/SQL.mp3"
+					],
 					"phonetics": [
 						"[TBD]"
 					],

@@ -50,7 +50,7 @@ async function get(type, word) {
       const isSuccess = await download(word)
       const item = {
         word,
-        origin: isSuccess ? [`/audios/${word}.mp3`] : [],
+        origin: isSuccess ? [`/audios/${word.replace('.', 'dot-')}.mp3`] : [],
         phonetics: [usPhonetics],
         reference: '',
       }
