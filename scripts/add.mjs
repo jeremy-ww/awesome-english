@@ -12,7 +12,7 @@ function download(word) {
   return new Promise((resolve) => {
     https
       .get(`https://dict.youdao.com/dictvoice?audio=${word}&type=2`, (res) => {
-        const path = `./public/audios/${word}.mp3`
+        const path = `./public/audios/${word.replace('.', 'dot-')}.mp3`
         const filePath = fs.createWriteStream(path)
         res.pipe(filePath)
         filePath.on('finish', () => {
