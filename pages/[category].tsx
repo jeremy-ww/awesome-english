@@ -180,6 +180,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
             <div>{v.word}</div>
             <div>
               {v.origin?.map((origin) => (
+                // eslint-disable-next-line jsx-a11y/media-has-caption
                 <audio controls controlsList="nodownload" key={v.word} src={origin}></audio>
               ))}
               {/* {v.origin?.map((origin) => (
