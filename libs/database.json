@@ -5602,6 +5602,36 @@
 					"reference": ""
 				},
 				{
+					"word": "agency",
+					"origin": [
+						"/audios/agency.mp3"
+					],
+					"phonetics": [
+						"[ˈeɪdʒənsi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "annual",
+					"origin": [
+						"/audios/annual.mp3"
+					],
+					"phonetics": [
+						"[ˈænjuəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "behavioral",
+					"origin": [
+						"/audios/behavioral.mp3"
+					],
+					"phonetics": [
+						"[bɪˈheɪvjərəl]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "certificate",
 					"origin": [
 						"/audios/certificate.mp3"
@@ -5618,6 +5648,38 @@
 					],
 					"phonetics": [
 						"[kəˌlæbəˈreɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "colleague",
+					"origin": [
+						"/audios/colleague.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːliːɡ]",
+						"[ˈkɒliːɡ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "college",
+					"origin": [
+						"/audios/college.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːlɪdʒ]",
+						"[ˈkɒlɪdʒ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "compliance",
+					"origin": [
+						"/audios/compliance.mp3"
+					],
+					"phonetics": [
+						"[kəmˈplaɪəns]"
 					],
 					"reference": ""
 				},
@@ -5747,6 +5809,16 @@
 					"reference": ""
 				},
 				{
+					"word": "ethics",
+					"origin": [
+						"/audios/ethics.mp3"
+					],
+					"phonetics": [
+						"[ˈeθɪks]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "expire",
 					"origin": [
 						"/audios/expire.mp3"
@@ -5765,6 +5837,16 @@
 					"phonetics": [
 						"[ˈfɔːrmər]",
 						"[ˈfɔːmə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "grads",
+					"origin": [
+						"/audios/grads.mp3"
+					],
+					"phonetics": [
+						"[ɡrædz]"
 					],
 					"reference": ""
 				},
@@ -5790,6 +5872,17 @@
 					"reference": ""
 				},
 				{
+					"word": "permanent",
+					"origin": [
+						"/audios/permanent.mp3"
+					],
+					"phonetics": [
+						"[ˈpɜːrmənənt]",
+						"[ˈpɜːmənənt]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "preparation",
 					"origin": [
 						"/audios/preparation.mp3"
@@ -5811,6 +5904,17 @@
 					"reference": ""
 				},
 				{
+					"word": "pursue",
+					"origin": [
+						"/audios/pursue.mp3"
+					],
+					"phonetics": [
+						"[pərˈsuː]",
+						"[pəˈsjuː]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "referral",
 					"origin": [
 						"/audios/referral.mp3"
@@ -5828,6 +5932,16 @@
 					"phonetics": [
 						"[TBD]",
 						"[rɪˈfɜːrə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "regret",
+					"origin": [
+						"/audios/regret.mp3"
+					],
+					"phonetics": [
+						"[rɪˈɡret]"
 					],
 					"reference": ""
 				},
@@ -5873,6 +5987,17 @@
 					"reference": ""
 				},
 				{
+					"word": "sincere",
+					"origin": [
+						"/audios/sincere.mp3"
+					],
+					"phonetics": [
+						"[sɪnˈsɪr]",
+						"[sɪnˈsɪə(r)]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "stakeholders",
 					"origin": [
 						"/audios/stakeholders.mp3"
@@ -5899,6 +6024,17 @@
 					],
 					"phonetics": [
 						"[θraɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "yearly",
+					"origin": [
+						"/audios/yearly.mp3"
+					],
+					"phonetics": [
+						"[ˈjɪrli]",
+						"[ˈjɪəli]"
 					],
 					"reference": ""
 				}
