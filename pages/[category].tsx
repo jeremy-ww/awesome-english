@@ -171,7 +171,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
           >
             <div>{v.word}</div>
             <div>
-              {v.origin?.map((origin) => (
+              {/* {v.origin?.map((origin) => (
                 <AudioPlayer
                   customVolumeControls={[]}
                   customAdditionalControls={[]}
@@ -180,7 +180,7 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                   key={v.word}
                   src={origin}
                 />
-              ))}
+              ))} */}
             </div>
             <div
               className={css`
