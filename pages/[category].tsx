@@ -5,8 +5,6 @@ import type { Category, Menu } from '../types'
 import { getContentById, menu, paths } from '../libs/api'
 import metadata from '../libs/metadata'
 import Case from 'case'
-// import AudioPlayer from 'react-h5-audio-player'
-// import 'react-h5-audio-player/lib/styles.css'
 import breakpoints from '../styles/breakpoints'
 import { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
@@ -114,66 +112,6 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
               audio::-internal-media-controls-overflow-button {
                 display: none !important;
               }
-
-              /* .rhap_container {
-                padding: 0;
-                box-shadow: none;
-                width: 60%;
-                background-color: transparent;
-
-                .rhap_main {
-                  flex-direction: row-reverse;
-                }
-
-                .rhap_controls-section {
-                  margin: 0;
-                }
-
-                .rhap_progress-indicator {
-                  width: 15px;
-                  height: 15px;
-                  top: -6px;
-                }
-
-                .rhap_progress-bar {
-                  height: 4px;
-                }
-
-                .rhap_time {
-                  color: var(--audio-bg-color);
-                }
-
-                .rhap_progress-indicator,
-                .rhap_progress-filled {
-                  background-color: var(--audio-bg-color);
-                }
-
-                path {
-                  fill: var(--audio-bg-color);
-                }
-              }
-
-              @media (max-width: calc(${breakpoints.xl} + 100px)) {
-                .rhap_container {
-                  width: 80%;
-                }
-              }
-
-              @media (max-width: ${breakpoints.lg}) {
-                .rhap_container {
-                  width: 90%;
-                }
-              }
-
-              @media (max-width: ${breakpoints.md}) {
-                .rhap_progress-section {
-                  display: none;
-                }
-
-                > div:nth-child(2) {
-                  flex: 1;
-                }
-              } */
             `}
             key={v.word}
           >
@@ -181,18 +119,8 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
             <div>
               {v.origin?.map((origin) => (
                 // eslint-disable-next-line jsx-a11y/media-has-caption
-                <audio controls controlsList="nodownload" key={v.word} src={origin}></audio>
+                <audio preload="none" controls controlsList="nodownload" key={v.word} src={origin}></audio>
               ))}
-              {/* {v.origin?.map((origin) => (
-                <AudioPlayer
-                  customVolumeControls={[]}
-                  customAdditionalControls={[]}
-                  showJumpControls={false}
-                  preload="none"
-                  key={v.word}
-                  src={origin}
-                />
-              ))} */}
             </div>
             <div
               className={css`
