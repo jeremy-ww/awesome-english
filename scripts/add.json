@@ -3,6 +3,9 @@
     {
       "type": "general",
       "content": [
+        "tentative",
+        "procedures",
+        "experimental",
         "period",
         "waterfall",
         "willingness",
@@ -125,6 +128,7 @@
     {
       "type": "engineering",
       "content": [
+        "bundler",
         "pro",
         "con",
         "property",
@@ -490,7 +494,8 @@
         "Microsoft",
         "RegExp",
         "Realm",
-        "Redis"
+        "Redis",
+        "Ventura"
       ]
     },
     {

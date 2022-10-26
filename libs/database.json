@@ -557,6 +557,16 @@
 					"reference": ""
 				},
 				{
+					"word": "experimental",
+					"origin": [
+						"/audios/experimental.mp3"
+					],
+					"phonetics": [
+						"[ɪkˌsperɪˈment(ə)l]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "explanation",
 					"origin": [
 						"/audios/explanation.mp3"
@@ -901,6 +911,17 @@
 					"reference": ""
 				},
 				{
+					"word": "procedures",
+					"origin": [
+						"/audios/procedures.mp3"
+					],
+					"phonetics": [
+						"[prəˈsiːdʒərz]",
+						"[prəˈsiːdʒəz]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "profile",
 					"origin": [
 						"/audios/profile.mp3"
@@ -1191,6 +1212,16 @@
 					"phonetics": [
 						"[ˌtempəˈrerəli]",
 						"[ˈtemprərəli]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "tentative",
+					"origin": [
+						"/audios/tentative.mp3"
+					],
+					"phonetics": [
+						"[ˈtentətɪv]"
 					],
 					"reference": ""
 				},
@@ -1833,6 +1864,17 @@
 					],
 					"phonetics": [
 						"[bʌɡ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "bundler",
+					"origin": [
+						"/audios/bundler.mp3"
+					],
+					"phonetics": [
+						"[ˈbʌndlər]",
+						"[ˈbʌndlə(r)]"
 					],
 					"reference": ""
 				},
@@ -5057,6 +5099,16 @@
 					],
 					"phonetics": [
 						"[ʊˈbʊntuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Ventura",
+					"origin": [
+						"/audios/Ventura.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
 					],
 					"reference": ""
 				},
