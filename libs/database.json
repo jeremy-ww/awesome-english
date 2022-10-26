@@ -5586,6 +5586,323 @@
 					"reference": ""
 				}
 			]
+		},
+		{
+			"type": "employment",
+			"content": [
+				{
+					"word": "accommodation",
+					"origin": [
+						"/audios/accommodation.mp3"
+					],
+					"phonetics": [
+						"[əˌkɑːməˈdeɪʃ(ə)n]",
+						"[əˌkɒməˈdeɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "certificate",
+					"origin": [
+						"/audios/certificate.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "collaboration",
+					"origin": [
+						"/audios/collaboration.mp3"
+					],
+					"phonetics": [
+						"[kəˌlæbəˈreɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "contract",
+					"origin": [
+						"/audios/contract.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːntrækt]",
+						"[ˈkɒntrækt; kənˈtrækt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "digital",
+					"origin": [
+						"/audios/digital.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "diploma",
+					"origin": [
+						"/audios/diploma.mp3"
+					],
+					"phonetics": [
+						"[dɪˈploʊmə]",
+						"[dɪˈpləʊmə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "dormitory",
+					"origin": [
+						"/audios/dormitory.mp3"
+					],
+					"phonetics": [
+						"[ˈdɔːrmətɔːri]",
+						"[ˈdɔːmətri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "electrical",
+					"origin": [
+						"/audios/electrical.mp3"
+					],
+					"phonetics": [
+						"[ɪˈlektrɪkl]",
+						"[ɪˈlektrɪk(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "eligibility",
+					"origin": [
+						"/audios/eligibility.mp3"
+					],
+					"phonetics": [
+						"[ˌelɪdʒəˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "embassy",
+					"origin": [
+						"/audios/embassy.mp3"
+					],
+					"phonetics": [
+						"[ˈembəsi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "employee",
+					"origin": [
+						"/audios/employee.mp3"
+					],
+					"phonetics": [
+						"[ɪmˈplɔɪiː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "employment",
+					"origin": [
+						"/audios/employment.mp3"
+					],
+					"phonetics": [
+						"[ɪmˈplɔɪmənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "endorsement",
+					"origin": [
+						"/audios/endorsement.mp3"
+					],
+					"phonetics": [
+						"[ɪnˈdɔːrsmənt]",
+						"[ɪnˈdɔːsmənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "engage",
+					"origin": [
+						"/audios/engage.mp3"
+					],
+					"phonetics": [
+						"[ɪnˈɡeɪdʒ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "equity",
+					"origin": [
+						"/audios/equity.mp3"
+					],
+					"phonetics": [
+						"[ˈekwəti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "expire",
+					"origin": [
+						"/audios/expire.mp3"
+					],
+					"phonetics": [
+						"[ɪkˈspaɪər]",
+						"[ɪkˈspaɪə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "former",
+					"origin": [
+						"/audios/former.mp3"
+					],
+					"phonetics": [
+						"[ˈfɔːrmər]",
+						"[ˈfɔːmə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "materials",
+					"origin": [
+						"/audios/materials.mp3"
+					],
+					"phonetics": [
+						"[məˈtɪriəlz]",
+						"[məˈtɪəriəlz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "payday",
+					"origin": [
+						"/audios/payday.mp3"
+					],
+					"phonetics": [
+						"[ˈpeɪdeɪ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "preparation",
+					"origin": [
+						"/audios/preparation.mp3"
+					],
+					"phonetics": [
+						"[ˌprepəˈreɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "proactive",
+					"origin": [
+						"/audios/proactive.mp3"
+					],
+					"phonetics": [
+						"[ˌproʊˈæktɪv]",
+						"[ˌprəʊˈæktɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "referral",
+					"origin": [
+						"/audios/referral.mp3"
+					],
+					"phonetics": [
+						"[rɪˈfɜːrəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "referrer",
+					"origin": [
+						"/audios/referrer.mp3"
+					],
+					"phonetics": [
+						"[TBD]",
+						"[rɪˈfɜːrə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "rental",
+					"origin": [
+						"/audios/rental.mp3"
+					],
+					"phonetics": [
+						"[ˈrent(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "repetitive",
+					"origin": [
+						"/audios/repetitive.mp3"
+					],
+					"phonetics": [
+						"[rɪˈpetətɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "residence",
+					"origin": [
+						"/audios/residence.mp3"
+					],
+					"phonetics": [
+						"[ˈrezɪdəns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "resume",
+					"origin": [
+						"/audios/resume.mp3"
+					],
+					"phonetics": [
+						"[rɪˈzuːm]",
+						"[rɪˈzjuːm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "stakeholders",
+					"origin": [
+						"/audios/stakeholders.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "taxable",
+					"origin": [
+						"/audios/taxable.mp3"
+					],
+					"phonetics": [
+						"[ˈtæksəb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "thrive",
+					"origin": [
+						"/audios/thrive.mp3"
+					],
+					"phonetics": [
+						"[θraɪv]"
+					],
+					"reference": ""
+				}
+			]
 		}
 	],
 	"expression": []

@@ -554,6 +554,41 @@
     {
       "type": "presentation",
       "content": ["present", "represented", "wrapping"]
+    },
+    {
+      "type": "employment",
+      "content": [
+        "employee",
+        "employment",
+        "former",
+        "taxable",
+        "accommodation",
+        "dormitory",
+        "embassy",
+        "rental",
+        "contract",
+        "equity",
+        "expire",
+        "referral",
+        "referrer",
+        "payday",
+        "certificate",
+        "diploma",
+        "residence",
+        "electrical",
+        "digital",
+        "materials",
+        "proactive",
+        "preparation",
+        "eligibility",
+        "resume",
+        "thrive",
+        "collaboration",
+        "repetitive",
+        "stakeholders",
+        "endorsement",
+        "engage"
+      ]
     }
   ]
 }
