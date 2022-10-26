@@ -5,8 +5,8 @@ import type { Category, Menu } from '../types'
 import { getContentById, menu, paths } from '../libs/api'
 import metadata from '../libs/metadata'
 import Case from 'case'
-import AudioPlayer from 'react-h5-audio-player'
-import 'react-h5-audio-player/lib/styles.css'
+// import AudioPlayer from 'react-h5-audio-player'
+// import 'react-h5-audio-player/lib/styles.css'
 import breakpoints from '../styles/breakpoints'
 import { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
@@ -107,7 +107,15 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 overflow: hidden;
               }
 
-              .rhap_container {
+              audio::-webkit-media-controls-volume-control-container {
+                display: none !important;
+              }
+
+              audio::-internal-media-controls-overflow-button {
+                display: none !important;
+              }
+
+              /* .rhap_container {
                 padding: 0;
                 box-shadow: none;
                 width: 60%;
@@ -165,12 +173,15 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
                 > div:nth-child(2) {
                   flex: 1;
                 }
-              }
+              } */
             `}
             key={v.word}
           >
             <div>{v.word}</div>
             <div>
+              {v.origin?.map((origin) => (
+                <audio controls controlsList="nodownload" key={v.word} src={origin}></audio>
+              ))}
               {/* {v.origin?.map((origin) => (
                 <AudioPlayer
                   customVolumeControls={[]}
