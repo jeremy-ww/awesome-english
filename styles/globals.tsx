@@ -75,7 +75,8 @@ export const globalStyles = css`
 
     #__next {
       width: 90%;
-      margin: 3% auto 0 auto;
+      margin: 0 auto;
+      padding-top: 3%;
     }
 
     /* Small Devices */
@@ -89,7 +90,7 @@ export const globalStyles = css`
     @media (min-width: ${breakpoints.md}) {
       #__next {
         width: 90%;
-        margin: 5% auto 0 auto;
+        padding-top: 5%;
       }
 
       .content {
@@ -108,7 +109,7 @@ export const globalStyles = css`
     /* PC, MacBook, etc */
     @media (min-width: ${breakpoints.lg}) {
       #__next {
-        margin: 2% auto 0 auto;
+        padding-top: 2%;
         width: 80%;
       }
     }
