@@ -17,6 +17,14 @@ database.glossary.forEach((v) => {
 
 export { paths }
 
-export function getContentById(category: string) {
-  return database.glossary.find((v) => v.type === category)
+export function getInfoByCategory(category: string) {
+  const result = database.glossary.find((v) => v.type === category)
+  return {
+    dataLength: result.content.length,
+  }
+}
+
+export function getFirstPage(category: string) {
+  const result = database.glossary.find((v) => v.type === category)
+  return result.content.slice(0, 10)
 }

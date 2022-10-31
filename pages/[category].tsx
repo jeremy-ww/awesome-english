@@ -1,29 +1,117 @@
 import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
-import type { Category, Menu } from '../types'
-import { paths, menu } from '../libs/api'
-import metadata from '../libs/metadata'
+import type { Category, Menu, Item } from '../types'
+import { paths, menu, getInfoByCategory, getFirstPage } from '../libs/api'
+// import metadata, { MetaData } from '../libs/metadata'
 import Case from 'case'
 import breakpoints from '../styles/breakpoints'
-import { useState } from 'react'
+import React, { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
-import { useQuery } from '@tanstack/react-query'
+import { useInfiniteQuery } from '@tanstack/react-query'
+import InfiniteScroll from 'react-infinite-scroll-component'
 
-export default function Content({ menu }) {
+function Word(props: { item: Item }) {
+  const { item } = props
+  return (
+    <section
+      className={css`
+        display: flex;
+        padding: 13px 0;
+        align-items: center;
+        border-bottom: 1px solid #f5f5f5;
+        color: var(--text-primary);
+
+        > div {
+          display: flex;
+          align-items: center;
+          flex: 2;
+          color: var(--primary-color);
+          overflow: hidden;
+        }
+
+        audio::-webkit-media-controls-volume-control-container {
+          display: none !important;
+        }
+
+        audio::-internal-media-controls-overflow-button {
+          display: none !important;
+        }
+      `}
+      key={item.word}
+    >
+      <div>{item.word}</div>
+      <div>
+        {item.origin?.map((origin) => (
+          // eslint-disable-next-line jsx-a11y/media-has-caption
+          <audio
+            preload="none"
+            controls
+            controlsList="nodownload"
+            key={item.word}
+            src={origin}
+          ></audio>
+        ))}
+      </div>
+      <div
+        className={css`
+          flex-wrap: wrap;
+
+          span {
+            margin: 0 3px;
+          }
+        `}
+      >
+        <span>{item?.phonetics[0]}</span>
+        {item.phonetics[1] && (
+          <span
+            className={css`
+              opacity: 0.5;
+            `}
+          >
+            {item.phonetics[1]}
+          </span>
+        )}
+      </div>
+    </section>
+  )
+}
+
+export default function Content({
+  menu,
+  firstPage,
+  info,
+}: {
+  menu: Menu
+  firstPage: Item[]
+  info: { dataLength: number; category: string }
+}) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
-  const category = {
-    content: []
-  }
+
+  const { data, status, fetchNextPage, hasNextPage } = useInfiniteQuery<{
+    pageNo: string
+    content: Item[]
+  }>(
+    ['getCategoryContent', info.category],
+    async ({ pageParam = 2 }) =>
+      await fetch(`/api/category/${info.category}?pageNo=${pageParam}`).then((result) =>
+        result.json(),
+      ),
+    {
+      getNextPageParam: (lastPage, pages) => {
+        return lastPage.pageNo + 1
+      },
+    },
+  )
 
   return (
     <>
       <Head>
-        <title>{`${Case.capital(category.type)} - ${process.env.APP_NAME}`}</title>
-        <meta name="description" content={metadata.description} />
+        <title>{`${Case.capital(info.category)} - ${process.env.APP_NAME}`}</title>
+        {/* <meta name="description" content={metadata.description} />
         <meta property="og:url" content={metadata.url} />
-        <meta property="og:description" content={metadata.description} />
+        <meta property="og:description" content={metadata.description} /> */}
       </Head>
 
       <SwipeableDrawer
@@ -93,71 +181,47 @@ export default function Content({ menu }) {
       </div>
 
       <main className="content">
-        {category.content.map((v) => (
-          <section
-            className={css`
-              display: flex;
-              padding: 13px 0;
-              align-items: center;
-              border-bottom: 1px solid #f5f5f5;
-              color: var(--text-primary);
-
-              > div {
-                display: flex;
-                align-items: center;
-                flex: 2;
-                color: var(--primary-color);
-                overflow: hidden;
-              }
-
-              audio::-webkit-media-controls-volume-control-container {
-                display: none !important;
-              }
-
-              audio::-internal-media-controls-overflow-button {
-                display: none !important;
-              }
-            `}
-            key={v.word}
-          >
-            <div>{v.word}</div>
-            <div>
-              {v.origin?.map((origin) => (
-                // eslint-disable-next-line jsx-a11y/media-has-caption
-                <audio preload="none" controls controlsList="nodownload" key={v.word} src={origin}></audio>
-              ))}
-            </div>
-            <div
-              className={css`
-                flex-wrap: wrap;
-
-                span {
-                  margin: 0 3px;
-                }
-              `}
-            >
-              <span>{v?.phonetics[0]}</span>
-              {v.phonetics[1] && (
-                <span
-                  className={css`
-                    opacity: 0.5;
-                  `}
-                >
-                  {v.phonetics[1]}
-                </span>
-              )}
-            </div>
-          </section>
+        {firstPage.map((item) => (
+          <Word item={item} key={item.word} />
         ))}
+
+        <InfiniteScroll
+          next={fetchNextPage}
+          hasMore={hasNextPage}
+          dataLength={info.dataLength}
+          loader={<h4>Loading...</h4>}
+        >
+          {data?.pages.map((page, index) => (
+            <React.Fragment key={index}>
+              {page.content.map((item) => (
+                <Word item={item} key={item.word} />
+              ))}
+            </React.Fragment>
+          ))}
+        </InfiniteScroll>
       </main>
     </>
   )
 }
 
-export async function getStaticProps() {
+export async function getStaticProps({
+  params,
+}: {
+  params: {
+    category: string
+  }
+}) {
+  const info = getInfoByCategory(params.category)
+  const firstPage = getFirstPage(params.category)
   return {
     props: {
       menu,
+      // metadata,
+      firstPage,
+      info: {
+        category: params.category,
+        dataLength: info.dataLength,
+      },
     },
   }
 }
