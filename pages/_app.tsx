@@ -2,6 +2,9 @@ import type { AppProps } from 'next/app'
 import ViewOnGitHub from '../components/ViewOnGitHub'
 import Head from 'next/head'
 import '../styles/globals'
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
+
+const queryClient = new QueryClient()
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
@@ -17,7 +20,9 @@ export default function App({ Component, pageProps }: AppProps) {
       </Head>
 
       <ViewOnGitHub />
+      <QueryClientProvider client={queryClient}>
       <Component {...pageProps} />
+      </QueryClientProvider>
     </>
   )
 }

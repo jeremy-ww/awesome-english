@@ -2,16 +2,21 @@ import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import type { Category, Menu } from '../types'
-import { getContentById, menu, paths } from '../libs/api'
+import { paths, menu } from '../libs/api'
 import metadata from '../libs/metadata'
 import Case from 'case'
 import breakpoints from '../styles/breakpoints'
 import { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
+import { useQuery } from '@tanstack/react-query'
 
-export default function Content({ menu, category }: { menu: Menu; category: Category }) {
+export default function Content({ menu }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
+  const category = {
+    content: []
+  }
+
   return (
     <>
       <Head>
@@ -149,20 +154,10 @@ export default function Content({ menu, category }: { menu: Menu; category: Cate
   )
 }
 
-export async function getStaticProps({
-  params,
-}: {
-  params: {
-    category: string
-  }
-}) {
-  const category = getContentById(params.category)
-
+export async function getStaticProps() {
   return {
     props: {
       menu,
-      category,
-      metadata,
     },
   }
 }
