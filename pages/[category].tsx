@@ -102,6 +102,8 @@ export default function Content({
       getNextPageParam: (lastPage, pages) => {
         return lastPage.pageNo + 1
       },
+      // Mobile browsers' performance sucks, so we only prefetch the first page
+      cacheTime: 0,
     },
   )
 
