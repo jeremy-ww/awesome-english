@@ -1,8 +1,8 @@
 import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
-import type { Category, Menu, Item } from '../types'
-import { paths, menu, getInfoByCategory, getFirstPage } from '../libs/api'
+import type { Menu, Item } from '../types'
+import { paths, menu, getFirstPage } from '../libs/api'
 // import metadata, { MetaData } from '../libs/metadata'
 import Case from 'case'
 import breakpoints from '../styles/breakpoints'
@@ -188,8 +188,8 @@ export default function Content({
         <InfiniteScroll
           next={fetchNextPage}
           hasMore={hasNextPage}
-          dataLength={info.dataLength}
-          loader={<h4>Loading...</h4>}
+          dataLength={data?.pages.reduce((acc, page) => acc + page.content.length, 0) ?? 0}
+          loader={<span>Loading...</span>}
         >
           {data?.pages.map((page, index) => (
             <React.Fragment key={index}>
@@ -211,16 +211,14 @@ export async function getStaticProps({
     category: string
   }
 }) {
-  const info = getInfoByCategory(params.category)
   const firstPage = getFirstPage(params.category)
   return {
     props: {
       menu,
-      // metadata,
       firstPage,
       info: {
         category: params.category,
-        dataLength: info.dataLength,
+        // metadata,
       },
     },
   }

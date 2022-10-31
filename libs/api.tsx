@@ -1,4 +1,5 @@
 import database from './database.json'
+import { PAGE_SIZE } from '../shared/constant'
 
 export const menu = {
   glossary: database.glossary.map((v) => v.type),
@@ -17,14 +18,7 @@ database.glossary.forEach((v) => {
 
 export { paths }
 
-export function getInfoByCategory(category: string) {
-  const result = database.glossary.find((v) => v.type === category)
-  return {
-    dataLength: result.content.length,
-  }
-}
-
 export function getFirstPage(category: string) {
   const result = database.glossary.find((v) => v.type === category)
-  return result.content.slice(0, 10)
+  return result.content.slice(0, PAGE_SIZE)
 }
