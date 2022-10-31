@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import type { Menu, Item } from '../types'
 import { paths, menu, getFirstPage } from '../libs/api'
-// import metadata, { MetaData } from '../libs/metadata'
+import metadata from '../libs/metadata'
 import Case from 'case'
 import breakpoints from '../styles/breakpoints'
 import React, { useState } from 'react'
@@ -111,9 +111,9 @@ export default function Content({
     <>
       <Head>
         <title>{`${Case.capital(info.category)} - ${process.env.APP_NAME}`}</title>
-        {/* <meta name="description" content={metadata.description} />
+        <meta name="description" content={metadata.description} />
         <meta property="og:url" content={metadata.url} />
-        <meta property="og:description" content={metadata.description} /> */}
+        <meta property="og:description" content={metadata.description} />
       </Head>
 
       <SwipeableDrawer
@@ -220,7 +220,6 @@ export async function getStaticProps({
       firstPage,
       info: {
         category: params.category,
-        // metadata,
       },
     },
   }
