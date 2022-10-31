@@ -1,6 +1,7 @@
 import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
+import Loading from '../components/Loading'
 import type { Menu, Item } from '../types'
 import { paths, menu, getFirstPage } from '../libs/api'
 import metadata from '../libs/metadata'
@@ -89,7 +90,7 @@ export default function Content({
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
 
-  const { data, status, fetchNextPage, hasNextPage } = useInfiniteQuery<{
+  const { data, fetchNextPage, hasNextPage } = useInfiniteQuery<{
     pageNo: string
     content: Item[]
   }>(
@@ -100,7 +101,7 @@ export default function Content({
       ),
     {
       getNextPageParam: (lastPage, pages) => {
-        return lastPage.pageNo + 1
+        return lastPage.content.length === 0 ? undefined : lastPage.pageNo + 1
       },
       // Mobile browsers' performance sucks, so we only prefetch the first page
       cacheTime: 0,
@@ -191,7 +192,7 @@ export default function Content({
           next={fetchNextPage}
           hasMore={hasNextPage}
           dataLength={data?.pages.reduce((acc, page) => acc + page.content.length, 0) ?? 0}
-          loader={<span>Loading...</span>}
+          loader={<Loading />}
         >
           {data?.pages.map((page, index) => (
             <React.Fragment key={index}>
