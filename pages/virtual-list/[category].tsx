@@ -1,15 +1,14 @@
 import { css } from '@linaria/core'
 import Head from 'next/head'
-import Navbar from '../components/Navbar'
-import type { Menu, Item } from '../types'
-import { paths, menu, getFirstPage } from '../libs/api'
-import metadata from '../libs/metadata'
+import Navbar from '../../components/Navbar'
+import type { Menu, Item } from '../../types'
+import { paths, menu, getFullPage } from '../../libs/api'
+import metadata from '../../libs/metadata'
 import Case from 'case'
-import breakpoints from '../styles/breakpoints'
+import breakpoints from '../../styles/breakpoints'
 import React, { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
-import { useInfiniteQuery } from '@tanstack/react-query'
 import { FixedSizeList as List } from 'react-window'
 
 function Word(props: { style?: React.CSSProperties; item: Item }) {
@@ -80,32 +79,14 @@ function Word(props: { style?: React.CSSProperties; item: Item }) {
 
 export default function Content({
   menu,
-  firstPage,
+  fullPage,
   info,
 }: {
   menu: Menu
-  firstPage: Item[]
+  fullPage: Item[]
   info: { dataLength: number; category: string }
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
-
-  const { data, fetchNextPage, hasNextPage } = useInfiniteQuery<{
-    pageNo: string
-    content: Item[]
-  }>(
-    ['getCategoryContent', info.category],
-    async ({ pageParam = 2 }) =>
-      await fetch(`/api/category/${info.category}?pageNo=${pageParam}`).then((result) =>
-        result.json(),
-      ),
-    {
-      getNextPageParam: (lastPage, pages) => {
-        return lastPage.content.length === 0 ? undefined : lastPage.pageNo + 1
-      },
-      // Mobile browsers' performance sucks, so we only prefetch the first page
-      cacheTime: 0,
-    },
-  )
 
   return (
     <>
@@ -183,26 +164,11 @@ export default function Content({
       </div>
 
       <main className="content">
-        <List height={800} itemCount={firstPage.length} itemSize={81}>
+        <List height={800} itemCount={fullPage.length} itemSize={81}>
           {({ index, style }) => {
-            return <Word style={style} item={firstPage[index]} />
+            return <Word style={style} item={fullPage[index]} />
           }}
         </List>
-
-        {/* <InfiniteScroll
-          next={fetchNextPage}
-          hasMore={hasNextPage}
-          dataLength={data?.pages.reduce((acc, page) => acc + page.content.length, 0) ?? 0}
-          loader={<Loading />}
-        >
-          {data?.pages.map((page, index) => (
-            <React.Fragment key={index}>
-              {page.content.map((item) => (
-                <Word item={item} key={item.word} />
-              ))}
-            </React.Fragment>
-          ))}
-        </InfiniteScroll> */}
       </main>
     </>
   )
@@ -215,11 +181,11 @@ export async function getStaticProps({
     category: string
   }
 }) {
-  const firstPage = getFirstPage(params.category)
+  const fullPage = getFullPage(params.category)
   return {
     props: {
       menu,
-      firstPage,
+      fullPage,
       info: {
         category: params.category,
       },

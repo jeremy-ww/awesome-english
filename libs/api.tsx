@@ -22,3 +22,8 @@ export function getFirstPage(category: string) {
   const result = database.glossary.find((v) => v.type === category)
   return result.content.slice(0, PAGE_SIZE)
 }
+
+export function getFullPage(category: string) {
+  const result = database.glossary.find((v) => v.type === category)
+  return result.content
+}
