@@ -32,12 +32,10 @@ function Word(props: { style?: React.CSSProperties; item: Item }) {
         color: var(--text-primary);
         width: 75% !important;
 
-        /* Tablet, iPad, etc */
         @media (max-width: ${breakpoints.xl}) {
           width: 90% !important;
         }
 
-        /* Tablet, iPad, etc */
         @media (max-width: ${breakpoints.lg}) {
           width: 100% !important;
         }
@@ -207,7 +205,12 @@ export default function Content({
           }
         `}
       >
-        <List height={virtualListHight} itemCount={fullPage.length} itemSize={81}>
+        <List
+          key={info.category}
+          height={virtualListHight}
+          itemCount={fullPage.length}
+          itemSize={81}
+        >
           {({ index, style }) => {
             return <Word style={style} item={fullPage[index]} />
           }}

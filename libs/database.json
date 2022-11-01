@@ -4499,6 +4499,16 @@
 					"reference": ""
 				},
 				{
+					"word": "Brew",
+					"origin": [
+						"/audios/Brew.mp3"
+					],
+					"phonetics": [
+						"[bruː]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "Browserify",
 					"origin": [
 						"/audios/Browserify.mp3"
@@ -6340,5 +6350,15 @@
 			]
 		}
 	],
-	"expression": []
+	"expression": [
+		{
+			"type": "general",
+			"content": [
+				{
+					"sentence": "two plus one",
+					"explanation": "2 + 1"
+				}
+			]
+		}
+	]
 }
