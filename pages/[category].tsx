@@ -2,52 +2,20 @@ import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import type { Menu, Item } from '../types'
-import { paths, menu, getFirstPage } from '../libs/api'
+import { paths, menu, getFullPage } from '../libs/api'
 import metadata from '../libs/metadata'
 import Case from 'case'
 import breakpoints from '../styles/breakpoints'
-import React, { useState } from 'react'
+import React, { useLayoutEffect, useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
-import { useInfiniteQuery } from '@tanstack/react-query'
-import Loading from '../components/Loading'
-import InfiniteScroll from 'react-infinite-scroll-component'
+import { FixedSizeList as List } from 'react-window'
 
 css`
   :global() {
-    /* Small Devices */
-    @media (max-width: ${breakpoints.md}) {
-      :root {
-        --nav-bar-width: 0px;
-      }
-    }
-
-    /* Big than small devices */
-    @media (min-width: ${breakpoints.md}) {
-      #__next {
-        width: 90%;
-        padding-top: 5%;
-      }
-
-      .content {
-        width: 70%;
-        transform: translateX(calc(var(--nav-bar-width) / 2));
-      }
-    }
-
-    /* Tablet, iPad, etc */
-    @media (min-width: ${breakpoints.md}) and (max-width: ${breakpoints.lg}) {
-      .content {
-        margin-left: calc(var(--nav-bar-width) * 1.2);
-      }
-    }
-
-    /* PC, MacBook, etc */
-    @media (min-width: ${breakpoints.lg}) {
-      #__next {
-        padding-top: 2%;
-        width: 80%;
-      }
+    #__next {
+      width: 100%;
+      padding-top: 0 !important;
     }
   }
 `
@@ -62,6 +30,17 @@ function Word(props: { style?: React.CSSProperties; item: Item }) {
         align-items: center;
         border-bottom: 1px solid #f5f5f5;
         color: var(--text-primary);
+        width: 75% !important;
+
+        /* Tablet, iPad, etc */
+        @media (max-width: ${breakpoints.xl}) {
+          width: 90% !important;
+        }
+
+        /* Tablet, iPad, etc */
+        @media (max-width: ${breakpoints.lg}) {
+          width: 100% !important;
+        }
 
         > div {
           display: flex;
@@ -120,32 +99,19 @@ function Word(props: { style?: React.CSSProperties; item: Item }) {
 
 export default function Content({
   menu,
-  firstPage,
+  fullPage,
   info,
 }: {
   menu: Menu
-  firstPage: Item[]
+  fullPage: Item[]
   info: { dataLength: number; category: string }
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
+  const [virtualListHight, setVirtualListHight] = useState(0)
 
-  const { data, fetchNextPage, hasNextPage } = useInfiniteQuery<{
-    pageNo: string
-    content: Item[]
-  }>(
-    ['getCategoryContent', info.category],
-    async ({ pageParam = 2 }) =>
-      await fetch(`/api/category/${info.category}?pageNo=${pageParam}`).then((result) =>
-        result.json(),
-      ),
-    {
-      getNextPageParam: (lastPage, pages) => {
-        return lastPage.content.length === 0 ? undefined : lastPage.pageNo + 1
-      },
-      // Mobile browsers' performance sucks, so we only prefetch the first page
-      cacheTime: 0,
-    },
-  )
+  useLayoutEffect(() => {
+    setVirtualListHight(window.innerHeight - 40)
+  }, [])
 
   return (
     <>
@@ -182,6 +148,12 @@ export default function Content({
       <Navbar
         className={css`
           position: fixed;
+          margin-left: 10%;
+          margin-top: 2%;
+
+          @media (max-width: ${breakpoints.lg}) {
+            margin-left: 2%;
+          }
 
           @media (max-width: ${breakpoints.md}) {
             display: none;
@@ -222,21 +194,24 @@ export default function Content({
         />
       </div>
 
-      <main className="content">
-        <InfiniteScroll
-          next={fetchNextPage}
-          hasMore={hasNextPage}
-          dataLength={data?.pages.reduce((acc, page) => acc + page.content.length, 0) ?? 0}
-          loader={<Loading />}
-        >
-          {data?.pages.map((page, index) => (
-            <React.Fragment key={index}>
-              {page.content.map((item) => (
-                <Word item={item} key={item.word} />
-              ))}
-            </React.Fragment>
-          ))}
-        </InfiniteScroll>
+      <main
+        className={css`
+          position: absolute;
+          width: 73%;
+          top: 40px;
+          right: 0;
+
+          @media (max-width: ${breakpoints.md}) {
+            width: 100%;
+            padding-left: 2%;
+          }
+        `}
+      >
+        <List height={virtualListHight} itemCount={fullPage.length} itemSize={81}>
+          {({ index, style }) => {
+            return <Word style={style} item={fullPage[index]} />
+          }}
+        </List>
       </main>
     </>
   )
@@ -249,11 +224,11 @@ export async function getStaticProps({
     category: string
   }
 }) {
-  const firstPage = getFirstPage(params.category)
+  const fullPage = getFullPage(params.category)
   return {
     props: {
       menu,
-      firstPage,
+      fullPage,
       info: {
         category: params.category,
       },
