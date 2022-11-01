@@ -102,7 +102,7 @@ export default function Content({
 }: {
   menu: Menu
   fullPage: Item[]
-  info: { dataLength: number; category: string }
+  info: { dataLength: number; category: string; name: string }
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
   const [virtualListHight, setVirtualListHight] = useState(0)
@@ -114,7 +114,7 @@ export default function Content({
   return (
     <>
       <Head>
-        <title>{`${Case.capital(info.category)} - ${process.env.APP_NAME}`}</title>
+        <title>{`${Case.capital(info.name)} - ${process.env.APP_NAME}`}</title>
         <meta name="description" content={metadata.description} />
         <meta property="og:url" content={metadata.url} />
         <meta property="og:description" content={metadata.description} />
@@ -206,14 +206,13 @@ export default function Content({
           }
         `}
       >
-        <List
-          key={info.category}
-          height={virtualListHight}
-          itemCount={fullPage.length}
-          itemSize={81}
-        >
+        <List key={info.name} height={virtualListHight} itemCount={fullPage.length} itemSize={81}>
           {({ index, style }) => {
-            return <Word style={style} item={fullPage[index]} />
+            return info.category === 'glossary' ? (
+              <Word style={style} item={fullPage[index]} />
+            ) : (
+              <div style={style}>{JSON.stringify(fullPage[index])}</div>
+            )
           }}
         </List>
       </main>
@@ -225,16 +224,18 @@ export async function getStaticProps({
   params,
 }: {
   params: {
-    category: string
+    name: string
   }
 }) {
-  const fullPage = getFullPage(params.category)
+  const [category, name] = params.name.split('-') || []
+  const fullPage = getFullPage(category, name)
   return {
     props: {
       menu,
       fullPage,
       info: {
-        category: params.category,
+        category,
+        name,
       },
     },
   }

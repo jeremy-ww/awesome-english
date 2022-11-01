@@ -11,19 +11,27 @@ const paths = []
 database.glossary.forEach((v) => {
   paths.push({
     params: {
-      category: v.type,
+      name: 'glossary-' + v.type,
+    },
+  })
+})
+
+database.expression.forEach((v) => {
+  paths.push({
+    params: {
+      name: 'expression-' + v.type,
     },
   })
 })
 
 export { paths }
 
-export function getFirstPage(category: string) {
-  const result = database.glossary.find((v) => v.type === category)
+export function getFirstPage(name: string) {
+  const result = database.glossary.find((v) => v.type === name)
   return result.content.slice(0, PAGE_SIZE)
 }
 
-export function getFullPage(category: string) {
-  const result = database.glossary.find((v) => v.type === category)
+export function getFullPage(category: string, name: string) {
+  const result = database[category].find((v) => v.type === name)
   return result.content
 }

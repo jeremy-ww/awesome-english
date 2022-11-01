@@ -4,6 +4,43 @@ import { useRouter } from 'next/router'
 import React from 'react'
 import { Menu } from '../types'
 
+function SubMenu({
+  data,
+  onClick,
+  prefix,
+  activeUrl,
+}: {
+  data: string[]
+  onClick: () => void
+  prefix: string
+  activeUrl: string
+}) {
+  return (
+    <>
+      {data.map((v) => (
+        <li
+          className={cx(
+            activeUrl === `${prefix}-${v}` &&
+              css`
+                font-weight: 600;
+                background-color: var(--nav-bar-focus-bg-color);
+              `,
+            css`
+              border-radius: var(--border-radius);
+            `,
+          )}
+          aria-hidden
+          onClick={onClick}
+          onKeyUp={onClick}
+          key={v}
+        >
+          <Link href={`/${prefix}-${v}`}>{v}</Link>
+        </li>
+      ))}
+    </>
+  )
+}
+
 export default React.memo(function Navbar({
   menu,
   className,
@@ -43,36 +80,23 @@ export default React.memo(function Navbar({
       <section>
         <h3>Glossary</h3>
 
-        {menu.glossary.map((v) => (
-          <li
-            className={cx(
-              route.query.category === v &&
-                css`
-                  font-weight: 600;
-                  background-color: var(--nav-bar-focus-bg-color);
-                `,
-              css`
-                border-radius: var(--border-radius);
-              `,
-            )}
-            aria-hidden
-            onClick={onClick}
-            onKeyUp={onClick}
-            key={v}
-          >
-            <Link href={v}>{v}</Link>
-          </li>
-        ))}
+        <SubMenu
+          activeUrl={route.query.name as string}
+          data={menu.glossary}
+          prefix="glossary"
+          onClick={onClick}
+        />
       </section>
 
       <section>
         <h3>Expression</h3>
 
-        {menu.expression.map((v) => (
-          <li key={v}>
-            <Link href={v}>{v}</Link>
-          </li>
-        ))}
+        <SubMenu
+          activeUrl={route.query.name as string}
+          data={menu.expression}
+          prefix="expression"
+          onClick={onClick}
+        />
       </section>
     </nav>
   )
