@@ -106,6 +106,16 @@
 					"reference": ""
 				},
 				{
+					"word": "anticipate",
+					"origin": [
+						"/audios/anticipate.mp3"
+					],
+					"phonetics": [
+						"[ænˈtɪsɪpeɪt]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "apologize",
 					"origin": [
 						"/audios/apologize.mp3"
@@ -178,6 +188,16 @@
 					"reference": ""
 				},
 				{
+					"word": "beforehand",
+					"origin": [
+						"/audios/beforehand.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "behavioral",
 					"origin": [
 						"/audios/behavioral.mp3"
@@ -234,6 +254,17 @@
 					],
 					"phonetics": [
 						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "circumstance",
+					"origin": [
+						"/audios/circumstance.mp3"
+					],
+					"phonetics": [
+						"[ˈsɜːrkəmstæns]",
+						"[ˈsɜːkəmstəns]"
 					],
 					"reference": ""
 				},
@@ -357,6 +388,16 @@
 					"reference": ""
 				},
 				{
+					"word": "criticism",
+					"origin": [
+						"/audios/criticism.mp3"
+					],
+					"phonetics": [
+						"[ˈkrɪtɪsɪzəm]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "currency",
 					"origin": [
 						"/audios/currency.mp3"
@@ -406,6 +447,16 @@
 					"phonetics": [
 						"[dɪˈnoʊt]",
 						"[dɪˈnəʊt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "depressed",
+					"origin": [
+						"/audios/depressed.mp3"
+					],
+					"phonetics": [
+						"[dɪˈprest]"
 					],
 					"reference": ""
 				},
@@ -543,6 +594,16 @@
 					"phonetics": [
 						"[ɪˈvɑːlvd]",
 						"[ɪˈvɒlvd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "exhausted",
+					"origin": [
+						"/audios/exhausted.mp3"
+					],
+					"phonetics": [
+						"[ɪɡˈzɔːstɪd]"
 					],
 					"reference": ""
 				},
@@ -709,6 +770,16 @@
 					"phonetics": [
 						"[ˈmɜːrtʃənt]",
 						"[ˈmɜːtʃənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "objective",
+					"origin": [
+						"/audios/objective.mp3"
+					],
+					"phonetics": [
+						"[əbˈdʒektɪv]"
 					],
 					"reference": ""
 				},
@@ -955,6 +1026,17 @@
 					"reference": ""
 				},
 				{
+					"word": "proper",
+					"origin": [
+						"/audios/proper.mp3"
+					],
+					"phonetics": [
+						"[ˈprɑːpər]",
+						"[ˈprɒpə(r)]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "proposal",
 					"origin": [
 						"/audios/proposal.mp3"
@@ -995,6 +1077,16 @@
 					"phonetics": [
 						"[pərˈsuː]",
 						"[pəˈsjuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "racism",
+					"origin": [
+						"/audios/racism.mp3"
+					],
+					"phonetics": [
+						"[ˈreɪsɪzəm]"
 					],
 					"reference": ""
 				},
@@ -1165,6 +1257,16 @@
 					"reference": ""
 				},
 				{
+					"word": "snap",
+					"origin": [
+						"/audios/snap.mp3"
+					],
+					"phonetics": [
+						"[snæp]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "solid",
 					"origin": [
 						"/audios/solid.mp3"
@@ -1181,6 +1283,16 @@
 					],
 					"phonetics": [
 						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "subjective",
+					"origin": [
+						"/audios/subjective.mp3"
+					],
+					"phonetics": [
+						"[səbˈdʒektɪv]"
 					],
 					"reference": ""
 				},
@@ -1684,6 +1796,17 @@
 					"reference": ""
 				},
 				{
+					"word": "artifact",
+					"origin": [
+						"/audios/artifact.mp3"
+					],
+					"phonetics": [
+						"[ˈɑːrtɪfækt]",
+						"[ˈɑːtɪfækt]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "assert",
 					"origin": [
 						"/audios/assert.mp3"
@@ -1926,6 +2049,17 @@
 					],
 					"phonetics": [
 						"[kəˈlæps]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "colocate",
+					"origin": [
+						"/audios/colocate.mp3"
+					],
+					"phonetics": [
+						"[TBD]",
+						"[kəʊˈləʊkeɪt]"
 					],
 					"reference": ""
 				},
@@ -3390,6 +3524,16 @@
 					],
 					"phonetics": [
 						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "piece",
+					"origin": [
+						"/audios/piece.mp3"
+					],
+					"phonetics": [
+						"[piːs]"
 					],
 					"reference": ""
 				},
@@ -5031,6 +5175,16 @@
 					"reference": ""
 				},
 				{
+					"word": "Silicon",
+					"origin": [
+						"/audios/Silicon.mp3"
+					],
+					"phonetics": [
+						"[ˈsɪlɪkən]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "SonarQube",
 					"origin": [
 						"/audios/SonarQube.mp3"
@@ -5099,6 +5253,16 @@
 					],
 					"phonetics": [
 						"[ʊˈbʊntuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Valley",
+					"origin": [
+						"/audios/Valley.mp3"
+					],
+					"phonetics": [
+						"[ˈvæli]"
 					],
 					"reference": ""
 				},
@@ -5572,6 +5736,16 @@
 					"reference": ""
 				},
 				{
+					"word": "trap",
+					"origin": [
+						"/audios/trap.mp3"
+					],
+					"phonetics": [
+						"[træp]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "traversal",
 					"origin": [
 						"/audios/traversal.mp3"
@@ -5664,6 +5838,16 @@
 					"reference": ""
 				},
 				{
+					"word": "allowance",
+					"origin": [
+						"/audios/allowance.mp3"
+					],
+					"phonetics": [
+						"[əˈlaʊəns]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "annual",
 					"origin": [
 						"/audios/annual.mp3"
@@ -5690,6 +5874,16 @@
 					],
 					"phonetics": [
 						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "cherish",
+					"origin": [
+						"/audios/cherish.mp3"
+					],
+					"phonetics": [
+						"[ˈtʃerɪʃ]"
 					],
 					"reference": ""
 				},
@@ -5736,6 +5930,16 @@
 					"reference": ""
 				},
 				{
+					"word": "considerate",
+					"origin": [
+						"/audios/considerate.mp3"
+					],
+					"phonetics": [
+						"[kənˈsɪdərət]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "contract",
 					"origin": [
 						"/audios/contract.mp3"
@@ -5775,6 +5979,17 @@
 					"phonetics": [
 						"[ˈdɔːrmətɔːri]",
 						"[ˈdɔːmətri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "economy",
+					"origin": [
+						"/audios/economy.mp3"
+					],
+					"phonetics": [
+						"[ɪˈkɑːnəmi]",
+						"[ɪˈkɒnəmi]"
 					],
 					"reference": ""
 				},
@@ -5903,6 +6118,17 @@
 					"reference": ""
 				},
 				{
+					"word": "headquarters",
+					"origin": [
+						"/audios/headquarters.mp3"
+					],
+					"phonetics": [
+						"[ˈhedkwɔːrtərz]",
+						"[ˌhedˈkwɔːtəz]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "materials",
 					"origin": [
 						"/audios/materials.mp3"
@@ -5935,6 +6161,16 @@
 					"reference": ""
 				},
 				{
+					"word": "pity",
+					"origin": [
+						"/audios/pity.mp3"
+					],
+					"phonetics": [
+						"[ˈpɪti]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "preparation",
 					"origin": [
 						"/audios/preparation.mp3"
@@ -5952,6 +6188,17 @@
 					"phonetics": [
 						"[ˌproʊˈæktɪv]",
 						"[ˌprəʊˈæktɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "profit",
+					"origin": [
+						"/audios/profit.mp3"
+					],
+					"phonetics": [
+						"[ˈprɑːfɪt]",
+						"[ˈprɒfɪt]"
 					],
 					"reference": ""
 				},

@@ -3,6 +3,17 @@
     {
       "type": "general",
       "content": [
+        "exhausted",
+        "depressed",
+        "criticism",
+        "racism",
+        "proper",
+        "circumstance",
+        "beforehand",
+        "snap",
+        "anticipate",
+        "subjective",
+        "objective",
         "tentative",
         "procedures",
         "experimental",
@@ -128,6 +139,9 @@
     {
       "type": "engineering",
       "content": [
+        "artifact",
+        "piece",
+        "colocate",
         "bundler",
         "pro",
         "con",
@@ -400,6 +414,8 @@
     {
       "type": "terms",
       "content": [
+        "Silicon",
+        "Valley",
         ".net",
         "YouTube",
         "YAML",
@@ -501,6 +517,7 @@
     {
       "type": "algorithm",
       "content": [
+        "trap",
         "quadratic",
         "pseudocode",
         "peak",
@@ -549,6 +566,13 @@
     {
       "type": "employment",
       "content": [
+        "pity",
+        "profit",
+        "headquarters",
+        "considerate",
+        "allowance",
+        "cherish",
+        "economy",
         "employee",
         "employment",
         "former",
