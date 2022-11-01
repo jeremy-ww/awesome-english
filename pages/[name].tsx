@@ -108,6 +108,7 @@ export default function Content({
   const [virtualListHight, setVirtualListHight] = useState(0)
 
   useLayoutEffect(() => {
+    // @ts-ignore
     setVirtualListHight(window.innerHeight - (navigator.userAgentData?.mobile ? 0 : 40))
   }, [])
 
