@@ -108,7 +108,7 @@ export default function Content({
   const [virtualListHight, setVirtualListHight] = useState(0)
 
   useLayoutEffect(() => {
-    setVirtualListHight(window.innerHeight - 40)
+    setVirtualListHight(window.innerHeight - (navigator.userAgentData?.mobile ? 0 : 40))
   }, [])
 
   return (
@@ -201,7 +201,7 @@ export default function Content({
 
           @media (max-width: ${breakpoints.md}) {
             width: 100%;
-            padding-left: 3%;
+            padding-left: 5%;
             top: 0;
           }
         `}
