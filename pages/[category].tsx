@@ -201,7 +201,8 @@ export default function Content({
 
           @media (max-width: ${breakpoints.md}) {
             width: 100%;
-            padding-left: 2%;
+            padding-left: 3%;
+            top: 0;
           }
         `}
       >
