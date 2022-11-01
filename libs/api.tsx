@@ -27,6 +27,7 @@ database.expression.forEach((v) => {
 export { paths }
 
 export function getFullPage(section: SectionType, name: string): GlossaryItem[] | ExpressionItem[] {
+  // @ts-ignore
   const result = database[section].find((v) => v.type === name)
   return result.content
 }
