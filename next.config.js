@@ -17,12 +17,7 @@ const moduleExports = {
     return [
       {
         source: '/',
-        destination: '/general',
-        permanent: true,
-      },
-      {
-        source: '/beta',
-        destination: '/beta/general',
+        destination: '/glossary-general',
         permanent: true,
       },
     ]
