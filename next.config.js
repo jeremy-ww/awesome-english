@@ -20,6 +20,11 @@ const moduleExports = {
         destination: '/general',
         permanent: true,
       },
+      {
+        source: '/beta',
+        destination: '/beta/general',
+        permanent: true,
+      },
     ]
   },
   webpack: (config, { webpack }) => {

@@ -78,40 +78,5 @@ export const globalStyles = css`
       margin: 0 auto;
       padding-top: 3%;
     }
-
-    /* Small Devices */
-    @media (max-width: ${breakpoints.md}) {
-      :root {
-        --nav-bar-width: 0px;
-      }
-    }
-
-    /* Big than small devices */
-    @media (min-width: ${breakpoints.md}) {
-      #__next {
-        width: 90%;
-        padding-top: 5%;
-      }
-
-      .content {
-        width: 70%;
-        transform: translateX(calc(var(--nav-bar-width) / 2));
-      }
-    }
-
-    /* Tablet, iPad, etc */
-    @media (min-width: ${breakpoints.md}) and (max-width: ${breakpoints.lg}) {
-      .content {
-        margin-left: calc(var(--nav-bar-width) * 1.2);
-      }
-    }
-
-    /* PC, MacBook, etc */
-    @media (min-width: ${breakpoints.lg}) {
-      #__next {
-        padding-top: 2%;
-        width: 80%;
-      }
-    }
   }
 `

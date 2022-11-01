@@ -6,10 +6,19 @@ import { paths, menu, getFullPage } from '../../libs/api'
 import metadata from '../../libs/metadata'
 import Case from 'case'
 import breakpoints from '../../styles/breakpoints'
-import React, { useState } from 'react'
+import React, { useLayoutEffect, useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
 import { FixedSizeList as List } from 'react-window'
+
+css`
+  :global() {
+    #__next {
+      width: 100%;
+      padding-top: 0 !important;
+    }
+  }
+`
 
 function Word(props: { style?: React.CSSProperties; item: Item }) {
   const { item } = props
@@ -21,6 +30,17 @@ function Word(props: { style?: React.CSSProperties; item: Item }) {
         align-items: center;
         border-bottom: 1px solid #f5f5f5;
         color: var(--text-primary);
+        width: 80% !important;
+
+        /* Tablet, iPad, etc */
+        @media (max-width: ${breakpoints.xl}) {
+          width: 90% !important;
+        }
+
+        /* Tablet, iPad, etc */
+        @media (max-width: ${breakpoints.lg}) {
+          width: 100% !important;
+        }
 
         > div {
           display: flex;
@@ -87,6 +107,11 @@ export default function Content({
   info: { dataLength: number; category: string }
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
+  const [virtualListHight, setVirtualListHight] = useState(0)
+
+  useLayoutEffect(() => {
+    setVirtualListHight(window.innerHeight)
+  }, [])
 
   return (
     <>
@@ -123,6 +148,13 @@ export default function Content({
       <Navbar
         className={css`
           position: fixed;
+          margin-left: 10%;
+          margin-top: 2%;
+
+          /* Tablet, iPad, etc */
+          @media (max-width: ${breakpoints.lg}) {
+            margin-left: 0;
+          }
 
           @media (max-width: ${breakpoints.md}) {
             display: none;
@@ -163,8 +195,19 @@ export default function Content({
         />
       </div>
 
-      <main className="content">
-        <List height={800} itemCount={fullPage.length} itemSize={81}>
+      <main
+        className={css`
+          position: absolute;
+          width: 75%;
+          right: 0;
+
+          @media (max-width: ${breakpoints.md}) {
+            width: 100%;
+            padding-left: 2%;
+          }
+        `}
+      >
+        <List height={virtualListHight} itemCount={fullPage.length} itemSize={81}>
           {({ index, style }) => {
             return <Word style={style} item={fullPage[index]} />
           }}
