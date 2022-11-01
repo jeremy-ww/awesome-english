@@ -1,5 +1,5 @@
 import database from './database.json'
-import { PAGE_SIZE } from '../shared/constant'
+import type { GlossaryItem, SectionType, ExpressionItem } from '../types'
 
 export const menu = {
   glossary: database.glossary.map((v) => v.type),
@@ -26,12 +26,7 @@ database.expression.forEach((v) => {
 
 export { paths }
 
-export function getFirstPage(name: string) {
-  const result = database.glossary.find((v) => v.type === name)
-  return result.content.slice(0, PAGE_SIZE)
-}
-
-export function getFullPage(category: string, name: string) {
-  const result = database[category].find((v) => v.type === name)
+export function getFullPage(section: SectionType, name: string): GlossaryItem[] | ExpressionItem[] {
+  const result = database[section].find((v) => v.type === name)
   return result.content
 }

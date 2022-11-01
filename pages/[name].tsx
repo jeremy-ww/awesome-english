@@ -1,7 +1,7 @@
 import { css } from '@linaria/core'
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
-import type { Menu, Item } from '../types'
+import type { Menu, GlossaryItem, SectionType, ExpressionItem } from '../types'
 import { paths, menu, getFullPage } from '../libs/api'
 import metadata from '../libs/metadata'
 import Case from 'case'
@@ -11,16 +11,11 @@ import MenuIcon from '@mui/icons-material/Menu'
 import { SwipeableDrawer } from '@mui/material'
 import { FixedSizeList as List } from 'react-window'
 
-css`
-  :global() {
-    #__next {
-      width: 100%;
-      padding-top: 0 !important;
-    }
-  }
-`
-
-function Word(props: { style?: React.CSSProperties; item: Item }) {
+function Word(props: {
+  isGlossary: boolean
+  style?: React.CSSProperties
+  item: GlossaryItem | ExpressionItem
+}) {
   const { item } = props
   return (
     <div
@@ -58,39 +53,48 @@ function Word(props: { style?: React.CSSProperties; item: Item }) {
       `}
       style={props.style}
     >
-      <div>{item.word}</div>
-      <div>
-        {item.origin?.map((origin) => (
-          // eslint-disable-next-line jsx-a11y/media-has-caption
-          <audio
-            preload="none"
-            controls
-            controlsList="nodownload"
-            key={item.word}
-            src={origin}
-          ></audio>
-        ))}
-      </div>
-      <div
-        className={css`
-          flex-wrap: wrap;
-
-          span {
-            margin: 0 3px;
-          }
-        `}
-      >
-        <span>{item?.phonetics[0]}</span>
-        {item.phonetics[1] && (
-          <span
+      {props.isGlossary ? (
+        <>
+          <div>{(item as GlossaryItem).word}</div>
+          <div>
+            {(item as GlossaryItem).origin?.map((origin) => (
+              // eslint-disable-next-line jsx-a11y/media-has-caption
+              <audio
+                preload="none"
+                controls
+                controlsList="nodownload"
+                key={(item as GlossaryItem).word}
+                src={origin}
+              ></audio>
+            ))}
+          </div>
+          <div
             className={css`
-              opacity: 0.5;
+              flex-wrap: wrap;
+
+              span {
+                margin: 0 3px;
+              }
             `}
           >
-            {item.phonetics[1]}
-          </span>
-        )}
-      </div>
+            <span>{(item as GlossaryItem)?.phonetics[0]}</span>
+            {(item as GlossaryItem).phonetics[1] && (
+              <span
+                className={css`
+                  opacity: 0.5;
+                `}
+              >
+                {(item as GlossaryItem).phonetics[1]}
+              </span>
+            )}
+          </div>
+        </>
+      ) : (
+        <>
+          <div>{(item as ExpressionItem).sentence}</div>
+          <div>{(item as ExpressionItem).explanation}</div>
+        </>
+      )}
     </div>
   )
 }
@@ -101,11 +105,12 @@ export default function Content({
   info,
 }: {
   menu: Menu
-  fullPage: Item[]
+  fullPage: GlossaryItem[]
   info: { dataLength: number; category: string; name: string }
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
   const [virtualListHight, setVirtualListHight] = useState(0)
+  const isGlossary = info.category === 'glossary'
 
   useLayoutEffect(() => {
     setVirtualListHight(
@@ -210,13 +215,9 @@ export default function Content({
         `}
       >
         <List key={info.name} height={virtualListHight} itemCount={fullPage.length} itemSize={81}>
-          {({ index, style }) => {
-            return info.category === 'glossary' ? (
-              <Word style={style} item={fullPage[index]} />
-            ) : (
-              <div style={style}>{JSON.stringify(fullPage[index])}</div>
-            )
-          }}
+          {({ index, style }) => (
+            <Word isGlossary={isGlossary} style={style} item={fullPage[index]} />
+          )}
         </List>
       </main>
     </>
@@ -230,14 +231,14 @@ export async function getStaticProps({
     name: string
   }
 }) {
-  const [category, name] = params.name.split('-') || []
-  const fullPage = getFullPage(category, name)
+  const [sectionType, name] = params.name.split('-') || []
+  const fullPage = getFullPage(sectionType as SectionType, name)
   return {
     props: {
       menu,
       fullPage,
       info: {
-        category,
+        category: sectionType,
         name,
       },
     },

@@ -1,5 +1,4 @@
 import { css } from '@linaria/core'
-import breakpoints from './breakpoints'
 
 export const globalStyles = css`
   :global() {
@@ -64,19 +63,6 @@ export const globalStyles = css`
 
       /* Menu on mobile devices */
       --menu-icon-bg-color: var(--octo-fill);
-    }
-
-    .content {
-      display: flex;
-      flex-direction: column;
-      padding-bottom: 100px;
-      margin: 0 auto;
-    }
-
-    #__next {
-      width: 90%;
-      margin: 0 auto;
-      padding-top: 3%;
     }
   }
 `
