@@ -2413,6 +2413,17 @@
 					"reference": ""
 				},
 				{
+					"word": "domain",
+					"origin": [
+						"/audios/domain.mp3"
+					],
+					"phonetics": [
+						"[doʊˈmeɪn]",
+						"[dəˈmeɪn]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "drawer",
 					"origin": [
 						"/audios/drawer.mp3"
@@ -4205,6 +4216,17 @@
 					"reference": ""
 				},
 				{
+					"word": "tutorial",
+					"origin": [
+						"/audios/tutorial.mp3"
+					],
+					"phonetics": [
+						"[tuːˈtɔːriəl]",
+						"[tjuːˈtɔːriəl]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "typecast",
 					"origin": [
 						"/audios/typecast.mp3"
@@ -4607,6 +4629,17 @@
 					],
 					"phonetics": [
 						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Electron",
+					"origin": [
+						"/audios/Electron.mp3"
+					],
+					"phonetics": [
+						"[ɪˈlektrɑːn]",
+						"[ɪˈlektrɒn]"
 					],
 					"reference": ""
 				},
@@ -5792,6 +5825,48 @@
 			"type": "presentation",
 			"content": [
 				{
+					"word": "absent",
+					"origin": [
+						"/audios/absent.mp3"
+					],
+					"phonetics": [
+						"[ˈæbsənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "frozen",
+					"origin": [
+						"/audios/frozen.mp3"
+					],
+					"phonetics": [
+						"[ˈfroʊz(ə)n]",
+						"[ˈfrəʊz(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "laggy",
+					"origin": [
+						"/audios/laggy.mp3"
+					],
+					"phonetics": [
+						"[ˈlæɡi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "participant",
+					"origin": [
+						"/audios/participant.mp3"
+					],
+					"phonetics": [
+						"[pɑːrˈtɪsɪpənt]",
+						"[pɑːˈtɪsɪpənt]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "present",
 					"origin": [
 						"/audios/present.mp3"
@@ -6352,7 +6427,7 @@
 	],
 	"expression": [
 		{
-			"type": "general",
+			"type": "algorithm",
 			"content": [
 				{
 					"sentence": "two plus one",

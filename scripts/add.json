@@ -139,6 +139,7 @@
     {
       "type": "engineering",
       "content": [
+        "tutorial",
         "domain",
         "artifact",
         "piece",
@@ -415,6 +416,7 @@
     {
       "type": "terms",
       "content": [
+        "Electron",
         "Brew",
         "Silicon",
         "Valley",
@@ -563,7 +565,7 @@
     },
     {
       "type": "presentation",
-      "content": ["present", "represented", "wrapping"]
+      "content": ["present", "represented", "wrapping", "absent", "participant", "laggy", "frozen"]
     },
     {
       "type": "employment",
@@ -618,6 +620,17 @@
         "pursue",
         "permanent",
         "sincere"
+      ]
+    }
+  ],
+  "expression": [
+    {
+      "type": "algorithm",
+      "content": [
+        {
+          "sentence": "two plus one",
+          "explanation": "2 + 1"
+        }
       ]
     }
   ]

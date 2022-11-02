@@ -78,6 +78,8 @@ addContent?.glossary?.forEach((category) => {
   })
 })
 
+database.expression = addContent.expression
+
 Promise.all(promises).then(() => {
   fs.writeFileSync(
     './libs/database.json',
