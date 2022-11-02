@@ -6559,13 +6559,19 @@
 					"sentence": "My network went down just now. Can you repeat that?"
 				},
 				{
-					"sentence": "Let's wait more three minutes for the others to join."
+					"sentence": "Let's wait three more minutes for the others to join."
 				},
 				{
 					"sentence": "My browser is frozen."
 				},
 				{
 					"sentence": "Could you please let next presenter demo first and come back to me later?"
+				},
+				{
+					"sentence": "I can see it clearly. Do you mind zooming in a little bit?"
+				},
+				{
+					"sentence": "I have to drop off now. I will catch up with you later."
 				}
 			]
 		}
