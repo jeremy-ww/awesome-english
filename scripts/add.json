@@ -625,11 +625,128 @@
   ],
   "expression": [
     {
+      "type": "general",
+      "content": []
+    },
+    {
+      "type": "engineering",
+      "content": [
+        {
+          "sentence": "forward slash",
+          "explanation": "/"
+        },
+        {
+          "sentence": "backslash",
+          "explanation": "\\"
+        },
+        {
+          "sentence": "less than sign",
+          "explanation": "<"
+        },
+        {
+          "sentence": "greater than sign",
+          "explanation": ">"
+        },
+        {
+          "sentence": "question mark",
+          "explanation": "?"
+        },
+        {
+          "sentence": "exclamation mark",
+          "explanation": "!"
+        },
+        {
+          "sentence": "square brackets",
+          "explanation": "[]"
+        }
+      ]
+    },
+    {
       "type": "algorithm",
       "content": [
         {
-          "sentence": "two plus one",
-          "explanation": "2 + 1"
+          "sentence": "2 + 1",
+          "explanation": "two plus one"
+        },
+        {
+          "sentence": "2 % 10",
+          "explanation": "TBD"
+        },
+        {
+          "sentence": "2 - 1",
+          "explanation": "two minus one / subtract 2 from 1"
+        },
+        {
+          "sentence": "2 * 1",
+          "explanation": "two times one"
+        },
+        {
+          "sentence": "4 / 2",
+          "explanation": "four divided by two"
+        },
+        {
+          "sentence": "O(1)",
+          "explanation": "Big O of one"
+        },
+        {
+          "sentence": "O(lg(n))",
+          "explanation": "Big O of log n"
+        },
+        {
+          "sentence": "O(n^2)",
+          "explanation": "Big O of n squared (quadratic)"
+        },
+        {
+          "sentence": "O(n^3)",
+          "explanation": "Big O of n cubed"
+        },
+        {
+          "sentence": "O(m+n)",
+          "explanation": "Big O of m plus n"
+        },
+        {
+          "sentence": "O(n * sqrt(n))",
+          "explanation": "Big O of n (times) square root of n"
+        },
+        {
+          "sentence": "O(n * lg(n))",
+          "explanation": "Big O of n (times) log n"
+        },
+        {
+          "sentence": "O(ln(n))",
+          "explanation": "Big O of natural log of n"
+        },
+        {
+          "sentence": "O(1/n)",
+          "explanation": "Big O of 1 over n"
+        },
+        {
+          "sentence": "4^2",
+          "explanation": "4 to the power of 2"
+        },
+        {
+          "sentence": "2^5",
+          "explanation": "2 to the 5th power"
+        }
+      ]
+    },
+    {
+      "type": "presentation",
+      "content": [
+        {
+          "sentence": "You are breaking up."
+        },
+        {
+          "sentence": "I did't catch that."
+        },
+        {
+          "sentence": "I didn't follow."
+        },
+        {
+          "sentence": "My network went down just now. Can you repeat that?"
+        },
+        {
+          "sentence": "Let's wait more three minutes for the others to join."
         }
       ]
     }
