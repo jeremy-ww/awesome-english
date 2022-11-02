@@ -5877,6 +5877,17 @@
 					"reference": ""
 				},
 				{
+					"word": "presenter",
+					"origin": [
+						"/audios/presenter.mp3"
+					],
+					"phonetics": [
+						"[prɪˈzentər]",
+						"[prɪˈzentə(r)]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "represented",
 					"origin": [
 						"/audios/represented.mp3"
@@ -6546,6 +6557,15 @@
 				},
 				{
 					"sentence": "My network went down just now. Can you repeat that?"
+				},
+				{
+					"sentence": "Let's wait more three minutes for the others to join."
+				},
+				{
+					"sentence": "My browser is frozen."
+				},
+				{
+					"sentence": "Could you please let next presenter demo first and come back to me later?"
 				}
 			]
 		}

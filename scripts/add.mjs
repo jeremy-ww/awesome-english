@@ -2,7 +2,8 @@ import axios from 'axios'
 import fs from 'fs'
 import prettier from 'prettier'
 import database from '../libs/database.json' assert { type: 'json' }
-import addContent from './add.json' assert { type: 'json' }
+import addedGlossary from './glossary.json' assert { type: 'json' }
+import addedExpression from './expression.json' assert { type: 'json' }
 import _ from 'lodash'
 import https from 'https'
 
@@ -72,13 +73,13 @@ async function get(type, word) {
 
 const promises = []
 
-addContent?.glossary?.forEach((category) => {
+addedGlossary.forEach((category) => {
   category?.content.forEach((word) => {
     promises.push(get(category.type, word))
   })
 })
 
-database.expression = addContent.expression
+database.expression = addedExpression
 
 Promise.all(promises).then(() => {
   fs.writeFileSync(
