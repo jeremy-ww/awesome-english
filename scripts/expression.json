@@ -1,7 +1,23 @@
 [
   {
     "type": "general",
-    "content": []
+    "content": [
+      {
+        "sentence": "I appreciate it."
+      },
+      {
+        "sentence": "I would be grateful"
+      },
+      {
+        "sentence": "Please accept my heartfelt thanks."
+      },
+      {
+        "sentence": "Many thanks for your kind and warm help."
+      },
+      {
+        "sentence": "Words cannot express how thankful I am."
+      }
+    ]
   },
   {
     "type": "engineering",
