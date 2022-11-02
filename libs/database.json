@@ -5835,6 +5835,16 @@
 					"reference": ""
 				},
 				{
+					"word": "blurry",
+					"origin": [
+						"/audios/blurry.mp3"
+					],
+					"phonetics": [
+						"[ˈblɜːri]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "frozen",
 					"origin": [
 						"/audios/frozen.mp3"
