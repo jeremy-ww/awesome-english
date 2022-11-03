@@ -6,9 +6,9 @@ import { paths, menu, getFullPage } from '../libs/api'
 import metadata from '../libs/metadata'
 import Case from 'case'
 import breakpoints from '../styles/breakpoints'
-import React, { useLayoutEffect, useState } from 'react'
+import React, { useLayoutEffect, useState, useEffect, useMemo } from 'react'
 import MenuIcon from '@mui/icons-material/Menu'
-import { SwipeableDrawer } from '@mui/material'
+import { SwipeableDrawer, TextField, ClickAwayListener, Button } from '@mui/material'
 import { FixedSizeList as List } from 'react-window'
 
 function Word(props: {
@@ -110,13 +110,36 @@ export default function Content({
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
   const [virtualListHight, setVirtualListHight] = useState(0)
+  const [searchWord, setSearchWord] = useState('')
+  const [isSearching, setIsSearching] = useState(false)
+
   const isGlossary = info.category === 'glossary'
+  const filterFullPage = useMemo(() => {
+    const key = isGlossary ? 'word' : 'sentence'
+    return fullPage.filter((item) => item[key]?.toLowerCase().includes(searchWord.toLowerCase()))
+  }, [fullPage, searchWord, isGlossary])
 
   useLayoutEffect(() => {
     setVirtualListHight(
       window.innerHeight -
         (/Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/.test(navigator.userAgent) ? 0 : 40),
     )
+  }, [])
+
+  useEffect(() => {
+    function handleKeyDown(e: KeyboardEvent) {
+      if (e.metaKey && e.key === 'f') {
+        e.preventDefault()
+        e.stopPropagation()
+        setIsSearching((v) => !v)
+      }
+    }
+
+    document.addEventListener('keydown', handleKeyDown)
+
+    return () => {
+      document.removeEventListener('keydown', handleKeyDown)
+    }
   }, [])
 
   return (
@@ -135,7 +158,6 @@ export default function Content({
         }}
         anchor="bottom"
         open={isDrawerOpen}
-        className={css``}
       >
         <Navbar
           onClick={() => {
@@ -149,6 +171,18 @@ export default function Content({
           `}
           menu={menu}
         />
+        <Button
+          className={css`
+            margin: 0 10px 40px 10px;
+          `}
+          onClick={() => {
+            setIsDrawerOpen(false)
+            setIsSearching(true)
+          }}
+          variant="text"
+        >
+          Search
+        </Button>
       </SwipeableDrawer>
 
       <Navbar
@@ -214,9 +248,46 @@ export default function Content({
           }
         `}
       >
-        <List key={info.name} height={virtualListHight} itemCount={fullPage.length} itemSize={81}>
+        <aside>
+          {isSearching && (
+            <ClickAwayListener
+              onClickAway={() => {
+                setSearchWord('')
+                setIsSearching(false)
+              }}
+            >
+              <TextField
+                label="Search word by it's name"
+                placeholder="Click Cmd + F to exit searching mode."
+                variant="standard"
+                className={css`
+                  max-width: 1000px;
+                `}
+                fullWidth
+                onChange={(event) => {
+                  setSearchWord(event.target.value)
+                }}
+                onKeyDown={(event) => {
+                  if (event.key === 'Enter') {
+                    setSearchWord('')
+                    setIsSearching(false)
+                  }
+                }}
+                // eslint-disable-next-line jsx-a11y/no-autofocus
+                autoFocus
+              />
+            </ClickAwayListener>
+          )}
+        </aside>
+
+        <List
+          key={info.name}
+          height={virtualListHight}
+          itemCount={filterFullPage.length}
+          itemSize={81}
+        >
           {({ index, style }) => (
-            <Word isGlossary={isGlossary} style={style} item={fullPage[index]} />
+            <Word isGlossary={isGlossary} style={style} item={filterFullPage[index]} />
           )}
         </List>
       </main>
