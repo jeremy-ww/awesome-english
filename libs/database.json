@@ -3958,12 +3958,32 @@
 					"reference": ""
 				},
 				{
+					"word": "sequence",
+					"origin": [
+						"/audios/sequence.mp3"
+					],
+					"phonetics": [
+						"[ˈsiːkwəns]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "sequential",
 					"origin": [
 						"/audios/sequential.mp3"
 					],
 					"phonetics": [
 						"[sɪˈkwenʃ(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "sequentially",
+					"origin": [
+						"/audios/sequentially.mp3"
+					],
+					"phonetics": [
+						"[sɪˈkwenʃəli]"
 					],
 					"reference": ""
 				},
@@ -6653,6 +6673,12 @@
 				},
 				{
 					"sentence": "render-blocking"
+				},
+				{
+					"sentence": "In sequence"
+				},
+				{
+					"sentence": "In parallel"
 				},
 				{
 					"sentence": "These HTTP request runs concurrently"

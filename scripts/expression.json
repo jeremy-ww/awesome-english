@@ -60,6 +60,12 @@
         "sentence": "render-blocking"
       },
       {
+        "sentence": "In sequence"
+      },
+      {
+        "sentence": "In parallel"
+      },
+      {
         "sentence": "These HTTP request runs concurrently"
       },
       {

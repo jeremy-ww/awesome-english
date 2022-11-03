@@ -140,6 +140,8 @@
   {
     "type": "engineering",
     "content": [
+      "sequentially",
+      "sequence",
       "concurrency",
       "sequential",
       "implementation",
