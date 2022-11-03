@@ -258,6 +258,17 @@
 					"reference": ""
 				},
 				{
+					"word": "chaos",
+					"origin": [
+						"/audios/chaos.mp3"
+					],
+					"phonetics": [
+						"[ˈkeɪɑːs]",
+						"[ˈkeɪɒs]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "circumstance",
 					"origin": [
 						"/audios/circumstance.mp3"
@@ -1108,6 +1119,17 @@
 					],
 					"phonetics": [
 						"[reɪndʒ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "rare",
+					"origin": [
+						"/audios/rare.mp3"
+					],
+					"phonetics": [
+						"[rer]",
+						"[reə(r)]"
 					],
 					"reference": ""
 				},
@@ -2212,6 +2234,17 @@
 					"reference": ""
 				},
 				{
+					"word": "concurrently",
+					"origin": [
+						"/audios/concurrently.mp3"
+					],
+					"phonetics": [
+						"[kənˈkɜːrəntli]",
+						"[kənˈkʌrəntli]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "configurable",
 					"origin": [
 						"/audios/configurable.mp3"
@@ -2398,6 +2431,16 @@
 					"phonetics": [
 						"[dɪˈlɪmɪtər]",
 						"[dɪˈlɪmɪtə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "deprecated",
+					"origin": [
+						"/audios/deprecated.mp3"
+					],
+					"phonetics": [
+						"[ˈdeprəkeɪtɪd]"
 					],
 					"reference": ""
 				},
@@ -2827,6 +2870,16 @@
 					],
 					"phonetics": [
 						"[ˈɪmplɪment]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "implementation",
+					"origin": [
+						"/audios/implementation.mp3"
+					],
+					"phonetics": [
+						"[ˌɪmplɪmenˈteɪʃ(ə)n]"
 					],
 					"reference": ""
 				},
@@ -3890,6 +3943,16 @@
 					"phonetics": [
 						"[ˈsemikoʊlən]",
 						"[ˌsemiˈkəʊlən; ˌsemiˈkəʊlɒn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "sequential",
+					"origin": [
+						"/audios/sequential.mp3"
+					],
+					"phonetics": [
+						"[sɪˈkwenʃ(ə)l]"
 					],
 					"reference": ""
 				},
@@ -5418,6 +5481,17 @@
 					"reference": ""
 				},
 				{
+					"word": "characters",
+					"origin": [
+						"/audios/characters.mp3"
+					],
+					"phonetics": [
+						"[ˈkærəktərz]",
+						"[ˈkærəktəz]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "complexity",
 					"origin": [
 						"/audios/complexity.mp3"
@@ -5779,6 +5853,16 @@
 					"reference": ""
 				},
 				{
+					"word": "symmetric",
+					"origin": [
+						"/audios/symmetric.mp3"
+					],
+					"phonetics": [
+						"[sɪˈmetrɪk]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "trap",
 					"origin": [
 						"/audios/trap.mp3"
@@ -5841,6 +5925,17 @@
 					],
 					"phonetics": [
 						"[ˈblɜːri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "conference",
+					"origin": [
+						"/audios/conference.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːnfərəns]",
+						"[ˈkɒnfərəns]"
 					],
 					"reference": ""
 				},
@@ -5908,6 +6003,16 @@
 					"reference": ""
 				},
 				{
+					"word": "slides",
+					"origin": [
+						"/audios/slides.mp3"
+					],
+					"phonetics": [
+						"[slaɪdz]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "wrapping",
 					"origin": [
 						"/audios/wrapping.mp3"
@@ -5930,6 +6035,16 @@
 					"phonetics": [
 						"[əˌkɑːməˈdeɪʃ(ə)n]",
 						"[əˌkɒməˈdeɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "acquisition",
+					"origin": [
+						"/audios/acquisition.mp3"
+					],
+					"phonetics": [
+						"[ˌækwɪˈzɪʃ(ə)n]"
 					],
 					"reference": ""
 				},
@@ -6053,6 +6168,16 @@
 					"phonetics": [
 						"[ˈkɑːntrækt]",
 						"[ˈkɒntrækt; kənˈtrækt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "decline",
+					"origin": [
+						"/audios/decline.mp3"
+					],
+					"phonetics": [
+						"[dɪˈklaɪn]"
 					],
 					"reference": ""
 				},
@@ -6497,6 +6622,21 @@
 				{
 					"sentence": "square brackets",
 					"explanation": "[]"
+				},
+				{
+					"sentence": "asynchronous event"
+				},
+				{
+					"sentence": "blocking operation"
+				},
+				{
+					"sentence": "render-blocking"
+				},
+				{
+					"sentence": "These HTTP request runs concurrently"
+				},
+				{
+					"sentence": "These HTTP request runs sequentially"
 				}
 			]
 		},

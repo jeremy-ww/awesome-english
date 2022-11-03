@@ -2,6 +2,8 @@
   {
     "type": "general",
     "content": [
+      "rare",
+      "chaos",
       "exhausted",
       "depressed",
       "criticism",
@@ -138,6 +140,10 @@
   {
     "type": "engineering",
     "content": [
+      "sequential",
+      "implementation",
+      "deprecated",
+      "concurrently",
       "tutorial",
       "domain",
       "artifact",
@@ -178,7 +184,6 @@
       "swiper",
       "snippet",
       "shuffle",
-      "symmetric",
       "stub",
       "swipe",
       "swap",
@@ -520,6 +525,8 @@
   {
     "type": "algorithm",
     "content": [
+      "characters",
+      "symmetric",
       "trap",
       "quadratic",
       "pseudocode",
@@ -574,12 +581,15 @@
       "frozen",
       "presenter",
       "blurry",
-      "conference"
+      "conference",
+      "slides"
     ]
   },
   {
     "type": "employment",
     "content": [
+      "decline",
+      "acquisition",
       "pity",
       "profit",
       "headquarters",

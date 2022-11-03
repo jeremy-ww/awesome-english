@@ -49,6 +49,21 @@
       {
         "sentence": "square brackets",
         "explanation": "[]"
+      },
+      {
+        "sentence": "asynchronous event"
+      },
+      {
+        "sentence": "blocking operation"
+      },
+      {
+        "sentence": "render-blocking"
+      },
+      {
+        "sentence": "These HTTP request runs concurrently"
+      },
+      {
+        "sentence": "These HTTP request runs sequentially"
       }
     ]
   },
