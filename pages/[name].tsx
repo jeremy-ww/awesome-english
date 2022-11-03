@@ -257,7 +257,7 @@ export default function Content({
               }}
             >
               <TextField
-                label="Search word by it's name"
+                label="Search words by their names"
                 placeholder="Type Cmd + F or Press Enter to exit searching mode."
                 variant="standard"
                 className={css`
