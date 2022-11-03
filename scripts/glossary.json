@@ -250,7 +250,6 @@
       "beacon",
       "badge",
       "breadcrumb",
-      "babel",
       "bind",
       "bug",
       "creation",
@@ -423,6 +422,7 @@
   {
     "type": "terms",
     "content": [
+      "Babel",
       "Electron",
       "Brew",
       "Silicon",
