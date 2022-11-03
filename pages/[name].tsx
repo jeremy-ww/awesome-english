@@ -258,7 +258,7 @@ export default function Content({
             >
               <TextField
                 label="Search word by it's name"
-                placeholder="Click Cmd + F to exit searching mode."
+                placeholder="Type Cmd + F or Press Enter to exit searching mode."
                 variant="standard"
                 className={css`
                   max-width: 1000px;
