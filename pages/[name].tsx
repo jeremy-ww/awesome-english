@@ -99,6 +99,12 @@ function Word(props: {
   )
 }
 
+export interface Info {
+  dataLength: number
+  category: string
+  name: string
+}
+
 export default function Content({
   menu,
   fullPage,
@@ -106,7 +112,7 @@ export default function Content({
 }: {
   menu: Menu
   fullPage: GlossaryItem[]
-  info: { dataLength: number; category: string; name: string }
+  info: Info
 }) {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false)
   const [virtualListHight, setVirtualListHight] = useState(0)
@@ -159,6 +165,15 @@ export default function Content({
         anchor="bottom"
         open={isDrawerOpen}
       >
+        <div
+          className={css`
+            width: 30px;
+            height: 6px;
+            background-color: rgb(224, 224, 224);
+            border-radius: 3px;
+            margin: 10px auto;
+          `}
+        ></div>
         <Navbar
           onClick={() => {
             setIsDrawerOpen(false)
@@ -168,21 +183,14 @@ export default function Content({
 
             padding: 10px;
             width: 100%;
+            padding-top: 0;
+
+            h3:first-of-type {
+              margin-top: 20px;
+            }
           `}
           menu={menu}
         />
-        <Button
-          className={css`
-            margin: 0 10px 40px 10px;
-          `}
-          onClick={() => {
-            setIsDrawerOpen(false)
-            setIsSearching(true)
-          }}
-          variant="text"
-        >
-          Search
-        </Button>
       </SwipeableDrawer>
 
       <Navbar
