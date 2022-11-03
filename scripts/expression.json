@@ -64,6 +64,16 @@
       },
       {
         "sentence": "These HTTP request runs sequentially"
+      },
+      {
+        "sentence": "sequential HTTP requests"
+      },
+      {
+        "sentence": "concurrent HTTP requests"
+      },
+      {
+        "sentence": "parallel HTTP requests",
+        "explanation": "There is a slight difference between concurrent and parallel. Refer to: https://gist.github.com/montanaflynn/cb349fd109b561c35d6c8500471cdb39"
       }
     ]
   },
