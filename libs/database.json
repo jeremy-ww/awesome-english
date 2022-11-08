@@ -2172,6 +2172,12 @@
 					"reference": ""
 				},
 				{
+					"word": "rapidly",
+					"origin": ["/audios/rapidly.mp3"],
+					"phonetics": ["[ˈræpɪdli]"],
+					"reference": ""
+				},
+				{
 					"word": "reject",
 					"origin": ["/audios/reject.mp3"],
 					"phonetics": ["[rɪˈdʒekt]"],
