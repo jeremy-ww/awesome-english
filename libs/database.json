@@ -2069,7 +2069,12 @@
 					"phonetics": ["[ˈplʊrəl]", "[ˈplʊərəl]"],
 					"reference": ""
 				},
-				{ "word": "pod", "origin": ["/audios/pod.mp3"], "phonetics": ["[TBD]"], "reference": "" },
+				{
+					"word": "pod",
+					"origin": ["/audios/pod.mp3"],
+					"phonetics": ["[pɑːd]", "[pɒd]"],
+					"reference": ""
+				},
 				{
 					"word": "polish",
 					"origin": ["/audios/polish.mp3"],
