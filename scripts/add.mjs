@@ -82,13 +82,5 @@ addedGlossary.forEach((category) => {
 database.expression = addedExpression
 
 Promise.all(promises).then(() => {
-  fs.writeFileSync(
-    './libs/database.json',
-    prettier.format(JSON.stringify(database), {
-      useTabs: true,
-      tabWidth: 2,
-      parser: 'json',
-      printWidth: 30,
-    }),
-  )
+  fs.writeFileSync('./libs/database.json', prettier.format(JSON.stringify(database), {}))
 })
