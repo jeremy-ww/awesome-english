@@ -1619,19 +1619,19 @@
         {
           "word": "hover",
           "origin": ["/audios/hover.mp3"],
-          "phonetics": ["[TBD]"],
+          "phonetics": ["[ˈhʌvər]", "[ˈhɒvə(r)]"],
           "reference": ""
         },
         {
           "word": "href",
           "origin": ["/audios/href.mp3"],
-          "phonetics": ["[TBD]"],
+          "phonetics": ["H ref"],
           "reference": ""
         },
         {
           "word": "hyper",
           "origin": ["/audios/hyper.mp3"],
-          "phonetics": ["[TBD]"],
+          "phonetics": ["[ˈhaɪpər]", "[ˈhaɪpə(r)]"],
           "reference": ""
         },
         {
