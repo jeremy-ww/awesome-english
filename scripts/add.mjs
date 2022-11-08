@@ -86,6 +86,7 @@ Promise.all(promises).then(() => {
     './libs/database.json',
     prettier.format(JSON.stringify(database), {
       useTabs: true,
+      tabWidth: 2,
       parser: 'json',
       printWidth: 30,
     }),
