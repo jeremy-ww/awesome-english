@@ -2,6 +2,7 @@
   {
     "type": "general",
     "content": [
+      "nasty",
       "rare",
       "chaos",
       "exhausted",
@@ -140,6 +141,13 @@
   {
     "type": "engineering",
     "content": [
+      "completions",
+      "reliability",
+      "stretch",
+      "mustache",
+      "problematic",
+      "prerequisites",
+      "slices",
       "sequentially",
       "sequence",
       "concurrency",
@@ -422,6 +430,8 @@
   {
     "type": "terms",
     "content": [
+      "Vercel",
+      "Evan You",
       "Babel",
       "Electron",
       "Brew",
@@ -591,6 +601,9 @@
   {
     "type": "employment",
     "content": [
+      "workaholic",
+      "entitlement",
+      "relieve",
       "subsidiary",
       "decline",
       "acquisition",

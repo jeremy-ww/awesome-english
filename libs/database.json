@@ -3,889 +3,1556 @@
 		{
 			"type": "general",
 			"content": [
-        {
-          "word": "accepts",
-          "origin": ["/audios/accepts.mp3"],
-          "phonetics": ["[əkˈsepts]"],
-          "reference": ""
-        },
-        {
-          "word": "accurate",
-          "origin": ["/audios/accurate.mp3"],
-          "phonetics": ["[ˈækjərət]"],
-          "reference": ""
-        },
-        {
-          "word": "action",
-          "origin": ["/audios/action.mp3"],
-          "phonetics": ["[ˈækʃ(ə)n]"],
-          "reference": ""
-        },
-        {
-          "word": "adapt",
-          "origin": ["/audios/adapt.mp3"],
-          "phonetics": ["[əˈdæpt]"],
-          "reference": ""
-        },
-        {
-          "word": "adaptable",
-          "origin": ["/audios/adaptable.mp3"],
-          "phonetics": ["[əˈdæptəb(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "adjust",
-          "origin": ["/audios/adjust.mp3"],
-          "phonetics": ["[əˈdʒʌst]"],
-          "reference": ""
-        },
-        {
-          "word": "adopt",
-          "origin": ["/audios/adopt.mp3"],
-          "phonetics": ["[əˈdɑːpt]", "[əˈdɒpt]"],
-          "reference": ""
-        },
-        {
-          "word": "agency",
-          "origin": ["/audios/agency.mp3"],
-          "phonetics": ["[ˈeɪdʒənsi]"],
-          "reference": ""
-        },
-        {
-          "word": "alternative",
-          "origin": ["/audios/alternative.mp3"],
-          "phonetics": ["[ɔːlˈtɜːrnətɪv]", "[ɔːlˈtɜːnətɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "annual",
-          "origin": ["/audios/annual.mp3"],
-          "phonetics": ["[ˈænjuəl]"],
-          "reference": ""
-        },
-        {
-          "word": "anticipate",
-          "origin": ["/audios/anticipate.mp3"],
-          "phonetics": ["[ænˈtɪsɪpeɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "apologize",
-          "origin": ["/audios/apologize.mp3"],
-          "phonetics": ["[əˈpɑːlədʒaɪz]", "[əˈpɒlədʒaɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "applicable",
-          "origin": ["/audios/applicable.mp3"],
-          "phonetics": ["[ˈæplɪkəb(ə)l]", "[əˈplɪkəb(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "approval",
-          "origin": ["/audios/approval.mp3"],
-          "phonetics": ["[əˈpruːv(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "aspects",
-          "origin": ["/audios/aspects.mp3"],
-          "phonetics": ["[ˈæspekts]"],
-          "reference": ""
-        },
-        {
-          "word": "attentive",
-          "origin": ["/audios/attentive.mp3"],
-          "phonetics": ["[əˈtentɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "attribution",
-          "origin": ["/audios/attribution.mp3"],
-          "phonetics": ["[ˌætrɪˈbjuːʃn]"],
-          "reference": ""
-        },
-        {
-          "word": "availability",
-          "origin": ["/audios/availability.mp3"],
-          "phonetics": ["[əˌveɪləˈbɪləti]"],
-          "reference": ""
-        },
-        {
-          "word": "beforehand",
-          "origin": ["/audios/beforehand.mp3"],
-          "phonetics": ["[bɪˈfɔːrhænd]"],
-          "reference": ""
-        },
-        {
-          "word": "behavioral",
-          "origin": ["/audios/behavioral.mp3"],
-          "phonetics": ["[bɪˈheɪvjərəl]"],
-          "reference": ""
-        },
-        {
-          "word": "billion",
-          "origin": ["/audios/billion.mp3"],
-          "phonetics": ["[ˈbɪljən]"],
-          "reference": ""
-        },
-        {
-          "word": "brief",
-          "origin": ["/audios/brief.mp3"],
-          "phonetics": ["[briːf]"],
-          "reference": ""
-        },
-        {
-          "word": "capability",
-          "origin": ["/audios/capability.mp3"],
-          "phonetics": ["[ˌkeɪpəˈbɪləti]"],
-          "reference": ""
-        },
-        {
-          "word": "capacity",
-          "origin": ["/audios/capacity.mp3"],
-          "phonetics": ["[kəˈpæsəti]"],
-          "reference": ""
-        },
-        {
-          "word": "certificate",
-          "origin": ["/audios/certificate.mp3"],
-          "phonetics": ["[sərˈtɪfɪkət]"],
-          "reference": ""
-        },
-        {
-          "word": "chaos",
-          "origin": ["/audios/chaos.mp3"],
-          "phonetics": ["[ˈkeɪɑːs]", "[ˈkeɪɒs]"],
-          "reference": ""
-        },
-        {
-          "word": "circumstance",
-          "origin": ["/audios/circumstance.mp3"],
-          "phonetics": ["[ˈsɜːrkəmstæns]", "[ˈsɜːkəmstəns]"],
-          "reference": ""
-        },
-        {
-          "word": "collaborative",
-          "origin": ["/audios/collaborative.mp3"],
-          "phonetics": ["[kəˈlæbəreɪtɪv]", "[kəˈlæbərətɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "colleague",
-          "origin": ["/audios/colleague.mp3"],
-          "phonetics": ["[ˈkɑːliːɡ]", "[ˈkɒliːɡ]"],
-          "reference": ""
-        },
-        {
-          "word": "college",
-          "origin": ["/audios/college.mp3"],
-          "phonetics": ["[ˈkɑːlɪdʒ]", "[ˈkɒlɪdʒ]"],
-          "reference": ""
-        },
-        {
-          "word": "commerce",
-          "origin": ["/audios/commerce.mp3"],
-          "phonetics": ["[ˈkɑːmɜːrs]", "[ˈkɒmɜːs]"],
-          "reference": ""
-        },
-        {
-          "word": "complement",
-          "origin": ["/audios/complement.mp3"],
-          "phonetics": ["[ˈkɑːmplɪment]", "[ˈkɒmplɪment]"],
-          "reference": ""
-        },
-        {
-          "word": "compliance",
-          "origin": ["/audios/compliance.mp3"],
-          "phonetics": ["[kəmˈplaɪəns]"],
-          "reference": ""
-        },
-        {
-          "word": "comprehensive",
-          "origin": ["/audios/comprehensive.mp3"],
-          "phonetics": ["[ˌkɑːmprɪˈhensɪv]", "[ˌkɒmprɪˈhensɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "concept",
-          "origin": ["/audios/concept.mp3"],
-          "phonetics": ["[ˈkɑːnsept]", "[ˈkɒnsept]"],
-          "reference": ""
-        },
-        {
-          "word": "consolidate",
-          "origin": ["/audios/consolidate.mp3"],
-          "phonetics": ["[kənˈsɑːlɪdeɪt]", "[kənˈsɒlɪdeɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "convince",
-          "origin": ["/audios/convince.mp3"],
-          "phonetics": ["[kənˈvɪns]"],
-          "reference": ""
-        },
-        {
-          "word": "criteria",
-          "origin": ["/audios/criteria.mp3"],
-          "phonetics": ["[kraɪˈtɪriə]", "[kraɪˈtɪəriə]"],
-          "reference": ""
-        },
-        {
-          "word": "criticism",
-          "origin": ["/audios/criticism.mp3"],
-          "phonetics": ["[ˈkrɪtɪsɪzəm]"],
-          "reference": ""
-        },
-        {
-          "word": "currency",
-          "origin": ["/audios/currency.mp3"],
-          "phonetics": ["[ˈkɜːrənsi]", "[ˈkʌrənsi]"],
-          "reference": ""
-        },
-        {
-          "word": "debt",
-          "origin": ["/audios/debt.mp3"],
-          "phonetics": ["[det]"],
-          "reference": ""
-        },
-        {
-          "word": "demand",
-          "origin": ["/audios/demand.mp3"],
-          "phonetics": ["[dɪˈmænd]", "[dɪˈmɑːnd]"],
-          "reference": ""
-        },
-        {
-          "word": "demonstrate",
-          "origin": ["/audios/demonstrate.mp3"],
-          "phonetics": ["[ˈdemənstreɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "denote",
-          "origin": ["/audios/denote.mp3"],
-          "phonetics": ["[dɪˈnoʊt]", "[dɪˈnəʊt]"],
-          "reference": ""
-        },
-        {
-          "word": "depressed",
-          "origin": ["/audios/depressed.mp3"],
-          "phonetics": ["[dɪˈprest]"],
-          "reference": ""
-        },
-        {
-          "word": "deprioritize",
-          "origin": ["/audios/deprioritize.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "determined",
-          "origin": ["/audios/determined.mp3"],
-          "phonetics": ["[dɪˈtɜːrmɪnd]", "[dɪˈtɜːmɪnd]"],
-          "reference": ""
-        },
-        {
-          "word": "disability",
-          "origin": ["/audios/disability.mp3"],
-          "phonetics": ["[ˌdɪsəˈbɪləti]"],
-          "reference": ""
-        },
-        {
-          "word": "doc",
-          "origin": ["/audios/doc.mp3"],
-          "phonetics": ["[dɑːk]", "[dɒk]"],
-          "reference": ""
-        },
-        {
-          "word": "dual",
-          "origin": ["/audios/dual.mp3"],
-          "phonetics": ["[ˈduːəl]", "[ˈdjuːəl]"],
-          "reference": ""
-        },
-        {
-          "word": "due",
-          "origin": ["/audios/due.mp3"],
-          "phonetics": ["[duː]", "[djuː]"],
-          "reference": ""
-        },
-        {
-          "word": "emoji",
-          "origin": ["/audios/emoji.mp3"],
-          "phonetics": ["[ɪˈmoʊdʒi]", "[ɪˈməʊdʒi]"],
-          "reference": ""
-        },
-        {
-          "word": "emphasize",
-          "origin": ["/audios/emphasize.mp3"],
-          "phonetics": ["[ˈemfəsaɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "encounter",
-          "origin": ["/audios/encounter.mp3"],
-          "phonetics": ["[ɪnˈkaʊntər]", "[ɪnˈkaʊntə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "etc",
-          "origin": ["/audios/etc.mp3"],
-          "phonetics": ["[ˌet ˈsetərə; ˌɪt ˈsetərə]"],
-          "reference": ""
-        },
-        {
-          "word": "ethics",
-          "origin": ["/audios/ethics.mp3"],
-          "phonetics": ["[ˈeθɪks]"],
-          "reference": ""
-        },
-        {
-          "word": "eureka",
-          "origin": ["/audios/eureka.mp3"],
-          "phonetics": ["[juˈriːkə]"],
-          "reference": ""
-        },
-        {
-          "word": "evolved",
-          "origin": ["/audios/evolved.mp3"],
-          "phonetics": ["[ɪˈvɑːlvd]", "[ɪˈvɒlvd]"],
-          "reference": ""
-        },
-        {
-          "word": "exhausted",
-          "origin": ["/audios/exhausted.mp3"],
-          "phonetics": ["[ɪɡˈzɔːstɪd]"],
-          "reference": ""
-        },
-        {
-          "word": "exist",
-          "origin": ["/audios/exist.mp3"],
-          "phonetics": ["[ɪɡˈzɪst]"],
-          "reference": ""
-        },
-        {
-          "word": "experimental",
-          "origin": ["/audios/experimental.mp3"],
-          "phonetics": ["[ɪkˌsperɪˈment(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "explanation",
-          "origin": ["/audios/explanation.mp3"],
-          "phonetics": ["[ˌekspləˈneɪʃ(ə)n]"],
-          "reference": ""
-        },
-        {
-          "word": "foreign",
-          "origin": ["/audios/foreign.mp3"],
-          "phonetics": ["[ˈfɔːrən]", "[ˈfɒrən]"],
-          "reference": ""
-        },
-        {
-          "word": "formality",
-          "origin": ["/audios/formality.mp3"],
-          "phonetics": ["[fɔːrˈmæləti]"],
-          "reference": ""
-        },
-        {
-          "word": "forum",
-          "origin": ["/audios/forum.mp3"],
-          "phonetics": ["[ˈfɔːrəm]"],
-          "reference": ""
-        },
-        {
-          "word": "glossary",
-          "origin": ["/audios/glossary.mp3"],
-          "phonetics": ["[ˈɡlɑːsəri]", "[ˈɡlɒsəri]"],
-          "reference": ""
-        },
-        {
-          "word": "gorgeous",
-          "origin": ["/audios/gorgeous.mp3"],
-          "phonetics": ["[ˈɡɔːrdʒəs]", "[ˈɡɔːdʒəs]"],
-          "reference": ""
-        },
-        {
-          "word": "grads",
-          "origin": ["/audios/grads.mp3"],
-          "phonetics": ["[ɡrædz]"],
-          "reference": ""
-        },
-        {
-          "word": "hassle",
-          "origin": ["/audios/hassle.mp3"],
-          "phonetics": ["[ˈhæs(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "hesitate",
-          "origin": ["/audios/hesitate.mp3"],
-          "phonetics": ["[ˈhezɪteɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "historically",
-          "origin": ["/audios/historically.mp3"],
-          "phonetics": ["[hɪˈstɔːrɪkli]", "[hɪˈstɒrɪkli]"],
-          "reference": ""
-        },
-        {
-          "word": "instrument",
-          "origin": ["/audios/instrument.mp3"],
-          "phonetics": ["[ˈɪnstrəmənt]"],
-          "reference": ""
-        },
-        {
-          "word": "invitation",
-          "origin": ["/audios/invitation.mp3"],
-          "phonetics": ["[ˌɪnvɪˈteɪʃ(ə)n]"],
-          "reference": ""
-        },
-        {
-          "word": "labor",
-          "origin": ["/audios/labor.mp3"],
-          "phonetics": ["[ˈleɪbər]", "[ˈleɪbə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "merchant",
-          "origin": ["/audios/merchant.mp3"],
-          "phonetics": ["[ˈmɜːrtʃənt]", "[ˈmɜːtʃənt]"],
-          "reference": ""
-        },
-        {
-          "word": "objective",
-          "origin": ["/audios/objective.mp3"],
-          "phonetics": ["[əbˈdʒektɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "obsess",
-          "origin": ["/audios/obsess.mp3"],
-          "phonetics": ["[əbˈses]"],
-          "reference": ""
-        },
-        {
-          "word": "officially",
-          "origin": ["/audios/officially.mp3"],
-          "phonetics": ["[əˈfɪʃəli]"],
-          "reference": ""
-        },
-        {
-          "word": "only",
-          "origin": ["/audios/only.mp3"],
-          "phonetics": ["[ˈoʊnli]", "[ˈəʊnli]"],
-          "reference": ""
-        },
-        {
-          "word": "participation",
-          "origin": ["/audios/participation.mp3"],
-          "phonetics": ["[pɑːrˌtɪsɪˈpeɪʃ(ə)n]", "[pɑːˌtɪsɪˈpeɪʃn]"],
-          "reference": ""
-        },
-        {
-          "word": "pause",
-          "origin": ["/audios/pause.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "performance",
-          "origin": ["/audios/performance.mp3"],
-          "phonetics": ["[pərˈfɔːrməns]", "[pəˈfɔːməns]"],
-          "reference": ""
-        },
-        {
-          "word": "period",
-          "origin": ["/audios/period.mp3"],
-          "phonetics": ["[ˈpɪriəd]", "[ˈpɪəriəd]"],
-          "reference": ""
-        },
-        {
-          "word": "permanent",
-          "origin": ["/audios/permanent.mp3"],
-          "phonetics": ["[ˈpɜːrmənənt]", "[ˈpɜːmənənt]"],
-          "reference": ""
-        },
-        {
-          "word": "phase",
-          "origin": ["/audios/phase.mp3"],
-          "phonetics": ["[feɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "phrase",
-          "origin": ["/audios/phrase.mp3"],
-          "phonetics": ["[freɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "pleasure",
-          "origin": ["/audios/pleasure.mp3"],
-          "phonetics": ["[ˈpleʒər]", "[ˈpleʒə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "postpone",
-          "origin": ["/audios/postpone.mp3"],
-          "phonetics": ["[poʊˈspoʊn]", "[pəˈspəʊn]"],
-          "reference": ""
-        },
-        {
-          "word": "potential",
-          "origin": ["/audios/potential.mp3"],
-          "phonetics": ["[pəˈtenʃ(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "practices",
-          "origin": ["/audios/practices.mp3"],
-          "phonetics": ["[ˈpræktɪsɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "precise",
-          "origin": ["/audios/precise.mp3"],
-          "phonetics": ["[prɪˈsaɪs]"],
-          "reference": ""
-        },
-        {
-          "word": "preference",
-          "origin": ["/audios/preference.mp3"],
-          "phonetics": ["[ˈprefrəns]"],
-          "reference": ""
-        },
-        {
-          "word": "prevalent",
-          "origin": ["/audios/prevalent.mp3"],
-          "phonetics": ["[ˈprevələnt]"],
-          "reference": ""
-        },
-        {
-          "word": "prioritize",
-          "origin": ["/audios/prioritize.mp3"],
-          "phonetics": ["[praɪˈɔːrətaɪz]", "[praɪˈɒrətaɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "private",
-          "origin": ["/audios/private.mp3"],
-          "phonetics": ["[ˈpraɪvət]"],
-          "reference": ""
-        },
-        {
-          "word": "procedures",
-          "origin": ["/audios/procedures.mp3"],
-          "phonetics": ["[prəˈsiːdʒərz]", "[prəˈsiːdʒəz]"],
-          "reference": ""
-        },
-        {
-          "word": "profile",
-          "origin": ["/audios/profile.mp3"],
-          "phonetics": ["[ˈproʊfaɪl]", "[ˈprəʊfaɪl]"],
-          "reference": ""
-        },
-        {
-          "word": "progress",
-          "origin": ["/audios/progress.mp3"],
-          "phonetics": ["[ˈprɑːɡres]", "[ˈprəʊɡres]"],
-          "reference": ""
-        },
-        {
-          "word": "project",
-          "origin": ["/audios/project.mp3"],
-          "phonetics": ["[ˈprɑːdʒekt]", "[ˈprɒdʒekt]"],
-          "reference": ""
-        },
-        {
-          "word": "proper",
-          "origin": ["/audios/proper.mp3"],
-          "phonetics": ["[ˈprɑːpər]", "[ˈprɒpə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "proposal",
-          "origin": ["/audios/proposal.mp3"],
-          "phonetics": ["[prəˈpoʊz(ə)l]", "[prəˈpəʊz(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "propose",
-          "origin": ["/audios/propose.mp3"],
-          "phonetics": ["[prəˈpoʊz]", "[prəˈpəʊz]"],
-          "reference": ""
-        },
-        {
-          "word": "proposed",
-          "origin": ["/audios/proposed.mp3"],
-          "phonetics": ["[prəˈpoʊzd]", "[prəˈpəʊzd]"],
-          "reference": ""
-        },
-        {
-          "word": "pursue",
-          "origin": ["/audios/pursue.mp3"],
-          "phonetics": ["[pərˈsuː]", "[pəˈsjuː]"],
-          "reference": ""
-        },
-        {
-          "word": "racism",
-          "origin": ["/audios/racism.mp3"],
-          "phonetics": ["[ˈreɪsɪzəm]"],
-          "reference": ""
-        },
-        {
-          "word": "radio",
-          "origin": ["/audios/radio.mp3"],
-          "phonetics": ["[ˈreɪdioʊ]", "[ˈreɪdiəʊ]"],
-          "reference": ""
-        },
-        {
-          "word": "range",
-          "origin": ["/audios/range.mp3"],
-          "phonetics": ["[reɪndʒ]"],
-          "reference": ""
-        },
-        {
-          "word": "rare",
-          "origin": ["/audios/rare.mp3"],
-          "phonetics": ["[rer]", "[reə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "ratio",
-          "origin": ["/audios/ratio.mp3"],
-          "phonetics": ["[ˈreɪʃioʊ]", "[ˈreɪʃiəʊ]"],
-          "reference": ""
-        },
-        {
-          "word": "recognize",
-          "origin": ["/audios/recognize.mp3"],
-          "phonetics": ["[ˈrekəɡnaɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "regret",
-          "origin": ["/audios/regret.mp3"],
-          "phonetics": ["[rɪˈɡret]"],
-          "reference": ""
-        },
-        {
-          "word": "relay",
-          "origin": ["/audios/relay.mp3"],
-          "phonetics": ["[ˈriːleɪ]"],
-          "reference": ""
-        },
-        {
-          "word": "relevant",
-          "origin": ["/audios/relevant.mp3"],
-          "phonetics": ["[ˈreləvənt]"],
-          "reference": ""
-        },
-        {
-          "word": "reset",
-          "origin": ["/audios/reset.mp3"],
-          "phonetics": ["[ˌriːˈset]"],
-          "reference": ""
-        },
-        {
-          "word": "resources",
-          "origin": ["/audios/resources.mp3"],
-          "phonetics": ["[ˈriːsɔːrsɪz]", "[rɪˈsɔːsɪz]"],
-          "reference": ""
-        },
-        {
-          "word": "robust",
-          "origin": ["/audios/robust.mp3"],
-          "phonetics": ["[roʊˈbʌst]", "[rəʊˈbʌst]"],
-          "reference": ""
-        },
-        {
-          "word": "rough",
-          "origin": ["/audios/rough.mp3"],
-          "phonetics": ["[rʌf]"],
-          "reference": ""
-        },
-        {
-          "word": "sacrifice",
-          "origin": ["/audios/sacrifice.mp3"],
-          "phonetics": ["[ˈsækrɪfaɪs]"],
-          "reference": ""
-        },
-        {
-          "word": "scenario",
-          "origin": ["/audios/scenario.mp3"],
-          "phonetics": ["[səˈnærioʊ]", "[səˈnɑːriəʊ]"],
-          "reference": ""
-        },
-        {
-          "word": "scrum",
-          "origin": ["/audios/scrum.mp3"],
-          "phonetics": ["[skrʌm]"],
-          "reference": ""
-        },
-        {
-          "word": "significant",
-          "origin": ["/audios/significant.mp3"],
-          "phonetics": ["[sɪɡˈnɪfɪkənt]"],
-          "reference": ""
-        },
-        {
-          "word": "sincere",
-          "origin": ["/audios/sincere.mp3"],
-          "phonetics": ["[sɪnˈsɪr]", "[sɪnˈsɪə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "snap",
-          "origin": ["/audios/snap.mp3"],
-          "phonetics": ["[snæp]"],
-          "reference": ""
-        },
-        {
-          "word": "solid",
-          "origin": ["/audios/solid.mp3"],
-          "phonetics": ["[ˈsɑːlɪd]"],
-          "reference": ""
-        },
-        {
-          "word": "stakeholders",
-          "origin": ["/audios/stakeholders.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "subjective",
-          "origin": ["/audios/subjective.mp3"],
-          "phonetics": ["[səbˈdʒektɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "techniques",
-          "origin": ["/audios/techniques.mp3"],
-          "phonetics": ["[tekˈniːks]"],
-          "reference": ""
-        },
-        {
-          "word": "tedious",
-          "origin": ["/audios/tedious.mp3"],
-          "phonetics": ["[ˈtiːdiəs]"],
-          "reference": ""
-        },
-        {
-          "word": "temporarily",
-          "origin": ["/audios/temporarily.mp3"],
-          "phonetics": ["[ˌtempəˈrerəli]", "[ˈtemprərəli]"],
-          "reference": ""
-        },
-        {
-          "word": "tentative",
-          "origin": ["/audios/tentative.mp3"],
-          "phonetics": ["[ˈtentətɪv]"],
-          "reference": ""
-        },
-        {
-          "word": "theoretical",
-          "origin": ["/audios/theoretical.mp3"],
-          "phonetics": ["[ˌθiːəˈretɪk(ə)l]", "[ˌθɪəˈretɪk(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "theory",
-          "origin": ["/audios/theory.mp3"],
-          "phonetics": ["[ˈθiːəri]", "[ˈθɪəri]"],
-          "reference": ""
-        },
-        {
-          "word": "thrill",
-          "origin": ["/audios/thrill.mp3"],
-          "phonetics": ["[θrɪl]"],
-          "reference": ""
-        },
-        {
-          "word": "tolerate",
-          "origin": ["/audios/tolerate.mp3"],
-          "phonetics": ["[ˈtɑːləreɪt]", "[ˈtɒləreɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "tomorrow",
-          "origin": ["/audios/tomorrow.mp3"],
-          "phonetics": ["[təˈmɑːroʊ]", "[təˈmɒrəʊ]"],
-          "reference": ""
-        },
-        {
-          "word": "uncertain",
-          "origin": ["/audios/uncertain.mp3"],
-          "phonetics": ["[ʌnˈsɜːrt(ə)n]", "[ʌnˈsɜːt(ə)n]"],
-          "reference": ""
-        },
-        {
-          "word": "validity",
-          "origin": ["/audios/validity.mp3"],
-          "phonetics": ["[vəˈlɪdəti]"],
-          "reference": ""
-        },
-        {
-          "word": "variant",
-          "origin": ["/audios/variant.mp3"],
-          "phonetics": ["[ˈveriənt]", "[ˈveəriənt]"],
-          "reference": ""
-        },
-        {
-          "word": "via",
-          "origin": ["/audios/via.mp3"],
-          "phonetics": ["[ˈvaɪə]"],
-          "reference": ""
-        },
-        {
-          "word": "vocal",
-          "origin": ["/audios/vocal.mp3"],
-          "phonetics": ["[ˈvoʊk(ə)l]", "[ˈvəʊk(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "volume",
-          "origin": ["/audios/volume.mp3"],
-          "phonetics": ["[ˈvɑːljəm]", "[ˈvɒljuːm]"],
-          "reference": ""
-        },
-        {
-          "word": "volunteer",
-          "origin": ["/audios/volunteer.mp3"],
-          "phonetics": ["[ˌvɑːlənˈtɪr]", "[ˌvɒlənˈtɪə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "walkthrough",
-          "origin": ["/audios/walkthrough.mp3"],
-          "phonetics": ["[ˈwɔːkˌθrʊ]", "[ˈwɔːkˌθruː]"],
-          "reference": ""
-        },
-        {
-          "word": "waterfall",
-          "origin": ["/audios/waterfall.mp3"],
-          "phonetics": ["[ˈwɔːtərfɔːl]", "[ˈwɔːtəfɔːl]"],
-          "reference": ""
-        },
-        {
-          "word": "willingness",
-          "origin": ["/audios/willingness.mp3"],
-          "phonetics": ["[ˈwɪlɪŋnəs]"],
-          "reference": ""
-        },
-        {
-          "word": "written",
-          "origin": ["/audios/written.mp3"],
-          "phonetics": ["[ˈrɪt(ə)n]"],
-          "reference": ""
-        },
-        {
-          "word": "wrote",
-          "origin": ["/audios/wrote.mp3"],
-          "phonetics": ["[roʊt]", "[rəʊt]"],
-          "reference": ""
-        }
-      ]
+				{
+					"word": "accepts",
+					"origin": [
+						"/audios/accepts.mp3"
+					],
+					"phonetics": [
+						"[əkˈsepts]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "accurate",
+					"origin": [
+						"/audios/accurate.mp3"
+					],
+					"phonetics": [
+						"[ˈækjərət]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "action",
+					"origin": [
+						"/audios/action.mp3"
+					],
+					"phonetics": [
+						"[ˈækʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adapt",
+					"origin": [
+						"/audios/adapt.mp3"
+					],
+					"phonetics": [
+						"[əˈdæpt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adaptable",
+					"origin": [
+						"/audios/adaptable.mp3"
+					],
+					"phonetics": [
+						"[əˈdæptəb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adjust",
+					"origin": [
+						"/audios/adjust.mp3"
+					],
+					"phonetics": [
+						"[əˈdʒʌst]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adopt",
+					"origin": [
+						"/audios/adopt.mp3"
+					],
+					"phonetics": [
+						"[əˈdɑːpt]",
+						"[əˈdɒpt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "agency",
+					"origin": [
+						"/audios/agency.mp3"
+					],
+					"phonetics": [
+						"[ˈeɪdʒənsi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "alternative",
+					"origin": [
+						"/audios/alternative.mp3"
+					],
+					"phonetics": [
+						"[ɔːlˈtɜːrnətɪv]",
+						"[ɔːlˈtɜːnətɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "annual",
+					"origin": [
+						"/audios/annual.mp3"
+					],
+					"phonetics": [
+						"[ˈænjuəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "anticipate",
+					"origin": [
+						"/audios/anticipate.mp3"
+					],
+					"phonetics": [
+						"[ænˈtɪsɪpeɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "apologize",
+					"origin": [
+						"/audios/apologize.mp3"
+					],
+					"phonetics": [
+						"[əˈpɑːlədʒaɪz]",
+						"[əˈpɒlədʒaɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "applicable",
+					"origin": [
+						"/audios/applicable.mp3"
+					],
+					"phonetics": [
+						"[ˈæplɪkəb(ə)l]",
+						"[əˈplɪkəb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "approval",
+					"origin": [
+						"/audios/approval.mp3"
+					],
+					"phonetics": [
+						"[əˈpruːv(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "aspects",
+					"origin": [
+						"/audios/aspects.mp3"
+					],
+					"phonetics": [
+						"[ˈæspekts]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "attentive",
+					"origin": [
+						"/audios/attentive.mp3"
+					],
+					"phonetics": [
+						"[əˈtentɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "attribution",
+					"origin": [
+						"/audios/attribution.mp3"
+					],
+					"phonetics": [
+						"[ˌætrɪˈbjuːʃn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "availability",
+					"origin": [
+						"/audios/availability.mp3"
+					],
+					"phonetics": [
+						"[əˌveɪləˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "beforehand",
+					"origin": [
+						"/audios/beforehand.mp3"
+					],
+					"phonetics": [
+						"[bɪˈfɔːrhænd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "behavioral",
+					"origin": [
+						"/audios/behavioral.mp3"
+					],
+					"phonetics": [
+						"[bɪˈheɪvjərəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "billion",
+					"origin": [
+						"/audios/billion.mp3"
+					],
+					"phonetics": [
+						"[ˈbɪljən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "brief",
+					"origin": [
+						"/audios/brief.mp3"
+					],
+					"phonetics": [
+						"[briːf]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "capability",
+					"origin": [
+						"/audios/capability.mp3"
+					],
+					"phonetics": [
+						"[ˌkeɪpəˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "capacity",
+					"origin": [
+						"/audios/capacity.mp3"
+					],
+					"phonetics": [
+						"[kəˈpæsəti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "certificate",
+					"origin": [
+						"/audios/certificate.mp3"
+					],
+					"phonetics": [
+						"[sərˈtɪfɪkət]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "chaos",
+					"origin": [
+						"/audios/chaos.mp3"
+					],
+					"phonetics": [
+						"[ˈkeɪɑːs]",
+						"[ˈkeɪɒs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "circumstance",
+					"origin": [
+						"/audios/circumstance.mp3"
+					],
+					"phonetics": [
+						"[ˈsɜːrkəmstæns]",
+						"[ˈsɜːkəmstəns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "collaborative",
+					"origin": [
+						"/audios/collaborative.mp3"
+					],
+					"phonetics": [
+						"[kəˈlæbəreɪtɪv]",
+						"[kəˈlæbərətɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "colleague",
+					"origin": [
+						"/audios/colleague.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːliːɡ]",
+						"[ˈkɒliːɡ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "college",
+					"origin": [
+						"/audios/college.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːlɪdʒ]",
+						"[ˈkɒlɪdʒ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "commerce",
+					"origin": [
+						"/audios/commerce.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːmɜːrs]",
+						"[ˈkɒmɜːs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "complement",
+					"origin": [
+						"/audios/complement.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːmplɪment]",
+						"[ˈkɒmplɪment]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "compliance",
+					"origin": [
+						"/audios/compliance.mp3"
+					],
+					"phonetics": [
+						"[kəmˈplaɪəns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "comprehensive",
+					"origin": [
+						"/audios/comprehensive.mp3"
+					],
+					"phonetics": [
+						"[ˌkɑːmprɪˈhensɪv]",
+						"[ˌkɒmprɪˈhensɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "concept",
+					"origin": [
+						"/audios/concept.mp3"
+					],
+					"phonetics": [
+						"[ˈkɑːnsept]",
+						"[ˈkɒnsept]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "consolidate",
+					"origin": [
+						"/audios/consolidate.mp3"
+					],
+					"phonetics": [
+						"[kənˈsɑːlɪdeɪt]",
+						"[kənˈsɒlɪdeɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "convince",
+					"origin": [
+						"/audios/convince.mp3"
+					],
+					"phonetics": [
+						"[kənˈvɪns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "criteria",
+					"origin": [
+						"/audios/criteria.mp3"
+					],
+					"phonetics": [
+						"[kraɪˈtɪriə]",
+						"[kraɪˈtɪəriə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "criticism",
+					"origin": [
+						"/audios/criticism.mp3"
+					],
+					"phonetics": [
+						"[ˈkrɪtɪsɪzəm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "currency",
+					"origin": [
+						"/audios/currency.mp3"
+					],
+					"phonetics": [
+						"[ˈkɜːrənsi]",
+						"[ˈkʌrənsi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "debt",
+					"origin": [
+						"/audios/debt.mp3"
+					],
+					"phonetics": [
+						"[det]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "demand",
+					"origin": [
+						"/audios/demand.mp3"
+					],
+					"phonetics": [
+						"[dɪˈmænd]",
+						"[dɪˈmɑːnd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "demonstrate",
+					"origin": [
+						"/audios/demonstrate.mp3"
+					],
+					"phonetics": [
+						"[ˈdemənstreɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "denote",
+					"origin": [
+						"/audios/denote.mp3"
+					],
+					"phonetics": [
+						"[dɪˈnoʊt]",
+						"[dɪˈnəʊt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "depressed",
+					"origin": [
+						"/audios/depressed.mp3"
+					],
+					"phonetics": [
+						"[dɪˈprest]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "deprioritize",
+					"origin": [
+						"/audios/deprioritize.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "determined",
+					"origin": [
+						"/audios/determined.mp3"
+					],
+					"phonetics": [
+						"[dɪˈtɜːrmɪnd]",
+						"[dɪˈtɜːmɪnd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "disability",
+					"origin": [
+						"/audios/disability.mp3"
+					],
+					"phonetics": [
+						"[ˌdɪsəˈbɪləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "doc",
+					"origin": [
+						"/audios/doc.mp3"
+					],
+					"phonetics": [
+						"[dɑːk]",
+						"[dɒk]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "dual",
+					"origin": [
+						"/audios/dual.mp3"
+					],
+					"phonetics": [
+						"[ˈduːəl]",
+						"[ˈdjuːəl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "due",
+					"origin": [
+						"/audios/due.mp3"
+					],
+					"phonetics": [
+						"[duː]",
+						"[djuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "emoji",
+					"origin": [
+						"/audios/emoji.mp3"
+					],
+					"phonetics": [
+						"[ɪˈmoʊdʒi]",
+						"[ɪˈməʊdʒi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "emphasize",
+					"origin": [
+						"/audios/emphasize.mp3"
+					],
+					"phonetics": [
+						"[ˈemfəsaɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "encounter",
+					"origin": [
+						"/audios/encounter.mp3"
+					],
+					"phonetics": [
+						"[ɪnˈkaʊntər]",
+						"[ɪnˈkaʊntə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "etc",
+					"origin": [
+						"/audios/etc.mp3"
+					],
+					"phonetics": [
+						"[ˌet ˈsetərə; ˌɪt ˈsetərə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "ethics",
+					"origin": [
+						"/audios/ethics.mp3"
+					],
+					"phonetics": [
+						"[ˈeθɪks]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "eureka",
+					"origin": [
+						"/audios/eureka.mp3"
+					],
+					"phonetics": [
+						"[juˈriːkə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "evolved",
+					"origin": [
+						"/audios/evolved.mp3"
+					],
+					"phonetics": [
+						"[ɪˈvɑːlvd]",
+						"[ɪˈvɒlvd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "exhausted",
+					"origin": [
+						"/audios/exhausted.mp3"
+					],
+					"phonetics": [
+						"[ɪɡˈzɔːstɪd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "exist",
+					"origin": [
+						"/audios/exist.mp3"
+					],
+					"phonetics": [
+						"[ɪɡˈzɪst]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "experimental",
+					"origin": [
+						"/audios/experimental.mp3"
+					],
+					"phonetics": [
+						"[ɪkˌsperɪˈment(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "explanation",
+					"origin": [
+						"/audios/explanation.mp3"
+					],
+					"phonetics": [
+						"[ˌekspləˈneɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "foreign",
+					"origin": [
+						"/audios/foreign.mp3"
+					],
+					"phonetics": [
+						"[ˈfɔːrən]",
+						"[ˈfɒrən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "formality",
+					"origin": [
+						"/audios/formality.mp3"
+					],
+					"phonetics": [
+						"[fɔːrˈmæləti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "forum",
+					"origin": [
+						"/audios/forum.mp3"
+					],
+					"phonetics": [
+						"[ˈfɔːrəm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "glossary",
+					"origin": [
+						"/audios/glossary.mp3"
+					],
+					"phonetics": [
+						"[ˈɡlɑːsəri]",
+						"[ˈɡlɒsəri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "gorgeous",
+					"origin": [
+						"/audios/gorgeous.mp3"
+					],
+					"phonetics": [
+						"[ˈɡɔːrdʒəs]",
+						"[ˈɡɔːdʒəs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "grads",
+					"origin": [
+						"/audios/grads.mp3"
+					],
+					"phonetics": [
+						"[ɡrædz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "hassle",
+					"origin": [
+						"/audios/hassle.mp3"
+					],
+					"phonetics": [
+						"[ˈhæs(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "hesitate",
+					"origin": [
+						"/audios/hesitate.mp3"
+					],
+					"phonetics": [
+						"[ˈhezɪteɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "historically",
+					"origin": [
+						"/audios/historically.mp3"
+					],
+					"phonetics": [
+						"[hɪˈstɔːrɪkli]",
+						"[hɪˈstɒrɪkli]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "instrument",
+					"origin": [
+						"/audios/instrument.mp3"
+					],
+					"phonetics": [
+						"[ˈɪnstrəmənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "invitation",
+					"origin": [
+						"/audios/invitation.mp3"
+					],
+					"phonetics": [
+						"[ˌɪnvɪˈteɪʃ(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "labor",
+					"origin": [
+						"/audios/labor.mp3"
+					],
+					"phonetics": [
+						"[ˈleɪbər]",
+						"[ˈleɪbə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "merchant",
+					"origin": [
+						"/audios/merchant.mp3"
+					],
+					"phonetics": [
+						"[ˈmɜːrtʃənt]",
+						"[ˈmɜːtʃənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "nasty",
+					"origin": [
+						"/audios/nasty.mp3"
+					],
+					"phonetics": [
+						"[ˈnæsti]",
+						"[ˈnɑːsti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "objective",
+					"origin": [
+						"/audios/objective.mp3"
+					],
+					"phonetics": [
+						"[əbˈdʒektɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "obsess",
+					"origin": [
+						"/audios/obsess.mp3"
+					],
+					"phonetics": [
+						"[əbˈses]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "officially",
+					"origin": [
+						"/audios/officially.mp3"
+					],
+					"phonetics": [
+						"[əˈfɪʃəli]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "only",
+					"origin": [
+						"/audios/only.mp3"
+					],
+					"phonetics": [
+						"[ˈoʊnli]",
+						"[ˈəʊnli]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "participation",
+					"origin": [
+						"/audios/participation.mp3"
+					],
+					"phonetics": [
+						"[pɑːrˌtɪsɪˈpeɪʃ(ə)n]",
+						"[pɑːˌtɪsɪˈpeɪʃn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "pause",
+					"origin": [
+						"/audios/pause.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "performance",
+					"origin": [
+						"/audios/performance.mp3"
+					],
+					"phonetics": [
+						"[pərˈfɔːrməns]",
+						"[pəˈfɔːməns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "period",
+					"origin": [
+						"/audios/period.mp3"
+					],
+					"phonetics": [
+						"[ˈpɪriəd]",
+						"[ˈpɪəriəd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "permanent",
+					"origin": [
+						"/audios/permanent.mp3"
+					],
+					"phonetics": [
+						"[ˈpɜːrmənənt]",
+						"[ˈpɜːmənənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "phase",
+					"origin": [
+						"/audios/phase.mp3"
+					],
+					"phonetics": [
+						"[feɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "phrase",
+					"origin": [
+						"/audios/phrase.mp3"
+					],
+					"phonetics": [
+						"[freɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "pleasure",
+					"origin": [
+						"/audios/pleasure.mp3"
+					],
+					"phonetics": [
+						"[ˈpleʒər]",
+						"[ˈpleʒə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "postpone",
+					"origin": [
+						"/audios/postpone.mp3"
+					],
+					"phonetics": [
+						"[poʊˈspoʊn]",
+						"[pəˈspəʊn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "potential",
+					"origin": [
+						"/audios/potential.mp3"
+					],
+					"phonetics": [
+						"[pəˈtenʃ(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "practices",
+					"origin": [
+						"/audios/practices.mp3"
+					],
+					"phonetics": [
+						"[ˈpræktɪsɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "precise",
+					"origin": [
+						"/audios/precise.mp3"
+					],
+					"phonetics": [
+						"[prɪˈsaɪs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "preference",
+					"origin": [
+						"/audios/preference.mp3"
+					],
+					"phonetics": [
+						"[ˈprefrəns]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "prevalent",
+					"origin": [
+						"/audios/prevalent.mp3"
+					],
+					"phonetics": [
+						"[ˈprevələnt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "prioritize",
+					"origin": [
+						"/audios/prioritize.mp3"
+					],
+					"phonetics": [
+						"[praɪˈɔːrətaɪz]",
+						"[praɪˈɒrətaɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "private",
+					"origin": [
+						"/audios/private.mp3"
+					],
+					"phonetics": [
+						"[ˈpraɪvət]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "procedures",
+					"origin": [
+						"/audios/procedures.mp3"
+					],
+					"phonetics": [
+						"[prəˈsiːdʒərz]",
+						"[prəˈsiːdʒəz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "profile",
+					"origin": [
+						"/audios/profile.mp3"
+					],
+					"phonetics": [
+						"[ˈproʊfaɪl]",
+						"[ˈprəʊfaɪl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "progress",
+					"origin": [
+						"/audios/progress.mp3"
+					],
+					"phonetics": [
+						"[ˈprɑːɡres]",
+						"[ˈprəʊɡres]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "project",
+					"origin": [
+						"/audios/project.mp3"
+					],
+					"phonetics": [
+						"[ˈprɑːdʒekt]",
+						"[ˈprɒdʒekt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "proper",
+					"origin": [
+						"/audios/proper.mp3"
+					],
+					"phonetics": [
+						"[ˈprɑːpər]",
+						"[ˈprɒpə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "proposal",
+					"origin": [
+						"/audios/proposal.mp3"
+					],
+					"phonetics": [
+						"[prəˈpoʊz(ə)l]",
+						"[prəˈpəʊz(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "propose",
+					"origin": [
+						"/audios/propose.mp3"
+					],
+					"phonetics": [
+						"[prəˈpoʊz]",
+						"[prəˈpəʊz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "proposed",
+					"origin": [
+						"/audios/proposed.mp3"
+					],
+					"phonetics": [
+						"[prəˈpoʊzd]",
+						"[prəˈpəʊzd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "pursue",
+					"origin": [
+						"/audios/pursue.mp3"
+					],
+					"phonetics": [
+						"[pərˈsuː]",
+						"[pəˈsjuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "racism",
+					"origin": [
+						"/audios/racism.mp3"
+					],
+					"phonetics": [
+						"[ˈreɪsɪzəm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "radio",
+					"origin": [
+						"/audios/radio.mp3"
+					],
+					"phonetics": [
+						"[ˈreɪdioʊ]",
+						"[ˈreɪdiəʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "range",
+					"origin": [
+						"/audios/range.mp3"
+					],
+					"phonetics": [
+						"[reɪndʒ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "rare",
+					"origin": [
+						"/audios/rare.mp3"
+					],
+					"phonetics": [
+						"[rer]",
+						"[reə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "ratio",
+					"origin": [
+						"/audios/ratio.mp3"
+					],
+					"phonetics": [
+						"[ˈreɪʃioʊ]",
+						"[ˈreɪʃiəʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "recognize",
+					"origin": [
+						"/audios/recognize.mp3"
+					],
+					"phonetics": [
+						"[ˈrekəɡnaɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "regret",
+					"origin": [
+						"/audios/regret.mp3"
+					],
+					"phonetics": [
+						"[rɪˈɡret]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "relay",
+					"origin": [
+						"/audios/relay.mp3"
+					],
+					"phonetics": [
+						"[ˈriːleɪ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "relevant",
+					"origin": [
+						"/audios/relevant.mp3"
+					],
+					"phonetics": [
+						"[ˈreləvənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "reset",
+					"origin": [
+						"/audios/reset.mp3"
+					],
+					"phonetics": [
+						"[ˌriːˈset]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "resources",
+					"origin": [
+						"/audios/resources.mp3"
+					],
+					"phonetics": [
+						"[ˈriːsɔːrsɪz]",
+						"[rɪˈsɔːsɪz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "robust",
+					"origin": [
+						"/audios/robust.mp3"
+					],
+					"phonetics": [
+						"[roʊˈbʌst]",
+						"[rəʊˈbʌst]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "rough",
+					"origin": [
+						"/audios/rough.mp3"
+					],
+					"phonetics": [
+						"[rʌf]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "sacrifice",
+					"origin": [
+						"/audios/sacrifice.mp3"
+					],
+					"phonetics": [
+						"[ˈsækrɪfaɪs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "scenario",
+					"origin": [
+						"/audios/scenario.mp3"
+					],
+					"phonetics": [
+						"[səˈnærioʊ]",
+						"[səˈnɑːriəʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "scrum",
+					"origin": [
+						"/audios/scrum.mp3"
+					],
+					"phonetics": [
+						"[skrʌm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "significant",
+					"origin": [
+						"/audios/significant.mp3"
+					],
+					"phonetics": [
+						"[sɪɡˈnɪfɪkənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "sincere",
+					"origin": [
+						"/audios/sincere.mp3"
+					],
+					"phonetics": [
+						"[sɪnˈsɪr]",
+						"[sɪnˈsɪə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "snap",
+					"origin": [
+						"/audios/snap.mp3"
+					],
+					"phonetics": [
+						"[snæp]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "solid",
+					"origin": [
+						"/audios/solid.mp3"
+					],
+					"phonetics": [
+						"[ˈsɑːlɪd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "stakeholders",
+					"origin": [
+						"/audios/stakeholders.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "subjective",
+					"origin": [
+						"/audios/subjective.mp3"
+					],
+					"phonetics": [
+						"[səbˈdʒektɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "techniques",
+					"origin": [
+						"/audios/techniques.mp3"
+					],
+					"phonetics": [
+						"[tekˈniːks]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "tedious",
+					"origin": [
+						"/audios/tedious.mp3"
+					],
+					"phonetics": [
+						"[ˈtiːdiəs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "temporarily",
+					"origin": [
+						"/audios/temporarily.mp3"
+					],
+					"phonetics": [
+						"[ˌtempəˈrerəli]",
+						"[ˈtemprərəli]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "tentative",
+					"origin": [
+						"/audios/tentative.mp3"
+					],
+					"phonetics": [
+						"[ˈtentətɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "theoretical",
+					"origin": [
+						"/audios/theoretical.mp3"
+					],
+					"phonetics": [
+						"[ˌθiːəˈretɪk(ə)l]",
+						"[ˌθɪəˈretɪk(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "theory",
+					"origin": [
+						"/audios/theory.mp3"
+					],
+					"phonetics": [
+						"[ˈθiːəri]",
+						"[ˈθɪəri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "thrill",
+					"origin": [
+						"/audios/thrill.mp3"
+					],
+					"phonetics": [
+						"[θrɪl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "tolerate",
+					"origin": [
+						"/audios/tolerate.mp3"
+					],
+					"phonetics": [
+						"[ˈtɑːləreɪt]",
+						"[ˈtɒləreɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "tomorrow",
+					"origin": [
+						"/audios/tomorrow.mp3"
+					],
+					"phonetics": [
+						"[təˈmɑːroʊ]",
+						"[təˈmɒrəʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "uncertain",
+					"origin": [
+						"/audios/uncertain.mp3"
+					],
+					"phonetics": [
+						"[ʌnˈsɜːrt(ə)n]",
+						"[ʌnˈsɜːt(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "validity",
+					"origin": [
+						"/audios/validity.mp3"
+					],
+					"phonetics": [
+						"[vəˈlɪdəti]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "variant",
+					"origin": [
+						"/audios/variant.mp3"
+					],
+					"phonetics": [
+						"[ˈveriənt]",
+						"[ˈveəriənt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "via",
+					"origin": [
+						"/audios/via.mp3"
+					],
+					"phonetics": [
+						"[ˈvaɪə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "vocal",
+					"origin": [
+						"/audios/vocal.mp3"
+					],
+					"phonetics": [
+						"[ˈvoʊk(ə)l]",
+						"[ˈvəʊk(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "volume",
+					"origin": [
+						"/audios/volume.mp3"
+					],
+					"phonetics": [
+						"[ˈvɑːljəm]",
+						"[ˈvɒljuːm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "volunteer",
+					"origin": [
+						"/audios/volunteer.mp3"
+					],
+					"phonetics": [
+						"[ˌvɑːlənˈtɪr]",
+						"[ˌvɒlənˈtɪə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "walkthrough",
+					"origin": [
+						"/audios/walkthrough.mp3"
+					],
+					"phonetics": [
+						"[ˈwɔːkˌθrʊ]",
+						"[ˈwɔːkˌθruː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "waterfall",
+					"origin": [
+						"/audios/waterfall.mp3"
+					],
+					"phonetics": [
+						"[ˈwɔːtərfɔːl]",
+						"[ˈwɔːtəfɔːl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "willingness",
+					"origin": [
+						"/audios/willingness.mp3"
+					],
+					"phonetics": [
+						"[ˈwɪlɪŋnəs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "written",
+					"origin": [
+						"/audios/written.mp3"
+					],
+					"phonetics": [
+						"[ˈrɪt(ə)n]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "wrote",
+					"origin": [
+						"/audios/wrote.mp3"
+					],
+					"phonetics": [
+						"[roʊt]",
+						"[rəʊt]"
+					],
+					"reference": ""
+				}
+			]
 		},
 		{
 			"type": "engineering",
@@ -1276,11 +1943,15 @@
 					"reference": ""
 				},
 				{
-          "word": "backslash",
-          "origin": ["/audios/backslash.mp3"],
-          "phonetics": ["[ˈbækslæʃ]"],
-          "reference": ""
-        },
+					"word": "backslash",
+					"origin": [
+						"/audios/backslash.mp3"
+					],
+					"phonetics": [
+						"[ˈbækslæʃ]"
+					],
+					"reference": ""
+				},
 				{
 					"word": "badge",
 					"origin": [
@@ -1496,6 +2167,16 @@
 					],
 					"phonetics": [
 						"[kəmˈpaɪl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "completions",
+					"origin": [
+						"/audios/completions.mp3"
+					],
+					"phonetics": [
+						"[kəmˈpliːʃ(ə)n]"
 					],
 					"reference": ""
 				},
@@ -2715,6 +3396,17 @@
 					"reference": ""
 				},
 				{
+					"word": "mustache",
+					"origin": [
+						"/audios/mustache.mp3"
+					],
+					"phonetics": [
+						"[ˈmʌstæʃ; məˈstæʃ]",
+						"[ˈmʌstæʃ; məˈstɑːʃ]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "nano",
 					"origin": [
 						"/audios/nano.mp3"
@@ -3026,6 +3718,16 @@
 					"reference": ""
 				},
 				{
+					"word": "prerequisites",
+					"origin": [
+						"/audios/prerequisites.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "pro",
 					"origin": [
 						"/audios/pro.mp3"
@@ -3033,6 +3735,17 @@
 					"phonetics": [
 						"[proʊ]",
 						"[prəʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "problematic",
+					"origin": [
+						"/audios/problematic.mp3"
+					],
+					"phonetics": [
+						"[ˌprɑːbləˈmætɪk]",
+						"[ˌprɒbləˈmætɪk]"
 					],
 					"reference": ""
 				},
@@ -3129,6 +3842,16 @@
 					],
 					"phonetics": [
 						"[rɪˈdʒekt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "reliability",
+					"origin": [
+						"/audios/reliability.mp3"
+					],
+					"phonetics": [
+						"[rɪˌlaɪəˈbɪləti]"
 					],
 					"reference": ""
 				},
@@ -3379,6 +4102,16 @@
 					"reference": ""
 				},
 				{
+					"word": "slices",
+					"origin": [
+						"/audios/slices.mp3"
+					],
+					"phonetics": [
+						"[ˈslaɪsɪz]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "slot",
 					"origin": [
 						"/audios/slot.mp3"
@@ -3437,6 +4170,16 @@
 					],
 					"phonetics": [
 						"[ˈsteɪtəs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "stretch",
+					"origin": [
+						"/audios/stretch.mp3"
+					],
+					"phonetics": [
+						"[stretʃ]"
 					],
 					"reference": ""
 				},
@@ -3790,613 +4533,1062 @@
 		{
 			"type": "terms",
 			"content": [
-        {
-          "word": ".net",
-          "origin": ["/audios/dot-net.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "adobe",
-          "origin": ["/audios/adobe.mp3"],
-          "phonetics": ["[əˈdoʊbi]", "[əˈdəʊbi]"],
-          "reference": ""
-        },
-        {
-          "word": "AirBnB",
-          "origin": ["/audios/AirBnB.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "AJAX",
-          "origin": ["/audios/AJAX.mp3"],
-          "phonetics": ["[ˈeɪdʒæks]"],
-          "reference": ""
-        },
-        {
-          "word": "Amazon",
-          "origin": ["/audios/Amazon.mp3"],
-          "phonetics": ["[ˈæməzɑːn]", "[ˈæməzən]"],
-          "reference": ""
-        },
-        {
-          "word": "Android",
-          "origin": ["/audios/Android.mp3"],
-          "phonetics": ["[ˈændrɔɪd]"],
-          "reference": ""
-        },
-        {
-          "word": "Angular",
-          "origin": ["/audios/Angular.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Apache",
-          "origin": ["/audios/Apache.mp3"],
-          "phonetics": ["[əˈpætʃi]"],
-          "reference": ""
-        },
-        {
-          "word": "ARIA",
-          "origin": ["/audios/ARIA.mp3"],
-          "phonetics": ["[ˈɑːriə]"],
-          "reference": ""
-        },
-        {
-          "word": "ASCII",
-          "origin": ["/audios/ASCII.mp3"],
-          "phonetics": ["[ˈæski]"],
-          "reference": ""
-        },
-        {
-          "word": "ASUS",
-          "origin": ["/audios/ASUS.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Axios",
-          "origin": ["/audios/Axios.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Azure",
-          "origin": ["/audios/Azure.mp3"],
-          "phonetics": ["[ˈæʒər]", "[ˈæʒə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "Babel",
-          "origin": ["/audios/Babel.mp3"],
-          "phonetics": ["[ˈbæb(ə)l]"],
-          "reference": ""
-        },
-        {
-          "word": "BIOS",
-          "origin": ["/audios/BIOS.mp3"],
-          "phonetics": ["[TBD]", "[ˈbaɪɒs]"],
-          "reference": ""
-        },
-        {
-          "word": "Bootstrap",
-          "origin": ["/audios/Bootstrap.mp3"],
-          "phonetics": ["[ˈbuːtstræp]"],
-          "reference": ""
-        },
-        {
-          "word": "Brew",
-          "origin": ["/audios/Brew.mp3"],
-          "phonetics": ["[bruː]"],
-          "reference": ""
-        },
-        {
-          "word": "Browserify",
-          "origin": ["/audios/Browserify.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "C#",
-          "origin": ["/audios/C#.mp3"],
-          "phonetics": ["[siː]"],
-          "reference": ""
-        },
-        {
-          "word": "CentOS",
-          "origin": ["/audios/CentOS.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "chalk",
-          "origin": ["/audios/chalk.mp3"],
-          "phonetics": ["[tʃɔːk]"],
-          "reference": ""
-        },
-        {
-          "word": "Chrome",
-          "origin": ["/audios/Chrome.mp3"],
-          "phonetics": ["[kroʊm]", "[krəʊm]"],
-          "reference": ""
-        },
-        {
-          "word": "cURL",
-          "origin": ["/audios/cURL.mp3"],
-          "phonetics": ["[kɜːrl]", "[kɜːl]"],
-          "reference": ""
-        },
-        {
-          "word": "Daemon",
-          "origin": ["/audios/Daemon.mp3"],
-          "phonetics": ["[ˈdiːmən]"],
-          "reference": ""
-        },
-        {
-          "word": "Debian",
-          "origin": ["/audios/Debian.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "DevOps",
-          "origin": ["/audios/DevOps.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "ECMAScript",
-          "origin": ["/audios/ECMAScript.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Electron",
-          "origin": ["/audios/Electron.mp3"],
-          "phonetics": ["[ɪˈlektrɑːn]", "[ɪˈlektrɒn]"],
-          "reference": ""
-        },
-        {
-          "word": "Elon Musk",
-          "origin": ["/audios/Elon Musk.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Enums",
-          "origin": ["/audios/Enums.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Fiber",
-          "origin": ["/audios/Fiber.mp3"],
-          "phonetics": ["[ˈfaɪbər]", "[ˈfaɪbə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "FIFO",
-          "origin": ["/audios/FIFO.mp3"],
-          "phonetics": ["[ˈfaɪˌfo]", "[ˈfaɪfəʊ]"],
-          "reference": ""
-        },
-        {
-          "word": "FILO",
-          "origin": ["/audios/FILO.mp3"],
-          "phonetics": ["[ˈfiːloʊ]", "[ˈfiːləʊ]"],
-          "reference": ""
-        },
-        {
-          "word": "Flux",
-          "origin": ["/audios/Flux.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "GIF",
-          "origin": ["/audios/GIF.mp3"],
-          "phonetics": ["[ɡɪfˌdʒɪf]", "[ɡɪf; dʒɪf]"],
-          "reference": ""
-        },
-        {
-          "word": "Gigabyte",
-          "origin": ["/audios/Gigabyte.mp3"],
-          "phonetics": ["[ˈɡɪɡəbaɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "Git",
-          "origin": ["/audios/Git.mp3"],
-          "phonetics": ["[ɡɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "Google",
-          "origin": ["/audios/Google.mp3"],
-          "phonetics": ["[ˈɡuːɡl]"],
-          "reference": ""
-        },
-        {
-          "word": "Grafana",
-          "origin": ["/audios/Grafana.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "GUI",
-          "origin": ["/audios/GUI.mp3"],
-          "phonetics": ["[ˈɡuːiˌˌdʒiː juː ˈaɪ]", "[ˈɡuːi; ˌdʒiː juː ˈaɪ]"],
-          "reference": ""
-        },
-        {
-          "word": "Hadoop",
-          "origin": ["/audios/Hadoop.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "IEEE",
-          "origin": ["/audios/IEEE.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "IIFE",
-          "origin": ["/audios/IIFE.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Immutable.js",
-          "origin": ["/audios/Immutabledot-js.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "iPhone",
-          "origin": ["/audios/iPhone.mp3"],
-          "phonetics": ["[ˈaɪfon]", "[ˈaɪfəʊn]"],
-          "reference": ""
-        },
-        {
-          "word": "Java",
-          "origin": ["/audios/Java.mp3"],
-          "phonetics": ["[ˈdʒɑːvə]"],
-          "reference": ""
-        },
-        {
-          "word": "Jekyll",
-          "origin": ["/audios/Jekyll.mp3"],
-          "phonetics": ["[ˈdʒikɪl]", "[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Jenkins",
-          "origin": ["/audios/Jenkins.mp3"],
-          "phonetics": ["[TBD]", "[ˈdʒeŋkɪnz]"],
-          "reference": ""
-        },
-        {
-          "word": "JSFiddle",
-          "origin": ["/audios/JSFiddle.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "JSON",
-          "origin": ["/audios/JSON.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Kilobyte",
-          "origin": ["/audios/Kilobyte.mp3"],
-          "phonetics": ["[ˈkɪləbaɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "Kotlin",
-          "origin": ["/audios/Kotlin.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Kubernetes",
-          "origin": ["/audios/Kubernetes.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Lambda",
-          "origin": ["/audios/Lambda.mp3"],
-          "phonetics": ["[ˈlæmdə]"],
-          "reference": ""
-        },
-        {
-          "word": "Laravel",
-          "origin": ["/audios/Laravel.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "LESS",
-          "origin": ["/audios/LESS.mp3"],
-          "phonetics": ["[les]"],
-          "reference": ""
-        },
-        {
-          "word": "Linaria",
-          "origin": ["/audios/Linaria.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Linux",
-          "origin": ["/audios/Linux.mp3"],
-          "phonetics": ["[ˈlɪn.əks]"],
-          "reference": ""
-        },
-        {
-          "word": "Lodash",
-          "origin": ["/audios/Lodash.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Mark Zuckerberg",
-          "origin": ["/audios/Mark Zuckerberg.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Maven",
-          "origin": ["/audios/Maven.mp3"],
-          "phonetics": ["[ˈmeɪvn]"],
-          "reference": ""
-        },
-        {
-          "word": "Megabyte",
-          "origin": ["/audios/Megabyte.mp3"],
-          "phonetics": ["[ˈmeɡəbaɪt]"],
-          "reference": ""
-        },
-        {
-          "word": "Microsoft",
-          "origin": ["/audios/Microsoft.mp3"],
-          "phonetics": ["[ˈmaɪkrəsɔːft]", "[ˈmaɪkrəsɒft]"],
-          "reference": ""
-        },
-        {
-          "word": "MyBatis",
-          "origin": ["/audios/MyBatis.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "MySQL",
-          "origin": ["/audios/MySQL.mp3"],
-          "phonetics": ["[maɪ ɛs kju ɛl]", "[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Netflix",
-          "origin": ["/audios/Netflix.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Nexus",
-          "origin": ["/audios/Nexus.mp3"],
-          "phonetics": ["[ˈneksəs]"],
-          "reference": ""
-        },
-        {
-          "word": "Nginx",
-          "origin": ["/audios/Nginx.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Nodemon",
-          "origin": ["/audios/Nodemon.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "NVIDIA",
-          "origin": ["/audios/NVIDIA.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "OAuth",
-          "origin": ["/audios/OAuth.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Prometheus",
-          "origin": ["/audios/Prometheus.mp3"],
-          "phonetics": ["[proˈmiθɪəs]", "[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Puppeteer",
-          "origin": ["/audios/Puppeteer.mp3"],
-          "phonetics": ["[ˌpʌpɪˈtɪr]", "[ˌpʌpɪˈtɪə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "Python",
-          "origin": ["/audios/Python.mp3"],
-          "phonetics": ["[ˈpaɪθɑːn]", "[ˈpaɪθən]"],
-          "reference": ""
-        },
-        {
-          "word": "Realm",
-          "origin": ["/audios/Realm.mp3"],
-          "phonetics": ["[relm]"],
-          "reference": ""
-        },
-        {
-          "word": "Redis",
-          "origin": ["/audios/Redis.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Redux",
-          "origin": ["/audios/Redux.mp3"],
-          "phonetics": ["[ˈriːdʌks]"],
-          "reference": ""
-        },
-        {
-          "word": "RegExp",
-          "origin": ["/audios/RegExp.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "RESTful",
-          "origin": ["/audios/RESTful.mp3"],
-          "phonetics": ["[ˈrestfl]"],
-          "reference": ""
-        },
-        {
-          "word": "Rollup",
-          "origin": ["/audios/Rollup.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Safari",
-          "origin": ["/audios/Safari.mp3"],
-          "phonetics": ["[səˈfɑːri]"],
-          "reference": ""
-        },
-        {
-          "word": "SCSS",
-          "origin": ["/audios/SCSS.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Sentry",
-          "origin": ["/audios/Sentry.mp3"],
-          "phonetics": ["[ˈsentri]"],
-          "reference": ""
-        },
-        {
-          "word": "SHA",
-          "origin": ["/audios/SHA.mp3"],
-          "phonetics": ["[ˌɛs etʃ ˈe]", "[ˌes eɪtʃ ˈeɪ]"],
-          "reference": ""
-        },
-        {
-          "word": "Silicon",
-          "origin": ["/audios/Silicon.mp3"],
-          "phonetics": ["[ˈsɪlɪkən]"],
-          "reference": ""
-        },
-        {
-          "word": "SonarQube",
-          "origin": ["/audios/SonarQube.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "SQL",
-          "origin": ["/audios/SQL.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "StackBlitz",
-          "origin": ["/audios/StackBlitz.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Svelte",
-          "origin": ["/audios/Svelte.mp3"],
-          "phonetics": ["[svelt]"],
-          "reference": ""
-        },
-        {
-          "word": "Swagger",
-          "origin": ["/audios/Swagger.mp3"],
-          "phonetics": ["[ˈswæɡər]", "[ˈswæɡə(r)]"],
-          "reference": ""
-        },
-        {
-          "word": "TOEIC",
-          "origin": ["/audios/TOEIC.mp3"],
-          "phonetics": ["[ˈtoʊɪk]", "[ˈtəʊɪk]"],
-          "reference": ""
-        },
-        {
-          "word": "Ubuntu",
-          "origin": ["/audios/Ubuntu.mp3"],
-          "phonetics": ["[ʊˈbʊntuː]"],
-          "reference": ""
-        },
-        {
-          "word": "Valley",
-          "origin": ["/audios/Valley.mp3"],
-          "phonetics": ["[ˈvæli]"],
-          "reference": ""
-        },
-        {
-          "word": "Ventura",
-          "origin": ["/audios/Ventura.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Vim",
-          "origin": ["/audios/Vim.mp3"],
-          "phonetics": ["[vɪm]"],
-          "reference": ""
-        },
-        {
-          "word": "Vite",
-          "origin": ["/audios/Vite.mp3"],
-          "phonetics": ["[TBD]", "[ˈviːt]"],
-          "reference": ""
-        },
-        {
-          "word": "WiFi",
-          "origin": ["/audios/WiFi.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "XML",
-          "origin": ["/audios/XML.mp3"],
-          "phonetics": ["[ˌeks em ˈel]"],
-          "reference": ""
-        },
-        {
-          "word": "YAML",
-          "origin": ["/audios/YAML.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "Yargs",
-          "origin": ["/audios/Yargs.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
-          "word": "YouTube",
-          "origin": ["/audios/YouTube.mp3"],
-          "phonetics": ["[ˈjuːtuːb]", "[ˈjuːtjuːb]"],
-          "reference": ""
-        }
-      ]
+				{
+					"word": ".net",
+					"origin": [
+						"/audios/dot-net.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "adobe",
+					"origin": [
+						"/audios/adobe.mp3"
+					],
+					"phonetics": [
+						"[əˈdoʊbi]",
+						"[əˈdəʊbi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "AirBnB",
+					"origin": [
+						"/audios/AirBnB.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "AJAX",
+					"origin": [
+						"/audios/AJAX.mp3"
+					],
+					"phonetics": [
+						"[ˈeɪdʒæks]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Amazon",
+					"origin": [
+						"/audios/Amazon.mp3"
+					],
+					"phonetics": [
+						"[ˈæməzɑːn]",
+						"[ˈæməzən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Android",
+					"origin": [
+						"/audios/Android.mp3"
+					],
+					"phonetics": [
+						"[ˈændrɔɪd]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Angular",
+					"origin": [
+						"/audios/Angular.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Apache",
+					"origin": [
+						"/audios/Apache.mp3"
+					],
+					"phonetics": [
+						"[əˈpætʃi]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "ARIA",
+					"origin": [
+						"/audios/ARIA.mp3"
+					],
+					"phonetics": [
+						"[ˈɑːriə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "ASCII",
+					"origin": [
+						"/audios/ASCII.mp3"
+					],
+					"phonetics": [
+						"[ˈæski]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "ASUS",
+					"origin": [
+						"/audios/ASUS.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Axios",
+					"origin": [
+						"/audios/Axios.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Azure",
+					"origin": [
+						"/audios/Azure.mp3"
+					],
+					"phonetics": [
+						"[ˈæʒər]",
+						"[ˈæʒə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Babel",
+					"origin": [
+						"/audios/Babel.mp3"
+					],
+					"phonetics": [
+						"[ˈbæb(ə)l]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "BIOS",
+					"origin": [
+						"/audios/BIOS.mp3"
+					],
+					"phonetics": [
+						"[TBD]",
+						"[ˈbaɪɒs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Bootstrap",
+					"origin": [
+						"/audios/Bootstrap.mp3"
+					],
+					"phonetics": [
+						"[ˈbuːtstræp]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Brew",
+					"origin": [
+						"/audios/Brew.mp3"
+					],
+					"phonetics": [
+						"[bruː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Browserify",
+					"origin": [
+						"/audios/Browserify.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "C#",
+					"origin": [
+						"/audios/C#.mp3"
+					],
+					"phonetics": [
+						"[siː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "CentOS",
+					"origin": [
+						"/audios/CentOS.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "chalk",
+					"origin": [
+						"/audios/chalk.mp3"
+					],
+					"phonetics": [
+						"[tʃɔːk]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Chrome",
+					"origin": [
+						"/audios/Chrome.mp3"
+					],
+					"phonetics": [
+						"[kroʊm]",
+						"[krəʊm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "cURL",
+					"origin": [
+						"/audios/cURL.mp3"
+					],
+					"phonetics": [
+						"[kɜːrl]",
+						"[kɜːl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Daemon",
+					"origin": [
+						"/audios/Daemon.mp3"
+					],
+					"phonetics": [
+						"[ˈdiːmən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Debian",
+					"origin": [
+						"/audios/Debian.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "DevOps",
+					"origin": [
+						"/audios/DevOps.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "ECMAScript",
+					"origin": [
+						"/audios/ECMAScript.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Electron",
+					"origin": [
+						"/audios/Electron.mp3"
+					],
+					"phonetics": [
+						"[ɪˈlektrɑːn]",
+						"[ɪˈlektrɒn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Elon Musk",
+					"origin": [
+						"/audios/Elon Musk.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Enums",
+					"origin": [
+						"/audios/Enums.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Evan You",
+					"origin": [
+						"/audios/Evan You.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Fiber",
+					"origin": [
+						"/audios/Fiber.mp3"
+					],
+					"phonetics": [
+						"[ˈfaɪbər]",
+						"[ˈfaɪbə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "FIFO",
+					"origin": [
+						"/audios/FIFO.mp3"
+					],
+					"phonetics": [
+						"[ˈfaɪˌfo]",
+						"[ˈfaɪfəʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "FILO",
+					"origin": [
+						"/audios/FILO.mp3"
+					],
+					"phonetics": [
+						"[ˈfiːloʊ]",
+						"[ˈfiːləʊ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Flux",
+					"origin": [
+						"/audios/Flux.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "GIF",
+					"origin": [
+						"/audios/GIF.mp3"
+					],
+					"phonetics": [
+						"[ɡɪfˌdʒɪf]",
+						"[ɡɪf; dʒɪf]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Gigabyte",
+					"origin": [
+						"/audios/Gigabyte.mp3"
+					],
+					"phonetics": [
+						"[ˈɡɪɡəbaɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Git",
+					"origin": [
+						"/audios/Git.mp3"
+					],
+					"phonetics": [
+						"[ɡɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Google",
+					"origin": [
+						"/audios/Google.mp3"
+					],
+					"phonetics": [
+						"[ˈɡuːɡl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Grafana",
+					"origin": [
+						"/audios/Grafana.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "GUI",
+					"origin": [
+						"/audios/GUI.mp3"
+					],
+					"phonetics": [
+						"[ˈɡuːiˌˌdʒiː juː ˈaɪ]",
+						"[ˈɡuːi; ˌdʒiː juː ˈaɪ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Hadoop",
+					"origin": [
+						"/audios/Hadoop.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "IEEE",
+					"origin": [
+						"/audios/IEEE.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "IIFE",
+					"origin": [
+						"/audios/IIFE.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Immutable.js",
+					"origin": [
+						"/audios/Immutabledot-js.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "iPhone",
+					"origin": [
+						"/audios/iPhone.mp3"
+					],
+					"phonetics": [
+						"[ˈaɪfon]",
+						"[ˈaɪfəʊn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Java",
+					"origin": [
+						"/audios/Java.mp3"
+					],
+					"phonetics": [
+						"[ˈdʒɑːvə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Jekyll",
+					"origin": [
+						"/audios/Jekyll.mp3"
+					],
+					"phonetics": [
+						"[ˈdʒikɪl]",
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Jenkins",
+					"origin": [
+						"/audios/Jenkins.mp3"
+					],
+					"phonetics": [
+						"[TBD]",
+						"[ˈdʒeŋkɪnz]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "JSFiddle",
+					"origin": [
+						"/audios/JSFiddle.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "JSON",
+					"origin": [
+						"/audios/JSON.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Kilobyte",
+					"origin": [
+						"/audios/Kilobyte.mp3"
+					],
+					"phonetics": [
+						"[ˈkɪləbaɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Kotlin",
+					"origin": [
+						"/audios/Kotlin.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Kubernetes",
+					"origin": [
+						"/audios/Kubernetes.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Lambda",
+					"origin": [
+						"/audios/Lambda.mp3"
+					],
+					"phonetics": [
+						"[ˈlæmdə]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Laravel",
+					"origin": [
+						"/audios/Laravel.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "LESS",
+					"origin": [
+						"/audios/LESS.mp3"
+					],
+					"phonetics": [
+						"[les]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Linaria",
+					"origin": [
+						"/audios/Linaria.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Linux",
+					"origin": [
+						"/audios/Linux.mp3"
+					],
+					"phonetics": [
+						"[ˈlɪn.əks]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Lodash",
+					"origin": [
+						"/audios/Lodash.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Mark Zuckerberg",
+					"origin": [
+						"/audios/Mark Zuckerberg.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Maven",
+					"origin": [
+						"/audios/Maven.mp3"
+					],
+					"phonetics": [
+						"[ˈmeɪvn]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Megabyte",
+					"origin": [
+						"/audios/Megabyte.mp3"
+					],
+					"phonetics": [
+						"[ˈmeɡəbaɪt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Microsoft",
+					"origin": [
+						"/audios/Microsoft.mp3"
+					],
+					"phonetics": [
+						"[ˈmaɪkrəsɔːft]",
+						"[ˈmaɪkrəsɒft]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "MyBatis",
+					"origin": [
+						"/audios/MyBatis.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "MySQL",
+					"origin": [
+						"/audios/MySQL.mp3"
+					],
+					"phonetics": [
+						"[maɪ ɛs kju ɛl]",
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Netflix",
+					"origin": [
+						"/audios/Netflix.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Nexus",
+					"origin": [
+						"/audios/Nexus.mp3"
+					],
+					"phonetics": [
+						"[ˈneksəs]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Nginx",
+					"origin": [
+						"/audios/Nginx.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Nodemon",
+					"origin": [
+						"/audios/Nodemon.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "NVIDIA",
+					"origin": [
+						"/audios/NVIDIA.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "OAuth",
+					"origin": [
+						"/audios/OAuth.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Prometheus",
+					"origin": [
+						"/audios/Prometheus.mp3"
+					],
+					"phonetics": [
+						"[proˈmiθɪəs]",
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Puppeteer",
+					"origin": [
+						"/audios/Puppeteer.mp3"
+					],
+					"phonetics": [
+						"[ˌpʌpɪˈtɪr]",
+						"[ˌpʌpɪˈtɪə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Python",
+					"origin": [
+						"/audios/Python.mp3"
+					],
+					"phonetics": [
+						"[ˈpaɪθɑːn]",
+						"[ˈpaɪθən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Realm",
+					"origin": [
+						"/audios/Realm.mp3"
+					],
+					"phonetics": [
+						"[relm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Redis",
+					"origin": [
+						"/audios/Redis.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Redux",
+					"origin": [
+						"/audios/Redux.mp3"
+					],
+					"phonetics": [
+						"[ˈriːdʌks]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "RegExp",
+					"origin": [
+						"/audios/RegExp.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "RESTful",
+					"origin": [
+						"/audios/RESTful.mp3"
+					],
+					"phonetics": [
+						"[ˈrestfl]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Rollup",
+					"origin": [
+						"/audios/Rollup.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Safari",
+					"origin": [
+						"/audios/Safari.mp3"
+					],
+					"phonetics": [
+						"[səˈfɑːri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "SCSS",
+					"origin": [
+						"/audios/SCSS.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Sentry",
+					"origin": [
+						"/audios/Sentry.mp3"
+					],
+					"phonetics": [
+						"[ˈsentri]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "SHA",
+					"origin": [
+						"/audios/SHA.mp3"
+					],
+					"phonetics": [
+						"[ˌɛs etʃ ˈe]",
+						"[ˌes eɪtʃ ˈeɪ]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Silicon",
+					"origin": [
+						"/audios/Silicon.mp3"
+					],
+					"phonetics": [
+						"[ˈsɪlɪkən]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "SonarQube",
+					"origin": [
+						"/audios/SonarQube.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "SQL",
+					"origin": [
+						"/audios/SQL.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "StackBlitz",
+					"origin": [
+						"/audios/StackBlitz.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Svelte",
+					"origin": [
+						"/audios/Svelte.mp3"
+					],
+					"phonetics": [
+						"[svelt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Swagger",
+					"origin": [
+						"/audios/Swagger.mp3"
+					],
+					"phonetics": [
+						"[ˈswæɡər]",
+						"[ˈswæɡə(r)]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "TOEIC",
+					"origin": [
+						"/audios/TOEIC.mp3"
+					],
+					"phonetics": [
+						"[ˈtoʊɪk]",
+						"[ˈtəʊɪk]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Ubuntu",
+					"origin": [
+						"/audios/Ubuntu.mp3"
+					],
+					"phonetics": [
+						"[ʊˈbʊntuː]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Valley",
+					"origin": [
+						"/audios/Valley.mp3"
+					],
+					"phonetics": [
+						"[ˈvæli]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Ventura",
+					"origin": [
+						"/audios/Ventura.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Vercel",
+					"origin": [
+						"/audios/Vercel.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Vim",
+					"origin": [
+						"/audios/Vim.mp3"
+					],
+					"phonetics": [
+						"[vɪm]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Vite",
+					"origin": [
+						"/audios/Vite.mp3"
+					],
+					"phonetics": [
+						"[TBD]",
+						"[ˈviːt]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "WiFi",
+					"origin": [
+						"/audios/WiFi.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "XML",
+					"origin": [
+						"/audios/XML.mp3"
+					],
+					"phonetics": [
+						"[ˌeks em ˈel]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "YAML",
+					"origin": [
+						"/audios/YAML.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "Yargs",
+					"origin": [
+						"/audios/Yargs.mp3"
+					],
+					"phonetics": [
+						"[TBD]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "YouTube",
+					"origin": [
+						"/audios/YouTube.mp3"
+					],
+					"phonetics": [
+						"[ˈjuːtuːb]",
+						"[ˈjuːtjuːb]"
+					],
+					"reference": ""
+				}
+			]
 		},
 		{
 			"type": "algorithm",
@@ -5239,6 +6431,16 @@
 					"reference": ""
 				},
 				{
+					"word": "entitlement",
+					"origin": [
+						"/audios/entitlement.mp3"
+					],
+					"phonetics": [
+						"[ɪnˈtaɪtlmənt]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "equity",
 					"origin": [
 						"/audios/equity.mp3"
@@ -5418,6 +6620,16 @@
 					"reference": ""
 				},
 				{
+					"word": "relieve",
+					"origin": [
+						"/audios/relieve.mp3"
+					],
+					"phonetics": [
+						"[rɪˈliːv]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "rental",
 					"origin": [
 						"/audios/rental.mp3"
@@ -5507,6 +6719,17 @@
 					],
 					"phonetics": [
 						"[θraɪv]"
+					],
+					"reference": ""
+				},
+				{
+					"word": "workaholic",
+					"origin": [
+						"/audios/workaholic.mp3"
+					],
+					"phonetics": [
+						"[ˌwɜːrkəˈhɑːlɪk]",
+						"[ˌwɜːkəˈhɒlɪk]"
 					],
 					"reference": ""
 				},
