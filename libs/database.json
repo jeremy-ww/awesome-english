@@ -2056,6 +2056,17 @@
 					"reference": ""
 				},
 				{
+					"word": "chore",
+					"origin": [
+						"/audios/chore.mp3"
+					],
+					"phonetics": [
+						"[tʃɔːr]",
+						"[tʃɔː(r)]"
+					],
+					"reference": ""
+				},
+				{
 					"word": "chunk",
 					"origin": [
 						"/audios/chunk.mp3"
