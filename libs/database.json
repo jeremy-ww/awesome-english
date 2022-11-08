@@ -2192,7 +2192,7 @@
 				{
 					"word": "replicas",
 					"origin": ["/audios/replicas.mp3"],
-					"phonetics": ["[TBD]"],
+					"phonetics": ["[ˈreplɪkə]"],
 					"reference": ""
 				},
 				{
@@ -2262,9 +2262,9 @@
 					"reference": ""
 				},
 				{
-					"word": "sematic",
-					"origin": ["/audios/sematic.mp3"],
-					"phonetics": ["[TBD]"],
+					"word": "semantic",
+					"origin": ["/audios/semantic.mp3"],
+					"phonetics": ["[sɪˈmæntɪk]"],
 					"reference": ""
 				},
 				{
