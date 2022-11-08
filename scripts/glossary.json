@@ -141,6 +141,7 @@
   {
     "type": "engineering",
     "content": [
+      "implicitly",
       "chore",
       "completions",
       "reliability",
