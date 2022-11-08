@@ -243,12 +243,7 @@
 					"phonetics": ["[ˈkɜːrənsi]", "[ˈkʌrənsi]"],
 					"reference": ""
 				},
-				{
-					"word": "debt",
-					"origin": ["/audios/debt.mp3"],
-					"phonetics": ["[det]"],
-					"reference": ""
-				},
+				{ "word": "debt", "origin": ["/audios/debt.mp3"], "phonetics": ["[det]"], "reference": "" },
 				{
 					"word": "demand",
 					"origin": ["/audios/demand.mp3"],
@@ -837,12 +832,7 @@
 					"phonetics": ["[ˈveriənt]", "[ˈveəriənt]"],
 					"reference": ""
 				},
-				{
-					"word": "via",
-					"origin": ["/audios/via.mp3"],
-					"phonetics": ["[ˈvaɪə]"],
-					"reference": ""
-				},
+				{ "word": "via", "origin": ["/audios/via.mp3"], "phonetics": ["[ˈvaɪə]"], "reference": "" },
 				{
 					"word": "vocal",
 					"origin": ["/audios/vocal.mp3"],
@@ -1016,12 +1006,7 @@
 					"phonetics": ["[əˈpɑːstrəfi]", "[əˈpɒstrəfi]"],
 					"reference": ""
 				},
-				{
-					"word": "app",
-					"origin": ["/audios/app.mp3"],
-					"phonetics": ["[æp]"],
-					"reference": ""
-				},
+				{ "word": "app", "origin": ["/audios/app.mp3"], "phonetics": ["[æp]"], "reference": "" },
 				{
 					"word": "arbitrary",
 					"origin": ["/audios/arbitrary.mp3"],
@@ -1154,12 +1139,7 @@
 					"phonetics": ["[TBD]", "[ˈbredkrʌmb]"],
 					"reference": ""
 				},
-				{
-					"word": "bug",
-					"origin": ["/audios/bug.mp3"],
-					"phonetics": ["[bʌɡ]"],
-					"reference": ""
-				},
+				{ "word": "bug", "origin": ["/audios/bug.mp3"], "phonetics": ["[bʌɡ]"], "reference": "" },
 				{
 					"word": "bundler",
 					"origin": ["/audios/bundler.mp3"],
@@ -1466,12 +1446,7 @@
 					"phonetics": ["[ɪˈnjumərəbəl]", "[ɪˈnjuːm(ə)rəb(ə)l]"],
 					"reference": ""
 				},
-				{
-					"word": "eval",
-					"origin": ["/audios/eval.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "eval", "origin": ["/audios/eval.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "event",
 					"origin": ["/audios/event.mp3"],
@@ -1586,12 +1561,7 @@
 					"phonetics": ["[ˈhændld]", "[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "hash",
-					"origin": ["/audios/hash.mp3"],
-					"phonetics": ["[hæʃ]"],
-					"reference": ""
-				},
+				{ "word": "hash", "origin": ["/audios/hash.mp3"], "phonetics": ["[hæʃ]"], "reference": "" },
 				{
 					"word": "height",
 					"origin": ["/audios/height.mp3"],
@@ -1622,12 +1592,7 @@
 					"phonetics": ["[ˈhʌvər]", "[ˈhɒvə(r)]"],
 					"reference": ""
 				},
-				{
-					"word": "href",
-					"origin": ["/audios/href.mp3"],
-					"phonetics": ["H ref"],
-					"reference": ""
-				},
+				{ "word": "href", "origin": ["/audios/href.mp3"], "phonetics": ["H ref"], "reference": "" },
 				{
 					"word": "hyper",
 					"origin": ["/audios/hyper.mp3"],
@@ -1988,18 +1953,8 @@
 					"phonetics": ["[ˈmɑːdʒuːl]"],
 					"reference": ""
 				},
-				{
-					"word": "null",
-					"origin": ["/audios/null.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
-				{
-					"word": "nuxt",
-					"origin": ["/audios/nuxt.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "null", "origin": ["/audios/null.mp3"], "phonetics": ["[TBD]"], "reference": "" },
+				{ "word": "nuxt", "origin": ["/audios/nuxt.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "object",
 					"origin": ["/audios/object.mp3"],
@@ -2114,12 +2069,7 @@
 					"phonetics": ["[ˈplʊrəl]", "[ˈplʊərəl]"],
 					"reference": ""
 				},
-				{
-					"word": "pod",
-					"origin": ["/audios/pod.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "pod", "origin": ["/audios/pod.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "polish",
 					"origin": ["/audios/polish.mp3"],
@@ -2432,12 +2382,7 @@
 					"phonetics": ["[stʌb]"],
 					"reference": ""
 				},
-				{
-					"word": "sudo",
-					"origin": ["/audios/sudo.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "sudo", "origin": ["/audios/sudo.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "swap",
 					"origin": ["/audios/swap.mp3"],
@@ -2683,12 +2628,7 @@
 					"phonetics": ["[ˈæski]"],
 					"reference": ""
 				},
-				{
-					"word": "ASUS",
-					"origin": ["/audios/ASUS.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "ASUS", "origin": ["/audios/ASUS.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "Axios",
 					"origin": ["/audios/Axios.mp3"],
@@ -2731,12 +2671,7 @@
 					"phonetics": ["[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "C#",
-					"origin": ["/audios/C#.mp3"],
-					"phonetics": ["[siː]"],
-					"reference": ""
-				},
+				{ "word": "C#", "origin": ["/audios/C#.mp3"], "phonetics": ["[siː]"], "reference": "" },
 				{
 					"word": "CentOS",
 					"origin": ["/audios/CentOS.mp3"],
@@ -2827,12 +2762,7 @@
 					"phonetics": ["[ˈfiːloʊ]", "[ˈfiːləʊ]"],
 					"reference": ""
 				},
-				{
-					"word": "Flux",
-					"origin": ["/audios/Flux.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "Flux", "origin": ["/audios/Flux.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "GIF",
 					"origin": ["/audios/GIF.mp3"],
@@ -2845,12 +2775,7 @@
 					"phonetics": ["[ˈɡɪɡəbaɪt]"],
 					"reference": ""
 				},
-				{
-					"word": "Git",
-					"origin": ["/audios/Git.mp3"],
-					"phonetics": ["[ɡɪt]"],
-					"reference": ""
-				},
+				{ "word": "Git", "origin": ["/audios/Git.mp3"], "phonetics": ["[ɡɪt]"], "reference": "" },
 				{
 					"word": "Google",
 					"origin": ["/audios/Google.mp3"],
@@ -2875,18 +2800,8 @@
 					"phonetics": ["[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "IEEE",
-					"origin": ["/audios/IEEE.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
-				{
-					"word": "IIFE",
-					"origin": ["/audios/IIFE.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "IEEE", "origin": ["/audios/IEEE.mp3"], "phonetics": ["[TBD]"], "reference": "" },
+				{ "word": "IIFE", "origin": ["/audios/IIFE.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "Immutable.js",
 					"origin": ["/audios/Immutabledot-js.mp3"],
@@ -2923,12 +2838,7 @@
 					"phonetics": ["[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "JSON",
-					"origin": ["/audios/JSON.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "JSON", "origin": ["/audios/JSON.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "Kilobyte",
 					"origin": ["/audios/Kilobyte.mp3"],
@@ -2959,12 +2869,7 @@
 					"phonetics": ["[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "LESS",
-					"origin": ["/audios/LESS.mp3"],
-					"phonetics": ["[les]"],
-					"reference": ""
-				},
+				{ "word": "LESS", "origin": ["/audios/LESS.mp3"], "phonetics": ["[les]"], "reference": "" },
 				{
 					"word": "Linaria",
 					"origin": ["/audios/Linaria.mp3"],
@@ -3115,12 +3020,7 @@
 					"phonetics": ["[səˈfɑːri]"],
 					"reference": ""
 				},
-				{
-					"word": "SCSS",
-					"origin": ["/audios/SCSS.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "SCSS", "origin": ["/audios/SCSS.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "Sentry",
 					"origin": ["/audios/Sentry.mp3"],
@@ -3145,12 +3045,7 @@
 					"phonetics": ["[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "SQL",
-					"origin": ["/audios/SQL.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "SQL", "origin": ["/audios/SQL.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "StackBlitz",
 					"origin": ["/audios/StackBlitz.mp3"],
@@ -3199,36 +3094,21 @@
 					"phonetics": ["[TBD]"],
 					"reference": ""
 				},
-				{
-					"word": "Vim",
-					"origin": ["/audios/Vim.mp3"],
-					"phonetics": ["[vɪm]"],
-					"reference": ""
-				},
+				{ "word": "Vim", "origin": ["/audios/Vim.mp3"], "phonetics": ["[vɪm]"], "reference": "" },
 				{
 					"word": "Vite",
 					"origin": ["/audios/Vite.mp3"],
 					"phonetics": ["[TBD]", "[ˈviːt]"],
 					"reference": ""
 				},
-				{
-					"word": "WiFi",
-					"origin": ["/audios/WiFi.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "WiFi", "origin": ["/audios/WiFi.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "XML",
 					"origin": ["/audios/XML.mp3"],
 					"phonetics": ["[ˌeks em ˈel]"],
 					"reference": ""
 				},
-				{
-					"word": "YAML",
-					"origin": ["/audios/YAML.mp3"],
-					"phonetics": ["[TBD]"],
-					"reference": ""
-				},
+				{ "word": "YAML", "origin": ["/audios/YAML.mp3"], "phonetics": ["[TBD]"], "reference": "" },
 				{
 					"word": "Yargs",
 					"origin": ["/audios/Yargs.mp3"],
@@ -3917,81 +3797,32 @@
 		{
 			"type": "general",
 			"content": [
-				{
-					"sentence": "I appreciate it."
-				},
-				{
-					"sentence": "I would be grateful"
-				},
-				{
-					"sentence": "Please accept my heartfelt thanks."
-				},
-				{
-					"sentence": "Many thanks for your kind and warm help."
-				},
-				{
-					"sentence": "Words cannot express how thankful I am."
-				}
+				{ "sentence": "I appreciate it." },
+				{ "sentence": "I would be grateful" },
+				{ "sentence": "Please accept my heartfelt thanks." },
+				{ "sentence": "Many thanks for your kind and warm help." },
+				{ "sentence": "Words cannot express how thankful I am." }
 			]
 		},
 		{
 			"type": "engineering",
 			"content": [
-				{
-					"sentence": "forward slash",
-					"explanation": "/"
-				},
-				{
-					"sentence": "backslash",
-					"explanation": "\\"
-				},
-				{
-					"sentence": "less than sign",
-					"explanation": "<"
-				},
-				{
-					"sentence": "greater than sign",
-					"explanation": ">"
-				},
-				{
-					"sentence": "question mark",
-					"explanation": "?"
-				},
-				{
-					"sentence": "exclamation mark",
-					"explanation": "!"
-				},
-				{
-					"sentence": "square brackets",
-					"explanation": "[]"
-				},
-				{
-					"sentence": "asynchronous event"
-				},
-				{
-					"sentence": "blocking operation"
-				},
-				{
-					"sentence": "render-blocking"
-				},
-				{
-					"sentence": "In sequence"
-				},
-				{
-					"sentence": "In parallel"
-				},
-				{
-					"sentence": "These HTTP request runs concurrently"
-				},
-				{
-					"sentence": "These HTTP request runs sequentially"
-				},
-				{
-					"sentence": "sequential HTTP requests"
-				},
-				{
-					"sentence": "concurrent HTTP requests"
-				},
+				{ "sentence": "forward slash", "explanation": "/" },
+				{ "sentence": "backslash", "explanation": "\\" },
+				{ "sentence": "less than sign", "explanation": "<" },
+				{ "sentence": "greater than sign", "explanation": ">" },
+				{ "sentence": "question mark", "explanation": "?" },
+				{ "sentence": "exclamation mark", "explanation": "!" },
+				{ "sentence": "square brackets", "explanation": "[]" },
+				{ "sentence": "asynchronous event" },
+				{ "sentence": "blocking operation" },
+				{ "sentence": "render-blocking" },
+				{ "sentence": "In sequence" },
+				{ "sentence": "In parallel" },
+				{ "sentence": "These HTTP request runs concurrently" },
+				{ "sentence": "These HTTP request runs sequentially" },
+				{ "sentence": "sequential HTTP requests" },
+				{ "sentence": "concurrent HTTP requests" },
 				{
 					"sentence": "parallel HTTP requests",
 					"explanation": "There is a slight difference between concurrent and parallel. Refer to: https://gist.github.com/montanaflynn/cb349fd109b561c35d6c8500471cdb39"
@@ -4001,102 +3832,36 @@
 		{
 			"type": "algorithm",
 			"content": [
-				{
-					"sentence": "2 + 1",
-					"explanation": "two plus one"
-				},
-				{
-					"sentence": "2 % 10",
-					"explanation": "TBD"
-				},
-				{
-					"sentence": "2 - 1",
-					"explanation": "two minus one / subtract 2 from 1"
-				},
-				{
-					"sentence": "2 * 1",
-					"explanation": "two times one"
-				},
-				{
-					"sentence": "4 / 2",
-					"explanation": "four divided by two"
-				},
-				{
-					"sentence": "O(1)",
-					"explanation": "Big O of one"
-				},
-				{
-					"sentence": "O(lg(n))",
-					"explanation": "Big O of log n"
-				},
-				{
-					"sentence": "O(n^2)",
-					"explanation": "Big O of n squared (quadratic)"
-				},
-				{
-					"sentence": "O(n^3)",
-					"explanation": "Big O of n cubed"
-				},
-				{
-					"sentence": "O(m+n)",
-					"explanation": "Big O of m plus n"
-				},
-				{
-					"sentence": "O(n * sqrt(n))",
-					"explanation": "Big O of n (times) square root of n"
-				},
-				{
-					"sentence": "O(n * lg(n))",
-					"explanation": "Big O of n (times) log n"
-				},
-				{
-					"sentence": "O(ln(n))",
-					"explanation": "Big O of natural log of n"
-				},
-				{
-					"sentence": "O(1/n)",
-					"explanation": "Big O of 1 over n"
-				},
-				{
-					"sentence": "4^2",
-					"explanation": "4 to the power of 2"
-				},
-				{
-					"sentence": "2^5",
-					"explanation": "2 to the 5th power"
-				}
+				{ "sentence": "2 + 1", "explanation": "two plus one" },
+				{ "sentence": "2 % 10", "explanation": "TBD" },
+				{ "sentence": "2 - 1", "explanation": "two minus one / subtract 2 from 1" },
+				{ "sentence": "2 * 1", "explanation": "two times one" },
+				{ "sentence": "4 / 2", "explanation": "four divided by two" },
+				{ "sentence": "O(1)", "explanation": "Big O of one" },
+				{ "sentence": "O(lg(n))", "explanation": "Big O of log n" },
+				{ "sentence": "O(n^2)", "explanation": "Big O of n squared (quadratic)" },
+				{ "sentence": "O(n^3)", "explanation": "Big O of n cubed" },
+				{ "sentence": "O(m+n)", "explanation": "Big O of m plus n" },
+				{ "sentence": "O(n * sqrt(n))", "explanation": "Big O of n (times) square root of n" },
+				{ "sentence": "O(n * lg(n))", "explanation": "Big O of n (times) log n" },
+				{ "sentence": "O(ln(n))", "explanation": "Big O of natural log of n" },
+				{ "sentence": "O(1/n)", "explanation": "Big O of 1 over n" },
+				{ "sentence": "4^2", "explanation": "4 to the power of 2" },
+				{ "sentence": "2^5", "explanation": "2 to the 5th power" }
 			]
 		},
 		{
 			"type": "presentation",
 			"content": [
-				{
-					"sentence": "You are breaking up."
-				},
-				{
-					"sentence": "I did't catch that."
-				},
-				{
-					"sentence": "I didn't follow."
-				},
-				{
-					"sentence": "My network went down just now. Can you repeat that?"
-				},
-				{
-					"sentence": "Let's wait three more minutes for the others to join."
-				},
-				{
-					"sentence": "My browser is frozen."
-				},
-				{
-					"sentence": "Could you please let next presenter demo first and come back to me later?"
-				},
-				{
-					"sentence": "I can't see it clearly. Do you mind zooming in a little bit?"
-				},
-				{
-					"sentence": "I have to drop off now. I will catch up with you later."
-				}
+				{ "sentence": "You are breaking up." },
+				{ "sentence": "I did't catch that." },
+				{ "sentence": "I didn't follow." },
+				{ "sentence": "My network went down just now. Can you repeat that?" },
+				{ "sentence": "Let's wait three more minutes for the others to join." },
+				{ "sentence": "My browser is frozen." },
+				{ "sentence": "Could you please let next presenter demo first and come back to me later?" },
+				{ "sentence": "I can't see it clearly. Do you mind zooming in a little bit?" },
+				{ "sentence": "I have to drop off now. I will catch up with you later." }
 			]
 		}
 	]
