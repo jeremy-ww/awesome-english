@@ -1654,6 +1654,12 @@
 					"reference": ""
 				},
 				{
+					"word": "incognito",
+					"origin": ["/audios/incognito.mp3"],
+					"phonetics": ["[ˌɪnkɑːɡˈniːtoʊ]", "[ˌɪnkɒɡˈniːtəʊ]"],
+					"reference": ""
+				},
+				{
 					"word": "increase",
 					"origin": ["/audios/increase.mp3"],
 					"phonetics": ["[ɪnˈkriːs]"],
@@ -1861,6 +1867,12 @@
 					"word": "million",
 					"origin": ["/audios/million.mp3"],
 					"phonetics": ["[ˈmɪljən]"],
+					"reference": ""
+				},
+				{
+					"word": "millisecond",
+					"origin": ["/audios/millisecond.mp3"],
+					"phonetics": ["[ˈmɪlisekənd]"],
 					"reference": ""
 				},
 				{
