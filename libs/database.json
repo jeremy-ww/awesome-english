@@ -2154,6 +2154,12 @@
           "reference": ""
         },
         {
+          "word": "portfolio",
+          "origin": ["/audios/portfolio.mp3"],
+          "phonetics": ["[pɔːrtˈfoʊlioʊ]", "[pɔːtˈfəʊliəʊ]"],
+          "reference": ""
+        },
+        {
           "word": "pound",
           "origin": ["/audios/pound.mp3"],
           "phonetics": ["[paʊnd]"],
