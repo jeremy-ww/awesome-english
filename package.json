@@ -10,7 +10,7 @@
     "lint": "next lint",
     "analyze": "cross-env ANALYZE=true yarn build",
     "serve": "serve .next/analyze",
-    "add-content": "node scripts/add.mjs"
+    "add-content": "node --trace-warnings scripts/add.mjs"
   },
   "homepage": "https://github.com/jeremy-ww/awesome-english",
   "keywords": [],
