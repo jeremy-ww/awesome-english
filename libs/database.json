@@ -3569,6 +3569,12 @@
           "reference": ""
         },
         {
+          "word": "bureau",
+          "origin": ["/audios/bureau.mp3"],
+          "phonetics": ["[ˈbjʊroʊ]", "[ˈbjʊərəʊ]"],
+          "reference": ""
+        },
+        {
           "word": "certificate",
           "origin": ["/audios/certificate.mp3"],
           "phonetics": ["[TBD]"],
@@ -3596,6 +3602,12 @@
           "word": "college",
           "origin": ["/audios/college.mp3"],
           "phonetics": ["[ˈkɑːlɪdʒ]", "[ˈkɒlɪdʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "competitor",
+          "origin": ["/audios/competitor.mp3"],
+          "phonetics": ["[kəmˈpetɪtər]", "[kəmˈpetɪtə(r)]"],
           "reference": ""
         },
         {
@@ -3746,6 +3758,24 @@
           "word": "materials",
           "origin": ["/audios/materials.mp3"],
           "phonetics": ["[məˈtɪriəlz]", "[məˈtɪəriəlz]"],
+          "reference": ""
+        },
+        {
+          "word": "mobility",
+          "origin": ["/audios/mobility.mp3"],
+          "phonetics": ["[moʊˈbɪləti]", "[məʊˈbɪləti]"],
+          "reference": ""
+        },
+        {
+          "word": "opponent",
+          "origin": ["/audios/opponent.mp3"],
+          "phonetics": ["[əˈpoʊnənt]", "[əˈpəʊnənt]"],
+          "reference": ""
+        },
+        {
+          "word": "oppose",
+          "origin": ["/audios/oppose.mp3"],
+          "phonetics": ["[əˈpoʊz]", "[əˈpəʊz]"],
           "reference": ""
         },
         {
