@@ -28,7 +28,7 @@ export default function App({ Component, pageProps }: AppProps) {
 
       <ViewOnGitHub />
       <QueryClientProvider client={queryClient}>
-      <Component {...pageProps} />
+        <Component {...pageProps} />
       </QueryClientProvider>
     </>
   )
