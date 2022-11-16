@@ -2406,6 +2406,12 @@
           "reference": ""
         },
         {
+          "word": "sneak",
+          "origin": ["/audios/sneak.mp3"],
+          "phonetics": ["[sniːk]"],
+          "reference": ""
+        },
+        {
           "word": "snippet",
           "origin": ["/audios/snippet.mp3"],
           "phonetics": ["[ˈsnɪpɪt]"],
@@ -3492,6 +3498,12 @@
           "reference": ""
         },
         {
+          "word": "legend",
+          "origin": ["/audios/legend.mp3"],
+          "phonetics": ["[ˈledʒənd]"],
+          "reference": ""
+        },
+        {
           "word": "participant",
           "origin": ["/audios/participant.mp3"],
           "phonetics": ["[pɑːrˈtɪsɪpənt]", "[pɑːˈtɪsɪpənt]"],
@@ -3572,6 +3584,12 @@
           "word": "bureau",
           "origin": ["/audios/bureau.mp3"],
           "phonetics": ["[ˈbjʊroʊ]", "[ˈbjʊərəʊ]"],
+          "reference": ""
+        },
+        {
+          "word": "campaign",
+          "origin": ["/audios/campaign.mp3"],
+          "phonetics": ["[kæmˈpeɪn]"],
           "reference": ""
         },
         {
