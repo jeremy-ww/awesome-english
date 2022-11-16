@@ -3587,6 +3587,12 @@
           "reference": ""
         },
         {
+          "word": "business",
+          "origin": ["/audios/business.mp3"],
+          "phonetics": ["[ˈbɪznəs]"],
+          "reference": ""
+        },
+        {
           "word": "campaign",
           "origin": ["/audios/campaign.mp3"],
           "phonetics": ["[kæmˈpeɪn]"],
@@ -3743,6 +3749,18 @@
           "reference": ""
         },
         {
+          "word": "evolution",
+          "origin": ["/audios/evolution.mp3"],
+          "phonetics": ["[ˌevəˈluːʃ(ə)n]", "[ˌiːvəˈluːʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "evolve",
+          "origin": ["/audios/evolve.mp3"],
+          "phonetics": ["[ɪˈvɑːlv]", "[ɪˈvɒlv]"],
+          "reference": ""
+        },
+        {
           "word": "expire",
           "origin": ["/audios/expire.mp3"],
           "phonetics": ["[ɪkˈspaɪər]", "[ɪkˈspaɪə(r)]"],
@@ -3887,6 +3905,12 @@
           "reference": ""
         },
         {
+          "word": "resilient",
+          "origin": ["/audios/resilient.mp3"],
+          "phonetics": ["[rɪˈzɪliənt]"],
+          "reference": ""
+        },
+        {
           "word": "resume",
           "origin": ["/audios/resume.mp3"],
           "phonetics": ["[rɪˈzuːm]", "[rɪˈzjuːm]"],
@@ -3920,6 +3944,12 @@
           "word": "thrive",
           "origin": ["/audios/thrive.mp3"],
           "phonetics": ["[θraɪv]"],
+          "reference": ""
+        },
+        {
+          "word": "valuable",
+          "origin": ["/audios/valuable.mp3"],
+          "phonetics": ["[ˈvæljuəb(ə)l]"],
           "reference": ""
         },
         {
