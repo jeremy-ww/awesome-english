@@ -608,6 +608,7 @@
   {
     "type": "presentation",
     "content": [
+      "agenda",
       "legend",
       "present",
       "represented",
