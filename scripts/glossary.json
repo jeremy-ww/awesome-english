@@ -147,6 +147,8 @@
   {
     "type": "engineering",
     "content": [
+      "sponsor",
+      "platinum",
       "gradient",
       "clamp",
       "contrast",
@@ -451,6 +453,7 @@
   {
     "type": "terms",
     "content": [
+      "Tailwind",
       "Federation",
       "Tuple",
       "Lottie",

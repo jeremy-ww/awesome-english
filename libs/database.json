@@ -2160,6 +2160,12 @@
           "reference": ""
         },
         {
+          "word": "platinum",
+          "origin": ["/audios/platinum.mp3"],
+          "phonetics": ["[ˈplætɪnəm]"],
+          "reference": ""
+        },
+        {
           "word": "plural",
           "origin": ["/audios/plural.mp3"],
           "phonetics": ["[ˈplʊrəl]", "[ˈplʊərəl]"],
@@ -2463,6 +2469,12 @@
           "word": "snippet",
           "origin": ["/audios/snippet.mp3"],
           "phonetics": ["[ˈsnɪpɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "sponsor",
+          "origin": ["/audios/sponsor.mp3"],
+          "phonetics": ["[ˈspɑːnsər]", "[ˈspɒnsə(r)]"],
           "reference": ""
         },
         {
@@ -3194,6 +3206,12 @@
           "word": "Swagger",
           "origin": ["/audios/Swagger.mp3"],
           "phonetics": ["[ˈswæɡər]", "[ˈswæɡə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "Tailwind",
+          "origin": ["/audios/Tailwind.mp3"],
+          "phonetics": ["[ˈteɪlwɪnd]"],
           "reference": ""
         },
         {
