@@ -1351,6 +1351,12 @@
           "reference": ""
         },
         {
+          "word": "contrast",
+          "origin": ["/audios/contrast.mp3"],
+          "phonetics": ["[ˈkɑːntræst]", "[ˈkɒntrɑːst]"],
+          "reference": ""
+        },
+        {
           "word": "creation",
           "origin": ["/audios/creation.mp3"],
           "phonetics": ["[kriˈeɪʃ(ə)n]"],
@@ -1837,6 +1843,12 @@
           "word": "layer",
           "origin": ["/audios/layer.mp3"],
           "phonetics": ["[ˈleɪər]", "[ˈleɪə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "legacy",
+          "origin": ["/audios/legacy.mp3"],
+          "phonetics": ["[ˈleɡəsi]"],
           "reference": ""
         },
         {
