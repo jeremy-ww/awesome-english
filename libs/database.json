@@ -3713,6 +3713,12 @@
           "reference": ""
         },
         {
+          "word": "compensation",
+          "origin": ["/audios/compensation.mp3"],
+          "phonetics": ["[ˌkɑːmpenˈseɪʃ(ə)n]", "[ˌkɒmpenˈseɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
           "word": "competitor",
           "origin": ["/audios/competitor.mp3"],
           "phonetics": ["[kəmˈpetɪtər]", "[kəmˈpetɪtə(r)]"],

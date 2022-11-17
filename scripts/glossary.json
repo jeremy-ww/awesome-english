@@ -631,6 +631,7 @@
   {
     "type": "employment",
     "content": [
+      "compensation",
       "commitment",
       "business",
       "valuable",
