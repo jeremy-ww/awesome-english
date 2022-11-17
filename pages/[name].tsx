@@ -139,6 +139,10 @@ export default function Content({
         e.stopPropagation()
         setIsSearching((v) => !v)
       }
+
+      if (e.key === 'Escape') {
+        setIsSearching(false)
+      }
     }
 
     document.addEventListener('keydown', handleKeyDown)
