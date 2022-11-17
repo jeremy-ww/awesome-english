@@ -1846,6 +1846,12 @@
           "reference": ""
         },
         {
+          "word": "italic",
+          "origin": ["/audios/italic.mp3"],
+          "phonetics": ["[ɪˈtælɪk]"],
+          "reference": ""
+        },
+        {
           "word": "jpeg",
           "origin": ["/audios/jpeg.mp3"],
           "phonetics": ["[ˈdʒeɪpeɡ]"],
