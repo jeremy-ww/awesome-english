@@ -317,6 +317,12 @@
           "reference": ""
         },
         {
+          "word": "edition",
+          "origin": ["/audios/edition.mp3"],
+          "phonetics": ["[ɪˈdɪʃn]", "[ɪˈdɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
           "word": "emoji",
           "origin": ["/audios/emoji.mp3"],
           "phonetics": ["[ɪˈmoʊdʒi]", "[ɪˈməʊdʒi]"],
@@ -3650,6 +3656,12 @@
           "word": "college",
           "origin": ["/audios/college.mp3"],
           "phonetics": ["[ˈkɑːlɪdʒ]", "[ˈkɒlɪdʒ]"],
+          "reference": ""
+        },
+        {
+          "word": "commitment",
+          "origin": ["/audios/commitment.mp3"],
+          "phonetics": ["[kəˈmɪtmənt]"],
           "reference": ""
         },
         {
