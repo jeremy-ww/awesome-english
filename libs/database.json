@@ -1207,6 +1207,12 @@
           "reference": ""
         },
         {
+          "word": "clamp",
+          "origin": ["/audios/clamp.mp3"],
+          "phonetics": ["[klæmp]"],
+          "reference": ""
+        },
+        {
           "word": "clone",
           "origin": ["/audios/clone.mp3"],
           "phonetics": ["[kloʊn]", "[kləʊn]"],
@@ -2844,6 +2850,12 @@
           "word": "Evan You",
           "origin": ["/audios/Evan You.mp3"],
           "phonetics": ["[TBD]"],
+          "reference": ""
+        },
+        {
+          "word": "Federation",
+          "origin": ["/audios/Federation.mp3"],
+          "phonetics": ["[ˌfedəˈreɪʃ(ə)n]"],
           "reference": ""
         },
         {

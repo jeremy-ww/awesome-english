@@ -146,6 +146,7 @@
   {
     "type": "engineering",
     "content": [
+      "clamp",
       "contrast",
       "legacy",
       "portfolio",
@@ -448,6 +449,7 @@
   {
     "type": "terms",
     "content": [
+      "Federation",
       "Tuple",
       "Lottie",
       "Deno",
