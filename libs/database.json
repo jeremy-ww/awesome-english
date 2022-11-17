@@ -1660,6 +1660,12 @@
         },
         { "word": "href", "origin": ["/audios/href.mp3"], "phonetics": ["H ref"], "reference": "" },
         {
+          "word": "hydration",
+          "origin": ["/audios/hydration.mp3"],
+          "phonetics": ["[haɪˈdreɪʃn]"],
+          "reference": ""
+        },
+        {
           "word": "hyper",
           "origin": ["/audios/hyper.mp3"],
           "phonetics": ["[ˈhaɪpər]", "[ˈhaɪpə(r)]"],
@@ -3200,6 +3206,12 @@
           "word": "StackBlitz",
           "origin": ["/audios/StackBlitz.mp3"],
           "phonetics": ["[TBD]"],
+          "reference": ""
+        },
+        {
+          "word": "Suspense",
+          "origin": ["/audios/Suspense.mp3"],
+          "phonetics": ["[səˈspens]"],
           "reference": ""
         },
         {

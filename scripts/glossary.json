@@ -147,6 +147,7 @@
   {
     "type": "engineering",
     "content": [
+      "hydration",
       "italic",
       "sponsor",
       "platinum",
@@ -454,6 +455,7 @@
   {
     "type": "terms",
     "content": [
+      "Suspense",
       "Tailwind",
       "Federation",
       "Tuple",
