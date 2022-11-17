@@ -4,6 +4,12 @@
       "type": "general",
       "content": [
         {
+          "word": "abbreviation",
+          "origin": ["/audios/abbreviation.mp3"],
+          "phonetics": ["[əˌbriːviˈeɪʃn]"],
+          "reference": ""
+        },
+        {
           "word": "accepts",
           "origin": ["/audios/accepts.mp3"],
           "phonetics": ["[əkˈsepts]"],
@@ -1601,6 +1607,12 @@
           "word": "glitches",
           "origin": ["/audios/glitches.mp3"],
           "phonetics": ["[ɡlɪtʃɪz]", "[ˈɡlɪtʃɪz]"],
+          "reference": ""
+        },
+        {
+          "word": "gradient",
+          "origin": ["/audios/gradient.mp3"],
+          "phonetics": ["[ˈɡreɪdiənt]"],
           "reference": ""
         },
         {

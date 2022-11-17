@@ -2,6 +2,7 @@
   {
     "type": "general",
     "content": [
+      "abbreviation",
       "edition",
       "separately",
       "accordingly",
@@ -146,6 +147,7 @@
   {
     "type": "engineering",
     "content": [
+      "gradient",
       "clamp",
       "contrast",
       "legacy",
