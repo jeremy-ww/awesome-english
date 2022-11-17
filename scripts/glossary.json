@@ -436,7 +436,6 @@
       "terminate",
       "typecast",
       "toggle",
-      "tuple",
       "turbo",
       "union",
       "vulnerability",
@@ -448,6 +447,7 @@
   {
     "type": "terms",
     "content": [
+      "Tuple",
       "Lottie",
       "Deno",
       "Vercel",

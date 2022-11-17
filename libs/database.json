@@ -2569,12 +2569,6 @@
           "reference": ""
         },
         {
-          "word": "tuple",
-          "origin": ["/audios/tuple.mp3"],
-          "phonetics": ["[TBD]"],
-          "reference": ""
-        },
-        {
           "word": "turbo",
           "origin": ["/audios/turbo.mp3"],
           "phonetics": ["[ˈtɜːrboʊ]", "[ˈtɜːbəʊ]"],
@@ -3176,6 +3170,12 @@
           "word": "TOEIC",
           "origin": ["/audios/TOEIC.mp3"],
           "phonetics": ["[ˈtoʊɪk]", "[ˈtəʊɪk]"],
+          "reference": ""
+        },
+        {
+          "word": "Tuple",
+          "origin": ["/audios/Tuple.mp3"],
+          "phonetics": ["[ˈtjʊpəl; ˈtʌpəl]", "[tjʊpəl; ˈtʌpəl]"],
           "reference": ""
         },
         {
