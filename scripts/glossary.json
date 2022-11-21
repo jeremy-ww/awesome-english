@@ -2,6 +2,8 @@
   {
     "type": "general",
     "content": [
+      "occupied",
+      "recipient",
       "abbreviation",
       "edition",
       "separately",
@@ -147,6 +149,14 @@
   {
     "type": "engineering",
     "content": [
+      "capitalized",
+      "fragment",
+      "preprocessor",
+      "silibing",
+      "complete",
+      "raw",
+      "absolute",
+      "execute",
       "hydration",
       "italic",
       "sponsor",
@@ -616,6 +626,9 @@
   {
     "type": "presentation",
     "content": [
+      "complicate",
+      "break",
+      "presented",
       "agenda",
       "legend",
       "present",
@@ -634,6 +647,11 @@
   {
     "type": "employment",
     "content": [
+      "introverted",
+      "chatty",
+      "expressive",
+      "customer",
+      "mentor",
       "compensation",
       "commitment",
       "business",

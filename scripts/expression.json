@@ -16,6 +16,9 @@
       },
       {
         "sentence": "Words cannot express how thankful I am."
+      },
+      {
+        "sentence": "I majored in CS."
       }
     ]
   },
@@ -80,6 +83,15 @@
       {
         "sentence": "parallel HTTP requests",
         "explanation": "There is a slight difference between concurrent and parallel. Refer to: https://gist.github.com/montanaflynn/cb349fd109b561c35d6c8500471cdb39"
+      },
+      {
+        "sentence": "This word is all capitalized"
+      },
+      {
+        "sentence": "This word is all lowercase"
+      },
+      {
+        "sentence": "The size of this scroll bar thumb is getting bigger"
       }
     ]
   },
@@ -181,6 +193,62 @@
       },
       {
         "sentence": "I have to drop off now. I will catch up with you later."
+      },
+      {
+        "sentence": "Unfortunately, I have to drop off the meeting because I have another meeting to attend."
+      },
+      {
+        "sentence": "Sorry, I lost internet and was dropped from the call."
+      },
+      {
+        "sentence": "Let's try to go into the details."
+      }
+    ]
+  },
+  {
+    "type": "email",
+    "content": [
+      {
+        "sentence": "Just to make sure we are on the same page"
+      },
+      {
+        "sentence": "We'll do this thing on the top priority tomorrow morning."
+      },
+      {
+        "sentence": "Please drop me a call or email when you have time."
+      },
+      {
+        "sentence": "Futher to my email yesterday, we..."
+      },
+      {
+        "sentence": "Could you kindly let us know..."
+      },
+      {
+        "sentence": "I have to go to a meeting now, but I'll check in with you later."
+      },
+      {
+        "sentence": "David checked in with me on what we can do."
+      },
+      {
+        "sentence": "I have put John on copy"
+      },
+      {
+        "sentence": "Please pass me the email."
+      },
+      {
+        "sentence": "I will get back to you tomorrow"
+      },
+      {
+        "sentence": "You will be informed when it makes any headway"
+      },
+      {
+        "sentence": "I apologize for not getting in contact with you before now"
+      },
+      {
+        "sentence": "I'm writing in connection with xxx"
+      },
+      {
+        "sentence": "I want to update you on xxx"
       }
     ]
   }
