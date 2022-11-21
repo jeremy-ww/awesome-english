@@ -1140,6 +1140,12 @@
           "reference": ""
         },
         {
+          "word": "atomic",
+          "origin": ["/audios/atomic.mp3"],
+          "phonetics": ["[əˈtɑːmɪk]", "[əˈtɒmɪk]"],
+          "reference": ""
+        },
+        {
           "word": "authenticate",
           "origin": ["/audios/authenticate.mp3"],
           "phonetics": ["[ɔːˈθentɪkeɪt]"],
@@ -1571,6 +1577,12 @@
           "word": "explicit",
           "origin": ["/audios/explicit.mp3"],
           "phonetics": ["[ɪkˈsplɪsɪt]"],
+          "reference": ""
+        },
+        {
+          "word": "extract",
+          "origin": ["/audios/extract.mp3"],
+          "phonetics": ["[ˈekstrækt]"],
           "reference": ""
         },
         {
@@ -2834,6 +2846,12 @@
         },
         { "word": "ASUS", "origin": ["/audios/ASUS.mp3"], "phonetics": ["[TBD]"], "reference": "" },
         {
+          "word": "Atom",
+          "origin": ["/audios/Atom.mp3"],
+          "phonetics": ["[ˈætəm]"],
+          "reference": ""
+        },
+        {
           "word": "Axios",
           "origin": ["/audios/Axios.mp3"],
           "phonetics": ["[TBD]"],
@@ -3235,6 +3253,12 @@
           "word": "Safari",
           "origin": ["/audios/Safari.mp3"],
           "phonetics": ["[səˈfɑːri]"],
+          "reference": ""
+        },
+        {
+          "word": "Scientist",
+          "origin": ["/audios/Scientist.mp3"],
+          "phonetics": ["[ˈsaɪəntɪst]"],
           "reference": ""
         },
         { "word": "SCSS", "origin": ["/audios/SCSS.mp3"], "phonetics": ["[TBD]"], "reference": "" },

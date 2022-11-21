@@ -150,6 +150,8 @@
   {
     "type": "engineering",
     "content": [
+      "extract",
+      "atomic",
       "capitalized",
       "fragment",
       "preprocessor",
@@ -466,6 +468,8 @@
   {
     "type": "terms",
     "content": [
+      "Scientist",
+      "Atom",
       "Suspense",
       "Tailwind",
       "Federation",
