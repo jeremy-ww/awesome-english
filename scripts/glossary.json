@@ -150,6 +150,7 @@
   {
     "type": "engineering",
     "content": [
+      "logic",
       "extract",
       "atomic",
       "capitalized",

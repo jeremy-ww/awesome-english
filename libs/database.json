@@ -1954,6 +1954,12 @@
           "reference": ""
         },
         {
+          "word": "logic",
+          "origin": ["/audios/logic.mp3"],
+          "phonetics": ["[ˈlɑːdʒɪk]", "[ˈlɒdʒɪk]"],
+          "reference": ""
+        },
+        {
           "word": "macro",
           "origin": ["/audios/macro.mp3"],
           "phonetics": ["[ˈmækroʊ]", "[ˈmækrəʊ]"],
