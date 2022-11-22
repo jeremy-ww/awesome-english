@@ -4257,7 +4257,8 @@
         },
         { "sentence": "This word is all capitalized" },
         { "sentence": "This word is all lowercase" },
-        { "sentence": "The size of this scroll bar thumb is getting bigger" }
+        { "sentence": "The size of this scroll bar thumb is getting bigger" },
+        { "sentence": "Our new feature will go live this Wednesday." }
       ]
     },
     {
