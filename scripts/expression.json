@@ -167,6 +167,36 @@
       },
       {
         "sentence": "Scoped slots"
+      },
+      {
+        "sentence": "can be shortened"
+      },
+      {
+        "sentence": "If you want user input to be automatically typecast as number"
+      },
+      {
+        "sentence": "This variable points to b"
+      },
+      {
+        "sentence": "Can we can reference this object value"
+      },
+      {
+        "sentence": "Emmiting events",
+      }
+      {
+        "sentence": "Because this avoid having xxx"
+      },
+      {
+        "sentence": "mutate reactive state"
+      },
+      {
+        "sentence": "This can bring performance implication"
+      },
+      {
+        "sentence": "I don't wanna hold anyone back"
+      },
+      {
+        "sentence": "Slots content has access to the data scope of the parent component"
       }
     ]
   },

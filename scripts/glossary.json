@@ -2,6 +2,7 @@
   {
     "type": "general",
     "content": [
+      "interpretation",
       "despite",
       "conservative",
       "occupied",
@@ -160,6 +161,24 @@
   {
     "type": "engineering",
     "content": [
+      "caveates",
+      "comfrot",
+      "implication",
+      "emit",
+      "typecase",
+      "representative",
+      "handler",
+      "delimiter",
+      "opt-out",
+      "appropriate",
+      "snake-case",
+      "pascal-case",
+      "kebab-case",
+      "camel-case",
+      "verbose",
+      "co-exit",
+      "presence",
+      "validator",
       "enscapsulate",
       "composable",
       "incur",
@@ -692,6 +711,8 @@
   {
     "type": "employment",
     "content": [
+      "clock-in",
+      "clock-out",
       "diverse",
       "introverted",
       "chatty",
