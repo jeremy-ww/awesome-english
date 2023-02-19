@@ -63,6 +63,15 @@
         "sentence": "render-blocking"
       },
       {
+        "sentence": "Template Refs"
+      },
+      {
+        "sentence": "Profiling Option"
+      },
+      {
+        "sentence": "On demand or in parallel"
+      },
+      {
         "sentence": "In sequence"
       },
       {
@@ -95,6 +104,69 @@
       },
       {
         "sentence": "Our new feature will go live this Wednesday."
+      },
+      {
+        "sentence": "So you can differentiate a and b."
+      },
+      {
+        "sentence": "Redux is tightly coupled to your business logical code."
+      },
+      {
+        "sentence": "Elements with multiple attributes should span multiple lines, with one attribute per line."
+      },
+      {
+        "sentence": "abide by them at all costs."
+      },
+      {
+        "sentence": "Component names should prefer full words over abbreviations."
+      },
+      {
+        "sentence": "If you prefer splitting up your `*.vue` components into multiple files"
+      },
+      {
+        "sentence": "How to reduce the overhead for large immutable structures"
+      },
+      {
+        "sentence": "Be cautious of size when introducing new dependencies."
+      },
+      {
+        "sentence": "Have rich interactivity of requirements."
+      },
+      {
+        "sentence": "In some cases, you may want to explicityly annotate the type of a computed property to ensure its implementation is correct"
+      },
+      {
+        "sentence": "Type inference for props in Options API requires wrapping the component with `deineComponents`"
+      },
+      {
+        "sentence": "reactive() also implicityly infers the type from its argument"
+      },
+      {
+        "sentence": "Type based check vs. runtime check"
+      },
+      {
+        "sentence": "An object literal type"
+      },
+      {
+        "sentence": "separation of concerns"
+      },
+      {
+        "sentence": "large scale applications"
+      },
+      {
+        "sentence": "TypeScript also improves developer ergonomics via type-based atuo-completion in IDEs"
+      },
+      {
+        "sentence": "Reuse stateful logic"
+      },
+      {
+        "sentence": "Injections are resolved before the component's own state"
+      },
+      {
+        "sentence": "Divide the app into smaller chunks"
+      },
+      {
+        "sentence": "Scoped slots"
       }
     ]
   },
