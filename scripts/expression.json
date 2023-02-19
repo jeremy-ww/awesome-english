@@ -197,6 +197,12 @@
       },
       {
         "sentence": "Slots content has access to the data scope of the parent component"
+      },
+      {
+        "sentence": "Global registration makes dependency relationships less explicit in large scale application."
+      },
+      {
+        "sentence": "Only suitable when your list render output does not rely on child component state or temporary DOM state(e.g., form input)"
       }
     ]
   },
