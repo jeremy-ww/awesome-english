@@ -203,6 +203,9 @@
       },
       {
         "sentence": "Only suitable when your list render output does not rely on child component state or temporary DOM state(e.g., form input)"
+      },
+      {
+        "sentence": "So don't need to start over again."
       }
     ]
   },
