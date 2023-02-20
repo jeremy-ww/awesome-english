@@ -162,6 +162,8 @@
   {
     "type": "engineering",
     "content": [
+      "redundancy",
+      "resilient",
       "opaque",
       "penetrate",
       "caveates",
