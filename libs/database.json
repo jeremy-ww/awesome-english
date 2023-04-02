@@ -4995,7 +4995,19 @@
         { "sentence": "That's the end of my demo" },
         { "sentence": "That's pretty much it." },
         { "sentence": "Did the release succeed?" },
-        { "sentence": "Did it occur?" }
+        { "sentence": "Did it occur?" },
+        { "sentence": "Apart from mentioned points, anybody else have any points to highlight?" },
+        { "sentence": "So far we got three topics" },
+        { "sentence": "We saw a downward trend" },
+        { "sentence": "We see an upward trend" },
+        { "sentence": "The A above is referring to sth." },
+        { "sentence": "Meaning we can do sth." },
+        { "sentence": "A more comprehensive test" },
+        { "sentence": "I haven't follow up that closely recently" },
+        { "sentence": "Speaking of UT, xxx" },
+        { "sentence": "We can sync up after this meeting" },
+        { "sentence": "From the FE perspective" },
+        { "sentence": "This is referring to if I'm a A to do B" }
       ]
     },
     {
