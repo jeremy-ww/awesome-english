@@ -37,6 +37,39 @@
       },
       {
         "sentence": "Let's meet on 22rd (twenty-second) of this month."
+      },
+      {
+        "sentence": "It would be next working day if it falls on a holiday."
+      },
+      {
+        "sentence": "Can you tell me how the accident came about?"
+      },
+      {
+        "sentence": "He came over as a sympathetic person."
+      },
+      {
+        "sentence": "When the right opportunity comes along, she'll take it."
+      },
+      {
+        "sentence": "What's your expects from me?"
+      },
+      {
+        "sentence": "What kind of questions do you often get asked?"
+      },
+      {
+        "sentence": "Mu gut feelings tells me."
+      },
+      {
+        "sentence": "In other words"
+      },
+      {
+        "sentence": "Just to clarify"
+      },
+      {
+        "sentence": "To be precise"
+      },
+      {
+        "sentence": ""
       }
     ]
   },
@@ -293,6 +326,72 @@
       },
       {
         "sentence": "I bring it up because xxx"
+      },
+      {
+        "sentence": "Every system has a periodic maintenance."
+      },
+      {
+        "sentence": "You can rename an export when importing it."
+      },
+      {
+        "sentence": "This piece of code is error-prone"
+      },
+      {
+        "sentence": "This is holding us back"
+      },
+      {
+        "sentence": "This hinders our development"
+      },
+      {
+        "sentence": "I came across this Wiki page."
+      },
+      {
+        "sentence": "Looking forward to the future, I hope to participate in more architectural matters"
+      },
+      {
+        "sentence": "This function is only used for backwards compatibility."
+      },
+      {
+        "sentence": "cool down period"
+      },
+      {
+        "sentence": "This score has increased by 40%."
+      },
+      {
+        "sentence": "You can see the trend, our efficiency has dropped by 50%"
+      },
+      {
+        "sentence": "The curve is relatively smooth/flat"
+      },
+      {
+        "sentence": "There are some code snippets unreachable in our project"
+      },
+      {
+        "sentence": "The development of that task is close to done."
+      },
+      {
+        "sentence": "From my experience with SonarQube, I can say xxx"
+      },
+      {
+        "sentence": "Never slow down the opening speed of your terminal"
+      },
+      {
+        "sentence": "This warning disappears in the incogonito mode"
+      },
+      {
+        "sentence": "Avoid the peak traffic hours"
+      },
+      {
+        "sentence": "I should be able to deploy domain X independently of domain Y."
+      },
+      {
+        "sentence": "Is it just me, or can no one else log into the dashboard?"
+      },
+      {
+        "sentence": "We seek the easiest way to solve this problem"
+      },
+      {
+        "sentence": "Redux is tightly coupled to the logic"
       }
     ]
   },
@@ -424,6 +523,21 @@
       },
       {
         "sentence": "Perhaps, I didn't express myself clearly"
+      },
+      {
+        "sentence": "That's the end of my demo"
+      },
+      {
+        "sentence": "That's pretty much it."
+      },
+      {
+        "sentence": "Did the release succeed?"
+      },
+      {
+        "sentence": "Did it occur?"
+      },
+      {
+        "sentence": ""
       }
     ]
   },
