@@ -392,6 +392,27 @@
       },
       {
         "sentence": "Redux is tightly coupled to the logic"
+      },
+      {
+        "sentence": "One problem of monolish repo is it can't enable granular deployment."
+      },
+      {
+        "sentence": "This list is sorted in descending order by creation time"
+      },
+      {
+        "sentence": "This list is sorted in ascending order by creation time"
+      },
+      {
+        "sentence": "Without risking website downtime"
+      },
+      {
+        "sentence": "In some cases, you may want to explicitlu annotate the type of the computed property to ensure its implementation is correct"
+      },
+      {
+        "sentence": "TypeScript can also improves developer ergonomics via type-based auto-completion in IDEs"
+      },
+      {
+        "sentence": "This piece of code can be shortened into xxx"
       }
     ]
   },
