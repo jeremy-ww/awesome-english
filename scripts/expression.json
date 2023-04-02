@@ -31,6 +31,12 @@
       },
       {
         "sentence": "Who are you asking?"
+      },
+      {
+        "sentence": "To sum it up,"
+      },
+      {
+        "sentence": "Let's meet on 22rd (twenty-second) of this month."
       }
     ]
   },
@@ -266,6 +272,27 @@
       },
       {
         "sentence": "Is there an estimated completion time for this task?"
+      },
+      {
+        "sentence": "This is a temporary solution, "
+      },
+      {
+        "sentence": "This is library is not well maintained"
+      },
+      {
+        "sentence": "This endpoint hasn't had time to propagate throughout the CDN"
+      },
+      {
+        "sentence": "I prefer One-and-done solution",
+      },
+      {
+        "sentence": "We had to come up with a solution that would solve this problem once and for all"
+      },
+      {
+        "sentence": "I don't see why not"
+      },
+      {
+        "sentence": "I bring it up because xxx"
       }
     ]
   },
@@ -391,6 +418,12 @@
       },
       {
         "sentence": "Type-safety outweighs convinience."
+      },
+      {
+        "sentence": "Sorry, we are running out of time."
+      },
+      {
+        "sentence": "Perhaps, I didn't express myself clearly"
       }
     ]
   },
