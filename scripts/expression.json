@@ -19,6 +19,18 @@
       },
       {
         "sentence": "I majored in CS."
+      },
+      {
+        "sentence": "Don't be afraid to make mistakes"
+      },
+      {
+        "sentence": "I am concerned that ",
+      },
+      {
+        "sentence": "That being said, "
+      },
+      {
+        "sentence": "Who are you asking?"
       }
     ]
   },
@@ -206,6 +218,54 @@
       },
       {
         "sentence": "So don't need to start over again."
+      },
+      {
+        "sentence": "Steep learning curve"
+      },
+      {
+        "sentence": "All our customer service specialists are well versed in all watches and will walk you through every step of the way"
+      },
+      {
+        "sentence": "Efficiently updates the DOM when changes happen"
+      },
+      {
+        "sentence": "I used Vue for a year 4 years ago"
+      },
+      {
+        "sentence": "Jump right into the project"
+      },
+      {
+        "sentence": "Define the API contract with our backend"
+      },
+      {
+        "sentence": "So you don't need to keep the track of sth."
+      },
+      {
+        "sentence": "We better come up with a better way"
+      },
+      {
+        "sentence": "This is rarely used nowadays"
+      },
+      {
+        "sentence": "It used to be exclusive to React, but has since evolved into a framework-agnostic"
+      },
+      {
+        "sentence": "It's worth trying"
+      },
+      {
+        "sentence": "To be precise"
+      },
+      {
+        "sentence": "I took a brief look at sth."
+      },
+      {
+        "sentence": "I took a cursory look at sth."
+      },
+      {
+        "sentence": "Production-grade"
+      },
+      {
+        "sentence": "Is there an estimated completion time for this task?"
       }
     ]
   },
@@ -328,6 +388,9 @@
       },
       {
         "sentence": "I'm afraid that I don't follow you. Could you clarify what you mean by that?"
+      },
+      {
+        "sentence": "Type-safety outweighs convinience."
       }
     ]
   },
@@ -375,6 +438,9 @@
       },
       {
         "sentence": "I want to update you on xxx"
+      },
+      {
+        "sentence": "I have to snooze the noficiation"
       }
     ]
   }

@@ -162,6 +162,9 @@
   {
     "type": "engineering",
     "content": [
+      "accumulated",
+      "compromise",
+      "deterministic",
       "redundancy",
       "resilient",
       "opaque",
@@ -716,6 +719,8 @@
   {
     "type": "employment",
     "content": [
+      "predict",
+      "probation",
       "clock-in",
       "clock-out",
       "diverse",
