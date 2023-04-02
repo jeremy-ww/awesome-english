@@ -24,7 +24,7 @@
         "sentence": "Don't be afraid to make mistakes"
       },
       {
-        "sentence": "I am concerned that ",
+        "sentence": "I am concerned that "
       },
       {
         "sentence": "That being said, "
@@ -316,7 +316,7 @@
         "sentence": "This endpoint hasn't had time to propagate throughout the CDN"
       },
       {
-        "sentence": "I prefer One-and-done solution",
+        "sentence": "I prefer One-and-done solution"
       },
       {
         "sentence": "We had to come up with a solution that would solve this problem once and for all"
@@ -535,9 +535,6 @@
       },
       {
         "sentence": "Did it occur?"
-      },
-      {
-        "sentence": ""
       }
     ]
   },
