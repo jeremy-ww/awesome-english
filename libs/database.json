@@ -1284,6 +1284,12 @@
           "reference": ""
         },
         {
+          "word": "autocomplete",
+          "origin": ["/audios/autocomplete.mp3"],
+          "phonetics": ["[TBD]"],
+          "reference": ""
+        },
+        {
           "word": "avatar",
           "origin": ["/audios/avatar.mp3"],
           "phonetics": ["[ˈævətɑːr]", "[ˈævətɑː(r)]"],
@@ -1784,6 +1790,12 @@
           "reference": ""
         },
         {
+          "word": "existence",
+          "origin": ["/audios/existence.mp3"],
+          "phonetics": ["[ɪɡˈzɪstəns]"],
+          "reference": ""
+        },
+        {
           "word": "expiry",
           "origin": ["/audios/expiry.mp3"],
           "phonetics": ["[ɪkˈspaɪəri]"],
@@ -1895,6 +1907,12 @@
           "word": "gradient",
           "origin": ["/audios/gradient.mp3"],
           "phonetics": ["[ˈɡreɪdiənt]"],
+          "reference": ""
+        },
+        {
+          "word": "granular",
+          "origin": ["/audios/granular.mp3"],
+          "phonetics": ["[ˈɡrænjələr]", "[ˈɡrænjələ(r)]"],
           "reference": ""
         },
         {
@@ -4911,7 +4929,18 @@
         { "sentence": "I should be able to deploy domain X independently of domain Y." },
         { "sentence": "Is it just me, or can no one else log into the dashboard?" },
         { "sentence": "We seek the easiest way to solve this problem" },
-        { "sentence": "Redux is tightly coupled to the logic" }
+        { "sentence": "Redux is tightly coupled to the logic" },
+        { "sentence": "One problem of monolish repo is it can't enable granular deployment." },
+        { "sentence": "This list is sorted in descending order by creation time" },
+        { "sentence": "This list is sorted in ascending order by creation time" },
+        { "sentence": "Without risking website downtime" },
+        {
+          "sentence": "In some cases, you may want to explicitlu annotate the type of the computed property to ensure its implementation is correct"
+        },
+        {
+          "sentence": "TypeScript can also improves developer ergonomics via type-based auto-completion in IDEs"
+        },
+        { "sentence": "This piece of code can be shortened into xxx" }
       ]
     },
     {
