@@ -592,6 +592,156 @@
       },
       {
         "sentence": "This is referring to if I'm a A to do B"
+      },
+      {
+        "sentence": "Attached is the link for xxx"
+      },
+      {
+        "sentence": "As we are still missing a few people"
+      },
+      {
+        "sentence": "Let me begin with a brief breakdown of the meeting"
+      },
+      {
+        "sentence": "The agenda for the meeting is as follows"
+      },
+      {
+        "sentence": "Paul is going to start us off with a reminder of the yearly targets."
+      },
+      {
+        "sentence": "Let’s kick off with a quick introduction by each participant."
+      },
+      {
+        "sentence": "Just to clarify, are you saying that…?"
+      },
+      {
+        "sentence": "Did everyone get that? Did I make myself clear? Are we all good on this point?"
+      },
+      {
+        "sentence": "I’m sorry I think we missed something, the video was stuck/frozen for a minute or two. Could you repeat what you said?"
+      },
+      {
+        "sentence": "Barry, I’m having trouble hearing you, have you unmuted?"
+      },
+      {
+        "sentence": "There seems to be a lot of background noise, Sanjay, could you repeat that?"
+      },
+      {
+        "sentence": "As we’re experiencing a poor internet connection today, could everyone turn off their cameras so that we can hear each other better?"
+      },
+      {
+        "sentence": "Did you raise your hand, Sarah, or is that historical?"
+      },
+      {
+        "sentence": "Please turn your mic on!"
+      },
+      {
+        "sentence": "I’m going to share my screen with you…can you all see my screen now?"
+      },
+      {
+        "sentence": "Sorry about that, I got kicked out, but I’m back now."
+      },
+      {
+        "sentence": "Could you scroll down to show everyone the graphs please, Mike?"
+      },
+      {
+        "sentence": "I’d like to record this session so it is accessible to members who couldn’t participate today. Is that okay with everyone?"
+      },
+      {
+        "sentence": "Moving on to our next item on the agenda, xxx"
+      },
+      {
+        "sentence": "Do you have anything to add to that, Mr. Wong?"
+      },
+      {
+        "sentence": "Sorry to interrupt but may I ask a quick question?"
+      },
+      {
+        "sentence": "Could I ask a quick question related to … before we move on?"
+      },
+      {
+        "sentence": "I have nothing further to add to that at the moment."
+      },
+      {
+        "sentence": "Bear with me for a moment while I find the correct file."
+      },
+      {
+        "sentence": "Sorry that raised hand is historical."
+      },
+      {
+        "sentence": "Just to recap…"
+      },
+      {
+        "sentence": "We’re running out of time so let’s wrap up and close the call."
+      },
+      {
+        "sentence": "I just want to say thanks everyone for an informative meeting!"
+      },
+      {
+        "sentence": "I just got disconnected, can everyone hear me now?"
+      },
+      {
+        "sentence": "May I continue?"
+      },
+      {
+        "sentence": "Do you mind checking your phone?"
+      },
+      {
+        "sentence": "Could I add something quickly?"
+      },
+      {
+        "sentence": "I'd like to hand over to John now"
+      },
+      {
+        "sentence": "That's all for today. Thanks everyone for participation."
+      },
+      {
+        "sentence": "Has everybody joined? Are we all here?"
+      },
+      {
+        "sentence": "Are we missing anyone?"
+      },
+      {
+        "sentence": "Could you speak up, please?"
+      },
+      {
+        "sentence": "I think your camera is off"
+      },
+      {
+        "sentence": "You are lagging"
+      },
+      {
+        "sentence": "Hi Jason, are you there?"
+      },
+      {
+        "sentence": "It was a great catching up with you all. I'm going to end the call now."
+      },
+      {
+        "sentence": "Let's me share my screen with you all."
+      },
+      {
+        "sentence": "See you next time online"
+      },
+      {
+        "sentence": "Let’s kick off by reviewing the results of xxx"
+      },
+      {
+        "sentence": "Let’s wrap up this meeting"
+      },
+      {
+        "sentence": "If no one has anything else to say, I think we'll wrap this up."
+      },
+      {
+        "sentence": "It looks like we've run out of time, so I guess we'll finish here."
+      },
+      {
+        "sentence": "We've covered all of the items in the agenda for today. Let‘s finish up here."
+      },
+      {
+        "sentence": "I‘m afraid we're going to have to cut this meeting short."
+      },
+      {
+        "sentence": "Let’s call it a day."
       }
     ]
   },
