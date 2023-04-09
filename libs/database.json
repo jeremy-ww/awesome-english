@@ -10,6 +10,12 @@
           "reference": ""
         },
         {
+          "word": "absolutely",
+          "origin": ["/audios/absolutely.mp3"],
+          "phonetics": ["[ˌæbsəˈluːtli]", "[ˈæbsəluːtli]"],
+          "reference": ""
+        },
+        {
           "word": "accepts",
           "origin": ["/audios/accepts.mp3"],
           "phonetics": ["[əkˈsepts]"],
@@ -43,6 +49,12 @@
           "word": "adaptable",
           "origin": ["/audios/adaptable.mp3"],
           "phonetics": ["[əˈdæptəb(ə)l]"],
+          "reference": ""
+        },
+        {
+          "word": "adequate",
+          "origin": ["/audios/adequate.mp3"],
+          "phonetics": ["[ˈædɪkwət]"],
           "reference": ""
         },
         {
@@ -166,6 +178,12 @@
           "reference": ""
         },
         {
+          "word": "buzzword",
+          "origin": ["/audios/buzzword.mp3"],
+          "phonetics": ["[ˈbʌzwɜːrd]", "[ˈbʌzwɜːd]"],
+          "reference": ""
+        },
+        {
           "word": "capability",
           "origin": ["/audios/capability.mp3"],
           "phonetics": ["[ˌkeɪpəˈbɪləti]"],
@@ -217,6 +235,12 @@
           "word": "commerce",
           "origin": ["/audios/commerce.mp3"],
           "phonetics": ["[ˈkɑːmɜːrs]", "[ˈkɒmɜːs]"],
+          "reference": ""
+        },
+        {
+          "word": "compact",
+          "origin": ["/audios/compact.mp3"],
+          "phonetics": ["[kəmˈpækt]"],
           "reference": ""
         },
         {
@@ -425,6 +449,12 @@
           "reference": ""
         },
         {
+          "word": "feasible",
+          "origin": ["/audios/feasible.mp3"],
+          "phonetics": ["[ˈfiːzəb(ə)l]"],
+          "reference": ""
+        },
+        {
           "word": "fiscal",
           "origin": ["/audios/fiscal.mp3"],
           "phonetics": ["[ˈfɪsk(ə)l]"],
@@ -497,6 +527,12 @@
           "reference": ""
         },
         {
+          "word": "idioms",
+          "origin": ["/audios/idioms.mp3"],
+          "phonetics": ["[ˈɪdɪəm]", "[TBD]"],
+          "reference": ""
+        },
+        {
           "word": "increasingly",
           "origin": ["/audios/increasingly.mp3"],
           "phonetics": ["[ɪnˈkriːsɪŋli]"],
@@ -515,9 +551,21 @@
           "reference": ""
         },
         {
+          "word": "intonation",
+          "origin": ["/audios/intonation.mp3"],
+          "phonetics": ["[ˌɪntəˈneɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
           "word": "invitation",
           "origin": ["/audios/invitation.mp3"],
           "phonetics": ["[ˌɪnvɪˈteɪʃ(ə)n]"],
+          "reference": ""
+        },
+        {
+          "word": "jargon",
+          "origin": ["/audios/jargon.mp3"],
+          "phonetics": ["[ˈdʒɑːrɡən]", "[ˈdʒɑːɡən]"],
           "reference": ""
         },
         {
@@ -857,6 +905,12 @@
           "reference": ""
         },
         {
+          "word": "settled",
+          "origin": ["/audios/settled.mp3"],
+          "phonetics": ["[ˈsetld]", "[ˈset(ə)ld]"],
+          "reference": ""
+        },
+        {
           "word": "significant",
           "origin": ["/audios/significant.mp3"],
           "phonetics": ["[sɪɡˈnɪfɪkənt]"],
@@ -872,6 +926,12 @@
           "word": "sincere",
           "origin": ["/audios/sincere.mp3"],
           "phonetics": ["[sɪnˈsɪr]", "[sɪnˈsɪə(r)]"],
+          "reference": ""
+        },
+        {
+          "word": "slangs",
+          "origin": ["/audios/slangs.mp3"],
+          "phonetics": ["[slæŋ]"],
           "reference": ""
         },
         {
@@ -4776,6 +4836,8 @@
     {
       "type": "general",
       "content": [
+        { "sentence": "I knew it from the first sight" },
+        { "sentence": "I'm super keen to improve sth." },
         { "sentence": "I appreciate it." },
         { "sentence": "I would be grateful" },
         { "sentence": "Please accept my heartfelt thanks." },
@@ -4940,7 +5002,18 @@
         {
           "sentence": "TypeScript can also improves developer ergonomics via type-based auto-completion in IDEs"
         },
-        { "sentence": "This piece of code can be shortened into xxx" }
+        { "sentence": "This piece of code can be shortened into xxx" },
+        { "sentence": "Stumbled uponn a warning that only occurs when using xxx acount" },
+        { "sentence": "Anyone knows who I should reach to?" },
+        { "sentence": "Let's put it to a vote." },
+        { "sentence": "I just want to circle back on the sth." },
+        { "sentence": "But I'm burning the candle at both ends here" },
+        { "sentence": "I'm afraid it's unrealisitic, we have no capacity for this." },
+        { "sentence": "Let me put you on a quick hold and touch base with sb." },
+        { "sentence": "Wanna pick your brain on sth." },
+        { "sentence": "From a macro standpoint, we gotta get granular" },
+        { "sentence": "Loop sb. in" },
+        { "sentence": "Write a function with these criteria" }
       ]
     },
     {
@@ -4967,6 +5040,24 @@
     {
       "type": "presentation",
       "content": [
+        { "sentence": "It takes more time to do A than to do B." },
+        { "sentence": "Have you finished speaking?" },
+        { "sentence": "Shall we put it off?" },
+        { "sentence": "At the beginning of the project, this is understandable." },
+        { "sentence": "Somtime you have to strike a balance between A and B" },
+        { "sentence": "Quite a few of devs are asking for that feature." },
+        { "sentence": "Shock out to sb. for contributing sth." },
+        { "sentence": "Pehaps we can make a start." },
+        { "sentence": "Okay, let's begin" },
+        { "sentence": "I'll take that as no." },
+        { "sentence": "Let's go over today's agenda, and welcome the new hires" },
+        {
+          "sentence": "If nobody has anything elso to add, we can continue on to the next item/point."
+        },
+        { "sentence": "I'd like to turn it over to sb. who is in charge of sth." },
+        { "sentence": "Before we close, let me just summarize the main points" },
+        { "sentence": "Are there any questions before we finish?" },
+        { "sentence": "No? Great. Thank you all for attending. That's all for today." },
         { "sentence": "You are breaking up." },
         { "sentence": "I did't catch that." },
         { "sentence": "I didn't follow." },
@@ -5007,7 +5098,71 @@
         { "sentence": "Speaking of UT, xxx" },
         { "sentence": "We can sync up after this meeting" },
         { "sentence": "From the FE perspective" },
-        { "sentence": "This is referring to if I'm a A to do B" }
+        { "sentence": "This is referring to if I'm a A to do B" },
+        { "sentence": "Attached is the link for xxx" },
+        { "sentence": "As we are still missing a few people" },
+        { "sentence": "Let me begin with a brief breakdown of the meeting" },
+        { "sentence": "The agenda for the meeting is as follows" },
+        { "sentence": "Paul is going to start us off with a reminder of the yearly targets." },
+        { "sentence": "Let’s kick off with a quick introduction by each participant." },
+        { "sentence": "Just to clarify, are you saying that…?" },
+        {
+          "sentence": "Did everyone get that? Did I make myself clear? Are we all good on this point?"
+        },
+        {
+          "sentence": "I’m sorry I think we missed something, the video was stuck/frozen for a minute or two. Could you repeat what you said?"
+        },
+        { "sentence": "Barry, I’m having trouble hearing you, have you unmuted?" },
+        {
+          "sentence": "There seems to be a lot of background noise, Sanjay, could you repeat that?"
+        },
+        {
+          "sentence": "As we’re experiencing a poor internet connection today, could everyone turn off their cameras so that we can hear each other better?"
+        },
+        { "sentence": "Did you raise your hand, Sarah, or is that historical?" },
+        { "sentence": "Please turn your mic on!" },
+        { "sentence": "I’m going to share my screen with you…can you all see my screen now?" },
+        { "sentence": "Sorry about that, I got kicked out, but I’m back now." },
+        { "sentence": "Could you scroll down to show everyone the graphs please, Mike?" },
+        {
+          "sentence": "I’d like to record this session so it is accessible to members who couldn’t participate today. Is that okay with everyone?"
+        },
+        { "sentence": "Moving on to our next item on the agenda, xxx" },
+        { "sentence": "Do you have anything to add to that, Mr. Wong?" },
+        { "sentence": "Sorry to interrupt but may I ask a quick question?" },
+        { "sentence": "Could I ask a quick question related to … before we move on?" },
+        { "sentence": "I have nothing further to add to that at the moment." },
+        { "sentence": "Bear with me for a moment while I find the correct file." },
+        { "sentence": "Sorry that raised hand is historical." },
+        { "sentence": "Just to recap…" },
+        { "sentence": "We’re running out of time so let’s wrap up and close the call." },
+        { "sentence": "I just want to say thanks everyone for an informative meeting!" },
+        { "sentence": "I just got disconnected, can everyone hear me now?" },
+        { "sentence": "May I continue?" },
+        { "sentence": "Do you mind checking your phone?" },
+        { "sentence": "Could I add something quickly?" },
+        { "sentence": "I'd like to hand over to John now" },
+        { "sentence": "That's all for today. Thanks everyone for participation." },
+        { "sentence": "Has everybody joined? Are we all here?" },
+        { "sentence": "Are we missing anyone?" },
+        { "sentence": "Could you speak up, please?" },
+        { "sentence": "I think your camera is off" },
+        { "sentence": "You are lagging" },
+        { "sentence": "Hi Jason, are you there?" },
+        { "sentence": "It was a great catching up with you all. I'm going to end the call now." },
+        { "sentence": "Let's me share my screen with you all." },
+        { "sentence": "See you next time online" },
+        { "sentence": "Let’s kick off by reviewing the results of xxx" },
+        { "sentence": "Let’s wrap up this meeting" },
+        { "sentence": "If no one has anything else to say, I think we'll wrap this up." },
+        { "sentence": "It looks like we've run out of time, so I guess we'll finish here." },
+        {
+          "sentence": "We've covered all of the items in the agenda for today. Let‘s finish up here."
+        },
+        { "sentence": "I‘m afraid we're going to have to cut this meeting short." },
+        { "sentence": "Let’s call it a day." },
+        { "sentence": "Now that everyone is here, shall we begin?" },
+        { "sentence": "Let's get down to business" }
       ]
     },
     {

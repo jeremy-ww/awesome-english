@@ -3,6 +3,12 @@
     "type": "general",
     "content": [
       {
+        "sentence": "I knew it from the first sight"
+      },
+      {
+        "sentence": "I'm super keen to improve sth."
+      },
+      {
         "sentence": "I appreciate it."
       },
       {
@@ -443,6 +449,9 @@
       },
       {
         "sentence": "Loop sb. in"
+      },
+      {
+        "sentence": "Write a function with these criteria"
       }
     ]
   },
@@ -518,6 +527,27 @@
   {
     "type": "presentation",
     "content": [
+      {
+        "sentence": "It takes more time to do A than to do B."
+      },
+      {
+        "sentence": "Have you finished speaking?"
+      },
+      {
+        "sentence": "Shall we put it off?"
+      },
+      {
+        "sentence": "At the beginning of the project, this is understandable."
+      },
+      {
+        "sentence": "Somtime you have to strike a balance between A and B"
+      },
+      {
+        "sentence": "Quite a few of devs are asking for that feature."
+      },
+      {
+        "sentence": "Shock out to sb. for contributing sth."
+      },
       {
         "sentence": "Pehaps we can make a start."
       },
